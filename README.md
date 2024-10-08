@@ -2,7 +2,7 @@
 
 Curso: Sistema de Informação
 
-Integrantes: Jhonatha Torres, Kayth Kariny, Susie Laureen, Thiago bruce
+Integrantes: Jhonatha Torres, Kayth Kariny, Susie Laureen, Thiago Bruce
 
 Docente: Andrey Rodrigues
 
