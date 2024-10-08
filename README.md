@@ -1,6 +1,6 @@
 # TP1 - IHC
 
-Curso: Sistema de Informação
+Curso: Sistemas de Informação
 
 Integrantes: Jhonatha Torres, Kayth Kariny, Susie Laureen, Thiago Bruce
 
