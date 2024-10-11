@@ -42,5 +42,7 @@ Assinatura: ___________________________
 
 **Avaliador**  
 Nome: Jhonatha Torres Santos Souza  
-Assinatura: ___________________________
+Assinatura:![Captura de tela 2024-10-10 212620](https://github.com/user-attachments/assets/dd08136b-72c7-452e-a75a-fe0a9e76eddb) 
+
+
 
