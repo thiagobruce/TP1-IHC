@@ -1,6 +1,10 @@
-# TP1 - IHC
+# Introdução
+
+Trabalho prático 1
 
 Curso: Sistemas de Informação
+
+Disciplina: Interação Humano-computador
 
 Integrantes: Jhonatha Torres, Kayth Kariny, Susie Laureen, Thiago Bruce
 
@@ -8,10 +12,7 @@ Docente: Andrey Rodrigues
 
 Sistema: Siri Cascudo Cardápio
 
-## Descrição do sistema
-  1. Objetivo do sistema e perfil de usuários
-     1.1 Domínio e objetivo do sistema
-     1.2 Perfil dos usuários-alvo
+Link para Apresentação: 
 
 
 
