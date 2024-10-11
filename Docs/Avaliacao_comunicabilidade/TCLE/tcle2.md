@@ -2,7 +2,7 @@
 
 ## Estudo: “Método de Avaliação de Comunicabilidade (MAC)”
 
-### Prezada Thiago Fragata,
+### Prezado Thiago Fragata,
 
 Você está sendo convidada a participar de uma avaliação de comunicabilidade na qual será abordada a interação com o sistema **Site do Siri Cascudo** em um ambiente controlado. O objetivo da avaliação é investigar a qualidade da metacomunicação do designer para os usuários. Sua participação na avaliação não é obrigatória.
 
