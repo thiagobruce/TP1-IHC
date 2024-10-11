@@ -4,7 +4,7 @@ Trabalho prático 1
 
 Curso: Sistemas de Informação
 
-Disciplina: Interação Humano-computador
+Disciplina: Interação Humano-Computador
 
 Docente: Andrey Rodrigues
 
