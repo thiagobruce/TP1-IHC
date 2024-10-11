@@ -2,9 +2,9 @@
 
 ## Estudo: “Método de Avaliação de Comunicabilidade (MAC)”
 
-### Prezado Thiago Fragata,
+### Prezado Victor Queiroz Barbosa,
 
-Você está sendo convidada a participar de uma avaliação de comunicabilidade na qual será abordada a interação com o sistema **Site do Siri Cascudo** em um ambiente controlado. O objetivo da avaliação é investigar a qualidade da metacomunicação do designer para os usuários. Sua participação na avaliação não é obrigatória.
+Você está sendo convidado a participar de uma avaliação de comunicabilidade na qual será abordada a interação com o sistema **Site do Siri Cascudo** em um ambiente controlado. O objetivo da avaliação é investigar a qualidade da metacomunicação do designer para os usuários. Sua participação na avaliação não é obrigatória.
 
 ### 1. Procedimento
 O método MAC será utilizado como critério de qualidade de uso do sistema **Site do Siri Cascudo**. Você irá utilizar o método para avaliar a comunicabilidade das atividades selecionadas da aplicação em questão. Para participar deste estudo, solicito a sua especial colaboração em:  
@@ -32,12 +32,12 @@ O responsável pela avaliação poderá fornecer qualquer esclarecimento ou tira
 Li ou alguém leu para mim as informações contidas neste documento antes de assinar este termo de consentimento. Declaro que toda a linguagem técnica foi explicada de forma satisfatória e que recebi respostas para todas as minhas dúvidas. Confirmo também que recebi uma cópia deste Termo de Consentimento Livre e Esclarecido. Compreendo que sou livre para me retirar do estudo a qualquer momento, sem qualquer penalidade. Declaro ter mais de 18 anos e dou meu consentimento de livre e espontânea vontade para participar deste estudo.
 
 **Local**: Santa Luzia(Casa *Numero*)  
-**Data**: /10/2024
+**Data**: 11/10/2024
 
 ---
 
 **Participante**  
-Nome: 
+Nome: Victor Queiroz Barbosa
 
 Assinatura: ___________________________
 
