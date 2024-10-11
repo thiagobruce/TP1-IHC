@@ -26,7 +26,7 @@ Toda informação coletada neste estudo é confidencial, e seu nome não será i
 Sua participação neste estudo é voluntária. Você tem o direito de não participar ou de sair deste estudo a qualquer momento, sem penalidades. Caso deseje se retirar, favor notificar o avaliador responsável.
 
 O responsável pela avaliação poderá fornecer qualquer esclarecimento ou tirar dúvidas. Entre em contato através do email:  
-**SusieMarques333@gmail.com**
+**Susie.laureen.farias@gmail.com**
 
 ### 6. Declaração de Consentimento
 Li ou alguém leu para mim as informações contidas neste documento antes de assinar este termo de consentimento. Declaro que toda a linguagem técnica foi explicada de forma satisfatória e que recebi respostas para todas as minhas dúvidas. Confirmo também que recebi uma cópia deste Termo de Consentimento Livre e Esclarecido. Compreendo que sou livre para me retirar do estudo a qualquer momento, sem qualquer penalidade. Declaro ter mais de 18 anos e dou meu consentimento de livre e espontânea vontade para participar deste estudo.
