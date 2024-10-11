@@ -1,7 +1,9 @@
-| ID  | Descrição do problema | Classificação   |
-| --- | --------------------- | --------------- |
-| 1   |                       | Defeito real    |
-| 2   |                       | Falso-positivo  |
-| 3   |                       |                 |
-| 4   |                       |                 |
+TABELA DE DISCRIMINAÇÃO
+
+| ID  | Descrição do problema | Classificação   | Severidade| 
+| --- | --------------------- | --------------- |-----------|
+| 1   |                       | Defeito real    |     3     |
+| 2   |                       | Falso-positivo  |     0     |
+| 3   |                       |                 |           |
+| 4   |                       |                 |           |
 
