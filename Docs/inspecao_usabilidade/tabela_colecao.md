@@ -1,5 +1,5 @@
 
-COLEÇÃO
+## TABELA DE COLEÇÃO
 
 | ID  | Inspetores | Descrição do problema | Heurísticas Violadas | Severidade |
 | --- | ---------- | --------------------- | -------------------- | ---------- |
