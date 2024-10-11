@@ -1,4 +1,4 @@
-TABELA DE DISCRIMINAÇÃO
+# TABELA DE DISCRIMINAÇÃO
 
 | ID  | Descrição do problema | Classificação   | Severidade| 
 | --- | --------------------- | --------------- |-----------|
