@@ -1,22 +1,7 @@
 
-**QUESTIONÁRIO UX**
+## **QUESTIONÁRIO UX**
 
-USUÁRIO 1:
-
-|                |                                                |                |
-|----------------|------------------------------------------------|----------------|
-| Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Condutor       |
-| Complicado     | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Fácil          |
-| Ineficiente    | ○ ○ ○ ○ ○ ○ ○ ○                                | Eficiente      |
-| Confuso        | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Evidente       |
-| Aborrecido     | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Excitante      |
-| Desinteressante| ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Interessante   |
-| Convencional   | ○ ○ ○ ○ ○ ○ ○ ○                                | Original       |
-| Comum          | ○ ○ ○ ○ ○ ○ ○ ○                                | Vanguardista   |
-
-
-
-USUÁRIO 2:
+**USUÁRIO 1:**
 
 |                |                                                |                |
 |----------------|------------------------------------------------|----------------|
@@ -30,7 +15,8 @@ USUÁRIO 2:
 | Comum          | ○ ○ ○ ○ ○ ○ ○ ○                                | Vanguardista   |
 
 
-USUÁRIO 3:
+
+**USUÁRIO 2:**
 
 |                |                                                |                |
 |----------------|------------------------------------------------|----------------|
@@ -44,7 +30,21 @@ USUÁRIO 3:
 | Comum          | ○ ○ ○ ○ ○ ○ ○ ○                                | Vanguardista   |
 
 
-USUÁRIO 4:
+**USUÁRIO 3:**
+
+|                |                                                |                |
+|----------------|------------------------------------------------|----------------|
+| Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Condutor       |
+| Complicado     | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Fácil          |
+| Ineficiente    | ○ ○ ○ ○ ○ ○ ○ ○                                | Eficiente      |
+| Confuso        | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Evidente       |
+| Aborrecido     | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Excitante      |
+| Desinteressante| ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Interessante   |
+| Convencional   | ○ ○ ○ ○ ○ ○ ○ ○                                | Original       |
+| Comum          | ○ ○ ○ ○ ○ ○ ○ ○                                | Vanguardista   |
+
+
+**USUÁRIO 4:**
 
 |                |                                                |                |
 |----------------|------------------------------------------------|----------------|
