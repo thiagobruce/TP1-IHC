@@ -35,11 +35,13 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 
 **Data**: 11/10/2024
 
+
 ---
 
 **Participante**  
 **Assinatura**  
-Nome: Victor Queiroz Barbosa 
+Nome: Victor Queiroz Barbosa
+
 Assinatura:
 
 <img src="https://github.com/user-attachments/assets/8d3d636c-6e94-4e30-8b64-70f52ea08e8b" alt="assinaturavictor" width="300"/>
