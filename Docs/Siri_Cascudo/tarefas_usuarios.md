@@ -1,4 +1,4 @@
-## Etapas para os Usuários seguirem:
+## Etapas para os usuários seguirem:
 
 1. **Localizar o botão de "Login" ou "Cadastro"** e criar uma nova conta ou fazer login na sua conta.
 
