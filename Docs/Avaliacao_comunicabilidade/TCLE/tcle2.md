@@ -38,11 +38,12 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 ---
 
 **Participante**  
-Nome: Victor Queiroz Barbosa
-
-Assinatura: ![assinaturavictor](https://github.com/user-attachments/assets/8d3d636c-6e94-4e30-8b64-70f52ea08e8b)
+**Assinatura de Victor Queiroz Barbosa**  
+Nome: Victor Queiroz Barbosa  
+Assinatura: <img src="https://github.com/user-attachments/assets/8d3d636c-6e94-4e30-8b64-70f52ea08e8b" alt="assinaturavictor" width="150"/>
 
 **Avaliador**  
-Nome: Kayth Kariny Marques Pinheiro
-Assinatura: ![assinaturakayth](https://github.com/user-attachments/assets/54aa30f8-c1c2-4d71-bee7-6cbe7b65a57a)
+Nome: Kayth Kariny Marques Pinheiro  
+Assinatura: <img src="https://github.com/user-attachments/assets/54aa30f8-c1c2-4d71-bee7-6cbe7b65a57a" alt="assinaturakayth" width="150"/>
+
 
