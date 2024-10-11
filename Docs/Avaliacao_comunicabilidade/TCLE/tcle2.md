@@ -40,9 +40,9 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 **Participante**  
 Nome: Victor Queiroz Barbosa
 
-Assinatura: ___________________________
+Assinatura: ![assinaturavictor](https://github.com/user-attachments/assets/8d3d636c-6e94-4e30-8b64-70f52ea08e8b)
 
 **Avaliador**  
 Nome: Kayth Kariny Marques Pinheiro
-Assinatura: ___________________________
+Assinatura: ![assinaturakayth](https://github.com/user-attachments/assets/98890218-b6cf-4ad4-89a0-94357ef58b08)
 
