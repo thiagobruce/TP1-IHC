@@ -44,5 +44,5 @@ Assinatura: ![assinaturavictor](https://github.com/user-attachments/assets/8d3d6
 
 **Avaliador**  
 Nome: Kayth Kariny Marques Pinheiro
-Assinatura: ![assinaturakayth](https://github.com/user-attachments/assets/98890218-b6cf-4ad4-89a0-94357ef58b08)
+Assinatura: ![assinaturakayth](https://github.com/user-attachments/assets/54aa30f8-c1c2-4d71-bee7-6cbe7b65a57a)
 
