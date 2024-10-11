@@ -1,4 +1,4 @@
-# DETECÇÃO
+# TABELA DE DETECÇÃO
 
 **Inspetor**: A1
 
