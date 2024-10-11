@@ -1,6 +1,6 @@
 # Introdução
 
-Trabalho prático 1
+Trabalho Prático 1
 
 Curso: Sistemas de Informação
 
