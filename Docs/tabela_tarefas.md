@@ -3,6 +3,7 @@
 - **A2**: **Kayth Kariny Marques Pinheiro #22251969**
 - **A3**: **Susie Laureen Marques Farias #22250831**
 - **A4**: **Thiago Bruce Torres #22252679**
+<br/>
 
 - **T1: Formatação do github**
 - **T2: Inspeção de usabilidade**
