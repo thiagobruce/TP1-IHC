@@ -1,6 +1,6 @@
 
 - **A1**: **Jhonatha Torres Santos Sousa**
-- **A2**: **kayth kariny Marques Pinheiro**
+- **A2**: **Kayth Kariny Marques Pinheiro**
 - **A3**: **Susie Saureen Marques Farias**
 - **A4**: **Thiago Bruce Torres**
 
