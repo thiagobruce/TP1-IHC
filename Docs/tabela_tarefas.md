@@ -1,8 +1,8 @@
 
-- **A1**: Jhonatha Torres Santos Sousa
-- **A2**: kayth kariny Marques Pinheiro
-- **A3**: Susie Saureen Marques Farias
-- **A4**: Thiago Bruce Torres
+- **A1**: **Jhonatha Torres Santos Sousa**
+- **A2**: **kayth kariny Marques Pinheiro**
+- **A3**: **Susie Saureen Marques Farias**
+- **A4**: **Thiago Bruce Torres**
 
 | Mês | Tarefa x Dia                                       | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   | 13   | 14   | 15   |
 |-----|----------------------------------------------------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
