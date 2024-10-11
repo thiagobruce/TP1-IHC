@@ -43,5 +43,5 @@ Assinatura: ___________________________
 
 **Avaliador**  
 Nome: Thiago Bruce Torres   
-Assinatura: ___________________________
+Assinatura: ![Captura de tela 2024-19-11 135538](___________________________
 
