@@ -8,12 +8,12 @@ Através do site, os usuários podem acessar um cardápio variado, realizar pedi
 
 ### Principais Funcionalidades
 
-- **Navegação simples** do cardápio.
+- **Navegação** do cardápio.
 - **Opção de personalização** de lanches, como escolha de adicionais e complementos.
 - **Sistema de checkout seguro**, com opções de pagamento.
 - **Notificações sobre o status do pedido**.
 
-A plataforma foi criada para modernizar e agilizar o processo de pedidos, proporcionando aos clientes uma experiência digital completa e conveniente.
+A plataforma foi criada para modernizar e agilizar o processo de pedidos, proporcionando aos clientes uma experiência digital e conveniente.
 
 
 ## 2.2 Perfil dos usuários-alvo
