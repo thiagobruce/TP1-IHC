@@ -1,4 +1,4 @@
-# Capítulo 2 - Objetivo do sistema e perfis dos usuários
+# 2 - Objetivo do sistema e perfis dos usuários
 
 ## 2.1 Domínio e objetivo do sistema
 
