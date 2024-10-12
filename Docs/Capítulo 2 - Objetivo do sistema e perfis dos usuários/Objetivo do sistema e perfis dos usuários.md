@@ -13,9 +13,6 @@ Através do site, os usuários podem acessar um cardápio variado, realizar pedi
 - **Sistema de checkout seguro**, com opções de pagamento.
 - **Notificações sobre o status do pedido**.
 
-A plataforma foi criada para modernizar e agilizar o processo de pedidos, proporcionando aos clientes uma experiência digital e conveniente.
-
-
 ## 2.2 Perfil dos usuários-alvo
 
 O público-alvo da **Lanchonete Siri Cascudo** é composto principalmente por pessoas que buscam refeições rápidas, valorizando a praticidade de realizar pedidos online. A plataforma atende a uma ampla gama de usuários, com perfis diversificados, mas com características específicas que se destacam.
