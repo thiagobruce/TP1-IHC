@@ -29,10 +29,6 @@ O público-alvo da **Lanchonete Siri Cascudo** é composto principalmente por pe
 - **Contexto de Uso**: Utilizam a plataforma para pedidos em momentos de descontração familiar, como almoços rápidos ou jantares informais. A facilidade de navegação e a possibilidade de customizar pedidos são importantes para atender diferentes preferências alimentares.
 - **Responsabilidades dentro da aplicação**: Escolher opções para toda a família, ajustar os pedidos conforme preferências de sabor ou restrições alimentares, e gerenciar o pagamento.
 
-#### 3. **Adolescentes e Jovens (13 a 18 anos)**
-- **Características**: Usuários conectados, muitas vezes estudantes, que utilizam a plataforma como uma forma de realizar pedidos para momentos de lazer, como encontros com amigos ou eventos de entretenimento.
-- **Contexto de Uso**: Em geral, fazem pedidos em grupos, especialmente nos fins de semana ou em ocasiões especiais, como festas e encontros virtuais. A simplicidade no uso e a possibilidade de pagar por meios digitais (como PIX) atraem esse público.
-- **Responsabilidades dentro da aplicação**: Explorar o cardápio, fazer pedidos rápidos, acompanhar a entrega e compartilhar a experiência com amigos.
 
 A **Lanchonete Siri Cascudo** atende a uma diversidade de perfis, desde jovens conectados a famílias que buscam praticidade. A plataforma foi projetada para ser acessível a diferentes faixas etárias e contextos, oferecendo uma experiência intuitiva e eficiente para todos.
 
