@@ -4,8 +4,6 @@
 
 O domínio de aplicação do sistema da **Lanchonete Siri Cascudo** é o setor de comércio, com foco específico em serviços de alimentação e delivery. Fundada com o objetivo de oferecer uma experiência prática e eficiente para pedidos online, a plataforma atende às necessidades de clientes que desejam fazer pedidos de lanches de forma rápida e sem complicações.
 
-### Histórico de Fundação
-
 Através do site, os usuários podem acessar um cardápio variado, realizar pedidos personalizados e acompanhar o status da entrega em tempo real.
 
 ### Principais Funcionalidades
