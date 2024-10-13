@@ -32,21 +32,22 @@ O responsável pela avaliação poderá fornecer qualquer esclarecimento ou tira
 ### 6. Declaração de Consentimento
 Li ou alguém leu para mim as informações contidas neste documento antes de assinar este termo de consentimento. Declaro que toda a linguagem técnica foi explicada de forma satisfatória e que recebi respostas para todas as minhas dúvidas. Confirmo também que recebi uma cópia deste Termo de Consentimento Livre e Esclarecido. Compreendo que sou livre para me retirar do estudo a qualquer momento, sem qualquer penalidade. Declaro ter mais de 18 anos e dou meu consentimento de livre e espontânea vontade para participar deste estudo.
 
-**Local**: São Cristovo  (Casa *Numero*)  
-**Data**: /10/2024
+**Local**: São Cristovo  (Casa *3452*)  
+**Data**: 13/10/2024
 
 ---
 
 **Participante**  
+
 Nome: Valdeney Brasil
 
 Assinatura: 
-![Assinatura de Valdeney Brasil]()
+
 
 **Avaliador**  
+
 Nome: Susie Laureen Marques Farias
 
 Assinatura: 
-<img src="https://photos.app.goo.gl/FYbWZVQKomnHdCXb8" alt="assinaturavaldeneybrasil" width="300"> 
 
-![Assinatura de Susie Farias](https://photos.app.goo.gl/FYbWZVQKomnHdCXb8)
+![Imagem do WhatsApp de 2024-10-13 à(s) 12 03 55_62e76b9b](https://github.com/user-attachments/assets/98164634-53ca-404a-ac00-a4416e49489c) 
