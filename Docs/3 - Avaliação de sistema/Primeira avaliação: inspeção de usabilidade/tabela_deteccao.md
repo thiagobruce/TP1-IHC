@@ -30,6 +30,21 @@
 | 8   | Não há uma seção de FAQ ou ajuda detalhada visível para casos de dúvidas sobre entregas ou formas de pagamento. | 10. Ajuda e Documentação                                    | 2          | 6h            |
 
 
+**Inspetor**: A3
+
+| ID  | Descrição do Problema                                                                 | Heurísticas Violadas                                     | Severidade | Carga Horária |
+| --- | ------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------- |
+| 1   | Ao adicionar produtos ao carrinho, o feedback é pouco visível, podendo confundir usuários sobre a ação. | 1. Visibilidade do Status do Sistema                       | 2          | 4h            |
+| 2   | Falta um botão “voltar” claramente visível em algumas telas, o que dificulta a navegação. | 3. Controle e Liberdade do Usuário                         | 3          | 6h            |
+| 3   | Alguns ícones e elementos de interface não seguem padrões comuns de e-commerce, como a posição do carrinho e opções de pagamento. | 4. Consistência e Padrões                                  | 2          | 8h            |
+| 4   | A categorização dos produtos poderia ser mais intuitiva para facilitar a busca, como filtros por tipo de lanche. | 6. Reconhecimento em vez de Memorização                    | 3          | 6h            |
+| 5   | Não há opções de atalhos para usuários frequentes, como um histórico de pedidos ou produtos favoritos. | 7. Flexibilidade e Eficiência de Uso                       | 1          | 12h           |
+| 6   | A tela inicial é um pouco carregada, com muitas imagens e informações que podem sobrecarregar o usuário. | 8. Estética e Design Minimalista                           | 1          | 5h            |
+| 7   | Mensagens de erro como “Endereço inválido” ou “Pagamento não autorizado” poderiam ser mais detalhadas para que o usuário saiba como corrigir. | 9. Ajuda ao Usuário a Reconhecer, Diagnosticar e Corrigir Erros | 2          | 4h            |
+| 8   | Não há uma seção de FAQ ou ajuda detalhada visível para casos de dúvidas sobre entregas ou formas de pagamento. | 10. Ajuda e Documentação                                    | 2          | 6h            |
+
+
+
 **Inspetor**: A4
 
 | ID  | Descrição do Problema                                                                                                                                               | Heurísticas Violadas                                      | Severidade | Carga Horária |
