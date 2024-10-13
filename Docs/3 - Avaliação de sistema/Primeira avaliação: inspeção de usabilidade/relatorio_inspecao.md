@@ -19,11 +19,6 @@ amplamente aceitos para avaliar a usabilidade de interfaces. As principais heur�
 9. Ajudar usuários a reconhecer, diagnosticar e corrigir erros (ex.: mensagens de erro claras).
 10. Ajuda e documentação (ex.: suporte disponível).
 
-A1: Jhonatha Torres Santos Sousa #22252493
-A2: Kayth Kariny Marques Pinheiro #22251969
-A3: Susie Laureen Marques Farias #22250831
-A4: Thiago Bruce Torres #22252679
-
 # A quantidade e o perfil dos avaliadores
 
 Cada integrante da equipe deve atuar como avaliador individual:
