@@ -40,8 +40,10 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 **Participante**  
 Nome: Valdeney Brasil
 
-Assinatura: ___________________________
+Assinatura: ![Assinatura de Valdeney Brasil]()
 
 **Avaliador**  
-Nome: Susie Laureen Marques Farias  
+Nome: Susie Laureen Marques Farias
+
+Assinatura: ![Assinatura de Susie Farias](https://photos.app.goo.gl/FYbWZVQKomnHdCXb8) 
 Assinatura: 
