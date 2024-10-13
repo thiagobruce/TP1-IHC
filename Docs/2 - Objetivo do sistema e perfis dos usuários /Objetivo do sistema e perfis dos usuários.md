@@ -39,10 +39,12 @@ A **Lanchonete Siri Cascudo** atende a uma diversidade de perfis, desde jovens c
  
                                               Listagem de tarefas e objetivos                                               
 
-**1. Jovens Adultos (18 a 35 anos)**
-   - First nested list item
+**1. Usuários Jovens Adultos (18 a 35 anos)**
+   - Objetivo: 
+   - Tarefas:
      - Second nested list item 
 
-**2. Famílias com Crianças (25 a 45 anos)**
-   - First nested list item
+**2. Usuários Famílias com Crianças (25 a 45 anos)**
+   - Objetivo: 
+   - Tarefas:
      - Second nested list item 
