@@ -2,9 +2,9 @@
 
 ## 2.1 Domínio e objetivo do sistema
 
- <p align="justify"> O domínio de aplicação do sistema da **Lanchonete Siri Cascudo** consiste no comércio eletrônico (e-commerce), com foco específico em serviços de alimentação e delivery. Desenvolvida com o objetivo de oferecer uma experiência prática e eficiente para pedidos online, a plataforma atende às necessidades de clientes que preferem fazer pedidos digitais de lanches sem haver complicações e que valorizam a rapidez e facilidade. Os clientes que ultilizam a plataforma de pedidos online, em sua maioria, têm um conhecimento aceitável em tecnologia, apresentam principalmente dificuldades em XXX e possuem expectativa em XXX. Portanto, como designers, nosso objetivo está focado na qualidade de uso do cliente como um usuário de sistema de pedidos online, a fim de gerar emoções positivas e possibilitando que atinjam seus objetivos de forma eficiente, minimizando erros. </p>
+ <p align="justify"> O domínio de aplicação do sistema da **Lanchonete Siri Cascudo** consiste no comércio eletrônico (e-commerce), com foco específico em serviços de alimentação e delivery. Desenvolvida com o objetivo de oferecer uma experiência prática e eficiente para pedidos online, a plataforma atende às necessidades de clientes que preferem fazer pedidos digitais de lanches sem haver complicações e que valorizam a rapidez e facilidade. Os clientes que ultilizam a plataforma de pedidos online, em sua maioria, têm um conhecimento aceitável em tecnologia, apresentam principalmente dificuldades em XXX e possuem expectativa em XXX. Portanto, como designers, nosso objetivo está focado na qualidade de uso do usuário, nesse caso, como cliente de pedidos online. A fim de gerar emoções positivas e possibilitando que atinjam seus objetivos de forma eficiente, minimizando erros. </p>
 
-Através do site, os usuários podem acessar um cardápio variado, realizar pedidos personalizados e acompanhar o status da entrega em tempo real. A seguir, os recursos existentes no site para atingir esses objetivos:
+Entre os recursos existentes no site para atingir esses objetivos, os usuários podem acessar um cardápio variado, realizar pedidos personalizados e acompanhar o status da entrega em tempo real. A seguir, apresentaremos mais detalhes:  
 
 ### Principais Funcionalidades
 
@@ -15,7 +15,7 @@ Através do site, os usuários podem acessar um cardápio variado, realizar pedi
 
 ## 2.2 Perfil dos usuários-alvo
 
-O público-alvo da **Lanchonete Siri Cascudo** é composto principalmente por pessoas que desejam lanches rápidos, valorizando a praticidade de realizar pedidos online. A plataforma atende a uma ampla gama de usuários, com perfis diversificados, mas com características específicas que se destacam.
+O público-alvo da **Lanchonete Siri Cascudo** é composto principalmente por pessoas que desejam lanches rápidos, valorizando a praticidade em realizar pedidos online. A plataforma atende a uma ampla gama de usuários, com perfis diversificados, mas com características específicas que se destacam.
 
 ### Perfis de Usuários
 
@@ -27,7 +27,7 @@ O público-alvo da **Lanchonete Siri Cascudo** é composto principalmente por pe
 #### 2. **Famílias com Crianças (25 a 45 anos)**
 - **Características**: Pais que buscam uma refeição prática para si e seus filhos, optando pela conveniência de pedir online ao invés de preparar refeições em casa. Este perfil inclui tanto pais ocupados com rotinas de trabalho quanto aqueles que buscam uma opção mais descontraída para refeições rápidas com a família.
 - **Contexto de Uso**: Utilizam a plataforma para pedidos em momentos de descontração familiar, como almoços rápidos ou jantares informais. A facilidade de navegação e a possibilidade de customizar pedidos são importantes para atender diferentes preferências alimentares.
-- **Responsabilidades dentro da aplicação**: Escolher opções para toda a família, ajustar os pedidos conforme preferências de sabor ou restrições alimentares, e gerenciar o pagamento.
+- **Responsabilidades dentro da aplicação**: Escolher opções para toda a família, ajustar os pedidos conforme preferências de sabor ou restrições alimentares, gerenciar o pagamento e avaliar o serviço após a entrega.
 
 
 A **Lanchonete Siri Cascudo** atende a uma diversidade de perfis, desde jovens conectados a famílias que buscam praticidade. A plataforma foi projetada para ser acessível a diferentes faixas etárias e contextos, oferecendo uma experiência intuitiva e eficiente para todos.
@@ -35,3 +35,4 @@ A **Lanchonete Siri Cascudo** atende a uma diversidade de perfis, desde jovens c
 
 ## 2.3 Objetivos dos usuários a serem avaliados
  
+ |Listagem de tarefas e objetivos|
