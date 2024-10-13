@@ -2,14 +2,15 @@
 
 ## Estudo: “Método de Avaliação de Comunicabilidade (MAC)”
 
-### Prezada ,
+### Prezado , Valdeney Brasil
 
-Você está sendo convidada a participar de uma avaliação de comunicabilidade na qual será abordada a interação com o sistema **Site do Siri Cascudo** em um ambiente controlado. O objetivo da avaliação é investigar a qualidade da metacomunicação do designer para os usuários. Sua participação na avaliação não é obrigatória.
+Você está sendo convidado a participar de uma avaliação de comunicabilidade na qual será abordado a interação com o sistema **Site do Siri Cascudo** em um ambiente controlado. O objetivo da avaliação é investigar a qualidade da metacomunicação do designer para os usuários. Sua participação na avaliação não é obrigatória.
 
 ### 1. Procedimento
 O método MAC será utilizado como critério de qualidade de uso do sistema **Site do Siri Cascudo**. Você irá utilizar o método para avaliar a comunicabilidade das atividades selecionadas da aplicação em questão. Para participar deste estudo, solicito a sua especial colaboração em:  
 1. Permitir que os dados resultantes da sua avaliação sejam estudados.  
 2. Participar de entrevista e/ou responder a um questionário.
+3. Permitir seu uso de imagem
 
 Quando os dados forem coletados, seu nome será removido dos mesmos e não será utilizado em nenhum momento durante a análise ou apresentação dos resultados.
 
@@ -37,10 +38,10 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 ---
 
 **Participante**  
-Nome: 
+Nome: Valdeney Brasil
 
 Assinatura: ___________________________
 
 **Avaliador**  
 Nome: Susie Laureen Marques Farias  
-Assinatura: ___________________________
+Assinatura: 
