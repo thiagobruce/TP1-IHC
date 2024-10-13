@@ -13,25 +13,19 @@ XXXXXXXX
 
 Nomes e etiquetas:
 - Os botões não têm um nome acessível
-<img 
 - Os elementos de imagem não têm atributos [alt]
 - Os elementos de formulário não têm etiquetas associadas
 
-Análise:
+**Análise:**
 O usuário pode não concluir seu objetivo final no site, pois identificou uma 'barreira' em sua busca.
 
-
-
 # Segunda etapa 
-Interpretação das métricas geradas na ferramenta Lighthouse e problemas de acessibilidade identificados pela ferramenta.
+Utilização da ferramenta UEQ online para coletar dados sobre a experiência do usuário (User Experience) após o teste de usabilidade.
 
 ## Interpretação das métricas 
 
 
-
-
-
-## **QUESTIONÁRIO UX**
+## UEQ ONLINE
 
 **USUÁRIO 1:**
 
