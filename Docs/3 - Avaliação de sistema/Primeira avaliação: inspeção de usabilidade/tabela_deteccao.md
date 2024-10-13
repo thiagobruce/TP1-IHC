@@ -34,14 +34,14 @@
 
 | ID  | Descrição do Problema                                                                 | Heurísticas Violadas                                     | Severidade | Carga Horária |
 | --- | ------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------- |
-| 1   | Ao adicionar produtos ao carrinho, o feedback é pouco visível, podendo confundir usuários sobre a ação. | 1. Visibilidade do Status do Sistema                       | 2          | 4h            |
-| 2   | Falta um botão “voltar” claramente visível em algumas telas, o que dificulta a navegação. | 3. Controle e Liberdade do Usuário                         | 3          | 6h            |
-| 3   | Alguns ícones e elementos de interface não seguem padrões comuns de e-commerce, como a posição do carrinho e opções de pagamento. | 4. Consistência e Padrões                                  | 2          | 8h            |
-| 4   | A categorização dos produtos poderia ser mais intuitiva para facilitar a busca, como filtros por tipo de lanche. | 6. Reconhecimento em vez de Memorização                    | 3          | 6h            |
-| 5   | Não há opções de atalhos para usuários frequentes, como um histórico de pedidos ou produtos favoritos. | 7. Flexibilidade e Eficiência de Uso                       | 1          | 12h           |
-| 6   | A tela inicial é um pouco carregada, com muitas imagens e informações que podem sobrecarregar o usuário. | 8. Estética e Design Minimalista                           | 1          | 5h            |
-| 7   | Mensagens de erro como “Endereço inválido” ou “Pagamento não autorizado” poderiam ser mais detalhadas para que o usuário saiba como corrigir. | 9. Ajuda ao Usuário a Reconhecer, Diagnosticar e Corrigir Erros | 2          | 4h            |
-| 8   | Não há uma seção de FAQ ou ajuda detalhada visível para casos de dúvidas sobre entregas ou formas de pagamento. | 10. Ajuda e Documentação                                    | 2          | 6h            |
+| 1   | Não tem opção de cancelar pedidos | 3.Controle e liberdade do usuário                       | 4          | 2h            |
+| 2   | Não há devolutiva no campo de busca, nem dicas | 6.Reconhecer ao invés de relembrar                         | 3          | 4h            |
+| 3   | Não mostra meus pedidos. Apenas consigo visualizar quando clico em finalizar |1.Visibilidade do status do sistema                                  | 4          | 4h            |
+| 4   | Não é possiível visualizar em que etapa estou do progresso do meu pedido | 1.Visibilidade do status do sistema                    | 4          | 6h            |
+| 5   | Na aba de tipos de pedidos, o cursor não me mostra em que opção estou localizada. | 1.Visibilidade do status do sistema                        | 1          | 1h           |
+| 6   | Não informa se o item foi adicionado ou retirado dos pedidos ou não. | 1.Visibilidade do status do sistema                          | 4          | 4h            |
+| 7   | Não há uma mensagem reforçando a ideia de que se o usuário selecionar a opção de diminuir a quantidade, o item vai ser retirando da lista| 5.Prevenção de erros | 4          | 6h            |
+| 8   |Não me permite 'criar atalhos' para itens de compra mais frequentes | 7.flexibilidade e eficiência de uso                                    | 4          | 6h            |
 
 
 
