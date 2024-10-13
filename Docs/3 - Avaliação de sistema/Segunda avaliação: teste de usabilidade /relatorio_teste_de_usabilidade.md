@@ -1,4 +1,4 @@
-                                  Produto 8: Relatório do teste de usabilidade                                               
+                                               Produto 8: Relatório do teste de usabilidade                                               
 
 
 # 1. Planejamento do Teste
@@ -49,3 +49,91 @@ Interação do usuário com o produto apontando problemas de usabilidade
 |  3  |               |                          |                        |                |                            |
 |  4  |               |                          |                        |                |                            |
 |  5  |               |                          |                        |                |                            |
+
+## Dados quantitativos
+
+                                                           TAREFA 1 
+|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
+|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
+|                  |                          |                        |                            |                                       |
+|                  |                          |                        |                            |                                       |
+|  Valdeney Brasil |                          |                        |                            |                                       |
+|      Victor      |                          |                        |                            |                                       |
+|      Mediana     |                          |                        |                            |                                       |
+
+
+                                                           TAREFA 2 
+|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
+|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
+|                  |                          |                        |                            |                                       |
+|                  |                          |                        |                            |                                       |
+|  Valdeney Brasil |                          |                        |                            |                                       |
+|      Victor      |                          |                        |                            |                                       |
+|      Mediana     |                          |                        |                            |                                       |
+
+
+                                                           TAREFA 3 
+|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
+|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
+|                  |                          |                        |                            |                                       |
+|                  |                          |                        |                            |                                       |
+|  Valdeney Brasil |                          |                        |                            |                                       |
+|      Victor      |                          |                        |                            |                                       |
+|      Mediana     |                          |                        |                            |                                       |
+
+
+                                                           TAREFA 4 
+|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
+|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
+|                  |                          |                        |                            |                                       |
+|                  |                          |                        |                            |                                       |
+|  Valdeney Brasil |                          |                        |                            |                                       |
+|      Victor      |                          |                        |                            |                                       |
+|      Mediana     |                          |                        |                            |                                       |
+
+
+                                                           TAREFA 5 
+|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
+|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
+|                  |                          |                        |                            |                                       |
+|                  |                          |                        |                            |                                       |
+|  Valdeney Brasil |                          |                        |                            |                                       |
+|      Victor      |                          |                        |                            |                                       |
+|      Mediana     |                          |                        |                            |                                       |
+
+
+                                                           TAREFA 6 
+|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
+|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
+|                  |                          |                        |                            |                                       |
+|                  |                          |                        |                            |                                       |
+|  Valdeney Brasil |                          |                        |                            |                                       |
+|      Victor      |                          |                        |                            |                                       |
+|      Mediana     |                          |                        |                            |                                       |
+
+
+                                                           TAREFA 7 
+|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
+|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
+|                  |                          |                        |                            |                                       |
+|                  |                          |                        |                            |                                       |
+|  Valdeney Brasil |                          |                        |                            |                                       |
+|      Victor      |                          |                        |                            |                                       |
+|      Mediana     |                          |                        |                            |                                       |
+
+
+                                                           TAREFA 8 
+|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
+|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
+|                  |                          |                        |                            |                                       |
+|                  |                          |                        |                            |                                       |
+|  Valdeney Brasil |                          |                        |                            |                                       |
+|      Victor      |                          |                        |                            |                                       |
+|      Mediana     |                          |                        |                            |                                       |
+
+
+
+## Dados qualitativos
+| ID  | LOCAL         | DESCRIÇÃO DO PROBLEMA    | HEURÍSTICA VIOLADA     | SEVERIDADES    | RECOMENDAÇÃO DE SOLUÇÃO    | 
+|-----|---------------|--------------------------|------------------------|----------------|----------------------------|
+|  1  |               |                          |                        |                |                            |
