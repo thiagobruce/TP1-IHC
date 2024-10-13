@@ -4,23 +4,16 @@
 
 | ID  | Descrição do Problema                                                                                                 | Heurísticas Violadas                                                  | Severidade     | Carga Horária |
 | --- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------- | ------------- |
-| 1   | O site não fornece feedback sobre o status do pedido, como tempo de entrega ou andamento.                             | 1. 
- Visibilidade do status do sistema                                  | 3                  | 2 horas       |
-| 2   | Não há opção visível para cancelar ou modificar um pedido em andamento.                                               | 3. 
- Controle e liberdade do usuário                                    | 4             | 3 horas       |
-| 3   | A página tem uma organização confusa, especialmente a área de menus, que exige muita rolagem.                        | 6. 
- Reconhecimento em vez de lembrança 8. Design estético e minimalista | 3                | 3 horas       |
-| 4   | Não há confirmações antes do envio do pedido, o que pode gerar erros.                                                 | 5. 
- Prevenção de erros                                                 | 4              | 4 horas       |
-| 5   | Não existem atalhos ou opções para acelerar o processo para usuários frequentes.                                      | 7. 
- Flexibilidade e eficiência de uso                                  | 3                   | 3 horas       |
+| 1   | O site não fornece feedback sobre o status do pedido, como tempo de entrega ou andamento.                             | 1. Visibilidade do status do sistema                                  | 3                  | 2 horas       |
+| 2   | Não há opção visível para cancelar ou modificar um pedido em andamento.                                               | 3. Controle e liberdade do usuário                                    | 4             | 3 horas       |
+| 3   | A página tem uma organização confusa, especialmente a área de menus, que exige muita rolagem.                        | 6. Reconhecimento em vez de lembrança 8. Design estético e minimalista | 3                | 3 horas       |
+| 4   | Não há confirmações antes do envio do pedido, o que pode gerar erros.                                                 | 5. Prevenção de erros                                                 | 4              | 4 horas       |
+| 5   | Não existem atalhos ou opções para acelerar o processo para usuários frequentes.                                      | 7. Flexibilidade e eficiência de uso                                  | 3                   | 3 horas       |
 | 6   | Não há ajuda ou documentação disponível para guiar o usuário durante o processo de pedido.                           | 10. Ajuda e documentação                                              | 4              | 4 horas       |
 | 7   | O design poderia ser mais limpo, com menos informações irrelevantes ou dispostas de forma confusa.                   | 8. Design estético e minimalista                                      | 2                   | 2 horas       |
 | 8   | Falta de mensagens de erro claras para guiar o usuário quando há um problema.                                         | 9. Ajudar os usuários a reconhecer, diagnosticar e recuperar-se de erros | 4              | 3 horas       |
-| 9   | Não há indicações claras de que o site está otimizado para diferentes dispositivos (responsividade).                  | 4. 
- Consistência e padrões                                             | 3                   | 3 horas       |
-| 10  | O site não oferece personalização de experiência, como lembretes de pedidos anteriores.                               | 7. 
- Flexibilidade e eficiência de uso                                  | 3                   | 3 horas       |
+| 9   | Não há indicações claras de que o site está otimizado para diferentes dispositivos (responsividade).                  | 4. Consistência e padrões                                             | 3                   | 3 horas       |
+| 10  | O site não oferece personalização de experiência, como lembretes de pedidos anteriores.                               | 7. Flexibilidade e eficiência de uso                                  | 3                   | 3 horas       |
 
 
 **Inspetor**: A2
@@ -41,14 +34,14 @@
 
 | ID  | Descrição do Problema                                                                 | Heurísticas Violadas                                     | Severidade | Carga Horária |
 | --- | ------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------- |
-| 1   | Não tem opção de cancelar pedidos | 3.Controle e liberdade do usuário                       | 4          | 2h            |
-| 2   | Não há devolutiva no campo de busca, nem dicas | 6.Reconhecer ao invés de relembrar                         | 3          | 4h            |
-| 3   | Não mostra quais são os itens selecionados. Apenas consigo visualiza-los quando clico em finalizar |1.Visibilidade do status do sistema                                  | 4          | 4h            |
-| 4   | Não é possiível visualizar em que etapa estou do progresso do meu pedido | 1.Visibilidade do status do sistema                    | 4          | 6h            |
-| 5   | Na aba de tipos de pedidos, o cursor não me mostra em que opção estou localizada. | 1.Visibilidade do status do sistema                        | 1          | 1h           |
-| 6   | Não informa se o item foi adicionado ou retirado dos pedidos ou não. | 1.Visibilidade do status do sistema                          | 4          | 4h            |
-| 7   | Não há uma mensagem reforçando a ideia de que se o usuário selecionar a opção de diminuir a quantidade, o item vai ser retirando da lista| 5.Prevenção de erros | 4          | 6h            |
-| 8   |Não me permite 'criar atalhos' para itens de compra mais frequentes | 7.flexibilidade e eficiência de uso                                    | 4          | 6h            |
+| 1   | Não tem opção de cancelar pedidos | 3. Controle e liberdade do usuário                       | 4          | 2h            |
+| 2   | Não há devolutiva no campo de busca, nem dicas | 6. Reconhecer ao invés de relembrar                         | 3          | 4h            |
+| 3   | Não mostra quais são os itens selecionados. Apenas consigo visualiza-los quando clico em finalizar |1. Visibilidade do status do sistema                                  | 4          | 4h            |
+| 4   | Não é possiível visualizar em que etapa estou do progresso do meu pedido | 1. Visibilidade do status do sistema                    | 4          | 6h            |
+| 5   | Na aba de tipos de pedidos, o cursor não me mostra em que opção estou localizada. | 1. Visibilidade do status do sistema                        | 1          | 1h           |
+| 6   | Não informa se o item foi adicionado ou retirado dos pedidos ou não. | 1. Visibilidade do status do sistema                          | 4          | 4h            |
+| 7   | Não há uma mensagem reforçando a ideia de que se o usuário selecionar a opção de diminuir a quantidade, o item vai ser retirando da lista| 5. Prevenção de erros | 4          | 6h            |
+| 8   |Não me permite 'criar atalhos' para itens de compra mais frequentes | 7. Flexibilidade e eficiência de uso                                    | 4          | 6h            |
 
 
 
