@@ -1,7 +1,7 @@
                                   Produto 8: Relatório do teste de usabilidade                                               
 
 
-1. Planejamento do Teste
+# 1. Planejamento do Teste
    - Objetivos: Fazer um pedido na plataforma de pedidos do Siri Cascudo Lanchonete
   
    - Público-Alvo:
@@ -29,7 +29,23 @@
      - Notebook ou computador para o usuário, mouse, gravador, webcam, cadeira confortável, acesso a internet, cronômetro, planilhas e Termo de
 Consentimento Livre e Esclarecido.
    
-3.  Preparação para o Teste 
-4. Teste Piloto
-5. Execução do Teste
-6. Análise dos Resultados 
+# 2.  Preparação para o Teste
+   - Foram recrutados 4 pessoas. Entre eles X homens e X mulheres.
+   - Os equipamentos foram instalados e organizados
+   - Foi feito a preparação do ambiente climatizado e fora de ruídos externos.
+      
+# 3. Teste Piloto
+  - Validação do funcionamento e configuração do teste verificando ele está ocorrendo de acordo com o planejado
+    
+# 4. Execução do Teste
+Interação do usuário com o produto apontando problemas de usabilidade 
+
+# 5. Análise dos Resultados 
+
+| ID  | LOCAL         | DESCRIÇÃO DO PROBLEMA    | HEURÍSTICA VIOLADA     | SEVERIDADES    | RECOMENDAÇÃO DE SOLUÇÃO    | 
+|-----|---------------|--------------------------|------------------------|----------------|----------------------------|
+|  1  |               |                          |                        |                |                            |
+|  2  |               |                          |                        |                |                            |
+|  3  |               |                          |                        |                |                            |
+|  4  |               |                          |                        |                |                            |
+|  5  |               |                          |                        |                |                            |
