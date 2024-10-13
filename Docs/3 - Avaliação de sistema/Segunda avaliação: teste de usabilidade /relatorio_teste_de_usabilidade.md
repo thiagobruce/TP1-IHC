@@ -137,3 +137,5 @@ Interação do usuário com o produto apontando problemas de usabilidade
 | ID  | LOCAL         | DESCRIÇÃO DO PROBLEMA    | HEURÍSTICA VIOLADA     | SEVERIDADES    | RECOMENDAÇÃO DE SOLUÇÃO    | 
 |-----|---------------|--------------------------|------------------------|----------------|----------------------------|
 |  1  |               |                          |                        |                |                            |
+
+git submodule add <[git@github](https://github.com/thiagobruce/TP1-IHC/blob/9b77811db6c3ec09be19e8f3e9176945b8c91561/Docs/1%20-%20Apresenta%C3%A7%C3%A3o%20do%20grupo%20e%20distribui%C3%A7%C3%A3o%20das%20tarefas%20/tabela_de_distribuicao_de_tarefas.md) ...>
