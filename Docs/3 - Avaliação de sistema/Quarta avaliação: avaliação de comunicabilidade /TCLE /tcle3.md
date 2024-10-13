@@ -50,4 +50,4 @@ Nome: Susie Laureen Marques Farias
 
 Assinatura: 
 
-![Imagem do WhatsApp de 2024-10-13 à(s) 12 03 55_62e76b9b](https://github.com/user-attachments/assets/98164634-53ca-404a-ac00-a4416e49489c) 
+<img src="https://github.com/user-attachments/assets/0f3c474b-5afe-45e5-a875-1ec649c3d84f" alt="assinaturasusiefarias" width=200>
