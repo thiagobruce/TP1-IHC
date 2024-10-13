@@ -6,7 +6,7 @@
 
 Entre os recursos existentes no site para atingir esses objetivos, os usuários podem acessar um cardápio variado, realizar pedidos personalizados e acompanhar o status da entrega em tempo real. A seguir, apresentaremos mais detalhes:  
 
-### Principais Funcionalidades
+                                                   Principais funcionalidades                                               
 
 - **Navegação** do cardápio.
 - **Opção de personalização** de lanches, como escolha de adicionais e complementos.
@@ -35,4 +35,12 @@ A **Lanchonete Siri Cascudo** atende a uma diversidade de perfis, desde jovens c
 
 ## 2.3 Objetivos dos usuários a serem avaliados
  
- |Listagem de tarefas e objetivos|
+                                              Listagem de tarefas e objetivos                                               
+
+**1. Jovens Adultos (18 a 35 anos)**
+   - First nested list item
+     - Second nested list item 
+
+**2. Famílias com Crianças (25 a 45 anos)**
+   - First nested list item
+     - Second nested list item 
