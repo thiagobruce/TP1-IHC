@@ -2,7 +2,7 @@
 
 ## Estudo: “Método de Avaliação de Comunicabilidade (MAC)”
 
-### Prezado , Valdeney Brasil
+### Prezado, Valdeney Brasil
 
 Você está sendo convidado a participar de uma avaliação de comunicabilidade na qual será abordado a interação com o sistema **Site do Siri Cascudo** em um ambiente controlado. O objetivo da avaliação é investigar a qualidade da metacomunicação do designer para os usuários. Sua participação na avaliação não é obrigatória.
 
