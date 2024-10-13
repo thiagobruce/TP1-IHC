@@ -4,10 +4,10 @@
 
 ### Prezado, Valdeney Brasil
 
-Você está sendo convidado a participar de uma avaliação de comunicabilidade na qual será abordado a interação com o sistema **Site do Siri Cascudo** em um ambiente controlado. O objetivo da avaliação é investigar a qualidade da metacomunicação do designer para os usuários. Sua participação na avaliação não é obrigatória.
+Você está sendo convidado a participar de uma avaliação de comunicabilidade na qual será abordado a interação com o sistema **Siri Cascudo Lanchonete** em um ambiente controlado. O objetivo da avaliação é investigar a qualidade da metacomunicação do designer para os usuários. Sua participação na avaliação não é obrigatória.
 
 ### 1. Procedimento
-O método MAC será utilizado como critério de qualidade de uso do sistema **Site do Siri Cascudo**. Você irá utilizar o método para avaliar a comunicabilidade das atividades selecionadas da aplicação em questão. Para participar deste estudo, solicito a sua especial colaboração em:  
+O método MAC será utilizado como critério de qualidade de uso do sistema **Siri Cascudo Lanchonete**. Você irá utilizar o método para avaliar a comunicabilidade das atividades selecionadas da aplicação em questão. Para participar deste estudo, solicito a sua especial colaboração em:  
 1. Permitir que os dados resultantes da sua avaliação sejam estudados.  
 2. Participar de entrevista e/ou responder a um questionário.
 3. Permitir seu uso de imagem
