@@ -16,7 +16,7 @@ Entre os recursos existentes no site para atingir esses objetivos, os usuários 
 
 ## 2.2 Perfil dos usuários-alvo
 
-O público-alvo da **Lanchonete Siri Cascudo** é composto principalmente por pessoas que desejam lanches rápidos, valorizando a praticidade em realizar pedidos online. A plataforma atende a uma ampla gama de usuários, com perfis diversificados, mas com características específicas que se destacam.
+O público-alvo da **Siri Cascudo Lanchonete** é composto principalmente por pessoas que desejam lanches rápidos, valorizando a praticidade em realizar pedidos online. A plataforma atende a uma ampla gama de usuários, com perfis diversificados, mas com características específicas que se destacam.
 
 ### Perfis de Usuários
 
