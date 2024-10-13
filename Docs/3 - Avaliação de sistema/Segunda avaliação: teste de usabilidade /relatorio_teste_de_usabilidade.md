@@ -50,7 +50,7 @@ Interação do usuário com o produto apontando problemas de usabilidade
 |  4  |               |                          |                        |                |                            |
 |  5  |               |                          |                        |                |                            |
 
-## Dados quantitativos
+## Dados quantitativos / tarefa
 
                                                            TAREFA 1 
 |   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
