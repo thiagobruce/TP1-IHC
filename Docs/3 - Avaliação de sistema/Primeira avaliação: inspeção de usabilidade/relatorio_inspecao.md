@@ -36,7 +36,7 @@ Cada integrante da equipe deve atuar como avaliador individual:
 |     A3    |  Susie Laureen Marques Farias       |  Usuário Avançado            |      Avançado     |    Avançado                          |
 |     A4    |  Thiago Bruce Torres                |  Usuário Avançado            |      Avançado     |    Avançado                          |
 
-# A lista de problemas de usabilidade encontrados
+# Lista de problemas de usabilidade encontrados
 
 | Local |      Descrição    |    Heurística violada    |         Severidade    |   Recomendações de solução    | 
 |-------|-------------------|--------------------------|-----------------------|-------------------------------
