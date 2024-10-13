@@ -27,6 +27,7 @@ Cada integrante da equipe deve atuar como avaliador individual:
 - Perfil: Experiência geral do usuário (iniciante, intermediário, avançado).
 - Experiência Técnica: Grau de familiaridade com tecnologia e interfaces.
 - Conhecimento do Sistema: Nível de conhecimento específico sobre o sistema sendo avaliado.
+- Total de 4 avaliadores.
 
 | Avaliador |      Nome    |    Perfil    |         Experiência técnica    |   Conhecimento do sistema    | 
 |-----------|--------------|--------------|--------------------------------|------------------------------|
