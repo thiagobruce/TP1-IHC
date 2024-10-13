@@ -32,7 +32,7 @@ O responsável pela avaliação poderá fornecer qualquer esclarecimento ou tira
 ### 6. Declaração de Consentimento
 Li ou alguém leu para mim as informações contidas neste documento antes de assinar este termo de consentimento. Declaro que toda a linguagem técnica foi explicada de forma satisfatória e que recebi respostas para todas as minhas dúvidas. Confirmo também que recebi uma cópia deste Termo de Consentimento Livre e Esclarecido. Compreendo que sou livre para me retirar do estudo a qualquer momento, sem qualquer penalidade. Declaro ter mais de 18 anos e dou meu consentimento de livre e espontânea vontade para participar deste estudo.
 
-**Local**: São Cristovo  (Casa *3452*)  
+**Local**: São Francisco  (Casa *3452*)  
 **Data**: 13/10/2024
 
 ---
