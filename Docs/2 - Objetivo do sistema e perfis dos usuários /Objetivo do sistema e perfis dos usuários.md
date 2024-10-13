@@ -2,9 +2,7 @@
 
 ## 2.1 Domínio e objetivo do sistema
 
- <p align="justify"> O domínio de aplicação do sistema da **Lanchonete Siri Cascudo** consiste no comércio eletrônico (e-commerce), com foco específico em serviços de alimentação e delivery. Desenvolvida com o objetivo de oferecer uma experiência prática e eficiente para pedidos online, a plataforma atende às necessidades de clientes que preferem fazer pedidos digitais de lanches sem haver complicações e que valorizam a rapidez e facilidade. 
-  Os clientes que ultilizam a plataforma de pedidos online, em sua maioria, têm um conhecimento aceitável em tecnologia, apresentam principalmente dificuldades em XXX e possuem expectativa em XXX. 
-  Portanto, como designers, nosso objetivo está focado na qualidade de uso do cliente como um usuário de sistema de pedidos online, a fim de gerar emoções positivas e possibilitando que atinjam seus objetivos de forma eficiente, minimizando erros. </p>
+ <p align="justify"> O domínio de aplicação do sistema da **Lanchonete Siri Cascudo** consiste no comércio eletrônico (e-commerce), com foco específico em serviços de alimentação e delivery. Desenvolvida com o objetivo de oferecer uma experiência prática e eficiente para pedidos online, a plataforma atende às necessidades de clientes que preferem fazer pedidos digitais de lanches sem haver complicações e que valorizam a rapidez e facilidade. Os clientes que ultilizam a plataforma de pedidos online, em sua maioria, têm um conhecimento aceitável em tecnologia, apresentam principalmente dificuldades em XXX e possuem expectativa em XXX. Portanto, como designers, nosso objetivo está focado na qualidade de uso do cliente como um usuário de sistema de pedidos online, a fim de gerar emoções positivas e possibilitando que atinjam seus objetivos de forma eficiente, minimizando erros. </p>
 
 Através do site, os usuários podem acessar um cardápio variado, realizar pedidos personalizados e acompanhar o status da entrega em tempo real. A seguir, os recursos existentes no site para atingir esses objetivos:
 
