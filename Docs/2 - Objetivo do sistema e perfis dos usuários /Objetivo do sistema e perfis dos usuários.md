@@ -2,9 +2,9 @@
 
 ## 2.1 Domínio e objetivo do sistema
 
-O domínio de aplicação do sistema da **Lanchonete Siri Cascudo** é o setor de comércio, com foco específico em serviços de alimentação e delivery. Fundada com o objetivo de oferecer uma experiência prática e eficiente para pedidos online, a plataforma atende às necessidades de clientes que desejam fazer pedidos de lanches de forma rápida e sem complicações.
+O domínio de aplicação do sistema da **Lanchonete Siri Cascudo** consiste no comércio eletrônico (e-commerce), com foco específico em serviços de alimentação e delivery. Desenvolvida com o objetivo de oferecer uma experiência prática e eficiente para pedidos online, a plataforma atende às necessidades de clientes que preferem fazer pedidos digitais de lanches sem haver complicações e que valorizam a rapidez e facilidade. Os clientes que ultilizam a plataforma de pedidos online, em sua maioria, têm um conhecimento aceitável em tecnologia e apresentam principalmente dificuldades . Ao solicitar se
 
-Através do site, os usuários podem acessar um cardápio variado, realizar pedidos personalizados e acompanhar o status da entrega em tempo real.
+Através do site, os usuários podem acessar um cardápio variado, realizar pedidos personalizados e acompanhar o status da entrega em tempo real. A seguir, os recursos existentes no site para atingir esses objetivos:
 
 ### Principais Funcionalidades
 
@@ -15,12 +15,12 @@ Através do site, os usuários podem acessar um cardápio variado, realizar pedi
 
 ## 2.2 Perfil dos usuários-alvo
 
-O público-alvo da **Lanchonete Siri Cascudo** é composto principalmente por pessoas que buscam refeições rápidas, valorizando a praticidade de realizar pedidos online. A plataforma atende a uma ampla gama de usuários, com perfis diversificados, mas com características específicas que se destacam.
+O público-alvo da **Lanchonete Siri Cascudo** é composto principalmente por pessoas que desejam lanches rápidos, valorizando a praticidade de realizar pedidos online. A plataforma atende a uma ampla gama de usuários, com perfis diversificados, mas com características específicas que se destacam.
 
 ### Perfis de Usuários
 
 #### 1. **Jovens Adultos (18 a 35 anos)**
-- **Características**: Esse grupo é formado por jovens adultos conectados ao mundo digital, que valorizam a facilidade e rapidez ao fazerem seus pedidos de lanches. Muitos são estudantes ou profissionais que utilizam o serviço durante intervalos ou no fim do dia.
+- **Características**: Esse grupo é formado por jovens adultos conectados ao mundo digital, que valorizam a facilidade e rapidez ao fazerem seus pedidos de lanches, com preferência em plataformas de pedido online. Muitos são estudantes ou profissionais que utilizam o serviço durante intervalos ou no fim do dia.
 - **Contexto de Uso**: Geralmente utilizam a plataforma em momentos de lazer, após o trabalho ou estudos, ou durante eventos sociais com amigos. Eles tendem a preferir a personalização dos pedidos e as opções de delivery rápido.
 - **Responsabilidades dentro da aplicação**: Fazer pedidos, acompanhar o status, utilizar diferentes formas de pagamento e avaliar o serviço após a entrega.
 
