@@ -33,7 +33,7 @@ O público-alvo da **Siri Cascudo Lanchonete** é composto principalmente por pe
 - **Responsabilidades dentro da aplicação**: Escolher opções para toda a família, ajustar os pedidos conforme preferências de sabor ou restrições alimentares, gerenciar o pagamento e avaliar o serviço após a entrega.
 
 
-A **Lanchonete Siri Cascudo** atende a uma diversidade de perfis, desde jovens conectados a famílias que buscam praticidade. A plataforma foi projetada para ser acessível a diferentes faixas etárias e contextos, oferecendo uma experiência intuitiva e eficiente para todos.
+A **Siri Cascudo Lanchonete** atende a uma diversidade de perfis, desde jovens conectados a famílias que buscam praticidade. A plataforma foi projetada para ser acessível a diferentes faixas etárias e contextos, oferecendo uma experiência intuitiva e eficiente para todos.
 
 
 ## 2.3 Objetivos dos usuários a serem avaliados
