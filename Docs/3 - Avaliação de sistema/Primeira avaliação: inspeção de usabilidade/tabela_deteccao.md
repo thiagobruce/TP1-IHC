@@ -36,7 +36,7 @@
 | --- | ------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------- |
 | 1   | Não tem opção de cancelar pedidos | 3. Controle e liberdade do usuário                       | 4          | 2h            |
 | 2   | Não há devolutiva no campo de busca, nem dicas | 6. Reconhecer ao invés de relembrar                         | 3          | 4h            |
-| 3   | Não mostra quais são os itens selecionados. Apenas consigo visualiza-los quando clico em finalizar |1. Visibilidade do status do sistema                                  | 4          | 4h            |
+| 3   | Não mostra quais são os itens selecionados. Apenas consigo visualiza-los quando clico em finalizar |1. Visibilidade do Status do Sistema  | 4          | 4h            |
 | 4   | Não é possiível visualizar em que etapa estou do progresso do meu pedido | 1. Visibilidade do status do sistema                    | 4          | 6h            |
 | 5   | Na aba de tipos de pedidos, o cursor não me mostra em que opção estou localizada. | 1. Visibilidade do status do sistema                        | 1          | 1h           |
 | 6   | Não informa se o item foi adicionado ou retirado dos pedidos ou não. | 1. Visibilidade do status do sistema                          | 4          | 4h            |
