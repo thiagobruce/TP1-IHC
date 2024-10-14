@@ -43,6 +43,9 @@ Nome: Valdeney Brasil
 
 Assinatura: 
 
+<img src= "https://github.com/user-attachments/assets/274070e9-ff54-4094-aa71-185966f8cb71" alt="assinaturavaldeneybrasil" width=200>
+
+
 
 **Avaliador**  
 
