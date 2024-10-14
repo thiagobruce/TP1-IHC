@@ -2,7 +2,7 @@
 
 ## Estudo: “Método de Avaliação de Comunicabilidade (MAC)”
 
-### Prezada Lucilene Mendonça Mourão,
+### Prezada Jucinei Cunha Torres,
 
 Você está sendo convidada a participar de uma avaliação de comunicabilidade na qual será abordada a interação com o sistema **Siri Cascudo Lanchonete** em um ambiente controlado. O objetivo da avaliação é investigar a qualidade da metacomunicação do designer para os usuários. Sua participação na avaliação não é obrigatória.
 
@@ -37,7 +37,7 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 ---
 
 **Participante**  
-Nome: Lucilene Mendonça Mourão
+Nome: Jucinei Cunha Torres
 
 Assinatura: ![Captura de tela 2024-10-11 204532](https://github.com/user-attachments/assets/81393a31-02dd-40d6-90c5-7ba707d7719a)
 
