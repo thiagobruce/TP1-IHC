@@ -43,7 +43,7 @@ Nome: Valdeney Brasil
 
 Assinatura: 
 
-<img src= "https://github.com/user-attachments/assets/274070e9-ff54-4094-aa71-185966f8cb71" alt="assinaturavaldeneybrasil" width=200>
+<img src= "https://github.com/user-attachments/assets/8c667520-45a2-465a-96ec-ee22a14d759a" alt="assinaturavaldeneybrasil" width=200>
 
 
 
