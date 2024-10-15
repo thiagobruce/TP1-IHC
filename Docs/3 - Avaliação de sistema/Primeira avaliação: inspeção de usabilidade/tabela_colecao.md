@@ -11,6 +11,7 @@
 | 7   | A1, A2, A4     | Sim                   | Falta de atalhos ou opções para acelerar o processo para usuários frequentes.                                   | 7. Flexibilidade e eficiência de uso                                   | 3          | 3h            |
 | 8   | A4             | Não                   | Falta de mensagens de erro claras para guiar o usuário quando há um problema.                                   | 5. Prevenção de erros                                                  | 2          | 2h            |
 | 9   | A1, A4         | Sim                   | O site não oferece personalização de experiência, como lembretes de pedidos anteriores.                         | 7. Flexibilidade e eficiência de uso                                   | 3          | 3h            |
+| 10   | A1            | Não                   | Não há indicações claras de que o site está otimizado para diferentes dispositivos (responsividade).                         |4. Consistência e padrões                                   | 3          | 3h            |
 
 
 
