@@ -34,22 +34,28 @@ Os integrantes da equipe aplicaram um conjunto de **Heurísticas de Nielsen**, q
 10. **Ajuda e Documentação**  
     Exemplo: Garantir que suporte e documentação estejam facilmente acessíveis.
 
-# A quantidade e o perfil dos avaliadores
 
-Cada integrante da equipe deve atuar como avaliador individual:
-- Avaliador: Identificação do aluno.
-- Nome: Nome do avaliador (aluno).
-- Perfil: Experiência geral do usuário (iniciante, intermediário, avançado).
-- Experiência Técnica: Grau de familiaridade com tecnologia e interfaces.
-- Conhecimento do Sistema: Nível de conhecimento específico sobre o sistema sendo avaliado.
-- Total de 4 avaliadores.
+## Quantidade e o Perfil dos Avaliadores
 
-| Avaliador |      Nome    |    Perfil    |         Experiência técnica    |   Conhecimento do sistema    | 
-|-----------|--------------|--------------|--------------------------------|------------------------------|
-|     A1    |  Jhonatha Torres Santos Sousa       |  Usuário Avançado            |      Avançado     |    Avançado                          |
-|     A2    |  Kayth Kariny Marques Pinheiro      |  Usuário Avançado            |      Avançado     |    Avançado                          |
-|     A3    |  Susie Laureen Marques Farias       |  Usuário Avançado            |      Avançado     |    Avançado                          |
-|     A4    |  Thiago Bruce Torres                |  Usuário Avançado            |      Avançado     |    Avançado                          |
+Cada integrante da equipe deve atuar como avaliador individual. Abaixo estão os critérios que devem ser utilizados para identificar cada avaliador:
+
+- **Avaliador**: Identificação do aluno.
+- **Nome**: Nome do avaliador (aluno).
+- **Perfil**: Experiência geral do usuário (iniciante, intermediário, avançado).
+- **Experiência Técnica**: Grau de familiaridade com tecnologia e interfaces.
+- **Conhecimento do Sistema**: Nível de conhecimento específico sobre o sistema sendo avaliado.
+
+**Total de Avaliadores: 4**
+
+### Tabela de Avaliadores
+
+| Avaliador |               Nome                |        Perfil        |       Experiência Técnica       |        Conhecimento do Sistema       | 
+|-----------|----------------------------------|---------------------|--------------------------------|-------------------------------------|
+|     A1    | Jhonatha Torres Santos Sousa     | Usuário Avançado    | Avançado                       | Avançado                           |
+|     A2    | Kayth Kariny Marques Pinheiro    | Usuário Avançado    | Avançado                       | Avançado                           |
+|     A3    | Susie Laureen Marques Farias     | Usuário Avançado    | Avançado                       | Avançado                           |
+|     A4    | Thiago Bruce Torres              | Usuário Avançado    | Avançado                       | Avançado                           |
+
 
 # Lista de problemas de usabilidade encontrados
 
