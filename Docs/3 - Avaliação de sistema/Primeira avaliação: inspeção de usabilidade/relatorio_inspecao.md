@@ -72,4 +72,6 @@ Cada integrante da equipe atua como avaliador individual. Abaixo estão os crit�
 | 6   | Ao adicionar produtos ao carrinho, o feedback é pouco visível, podendo confundir usuários sobre a ação.            | 1. Visibilidade do status do sistema                                   | 2          | 4h            | Aumentar o destaque do feedback visual ao adicionar produtos. |
 | 7   | Falta de mensagens de erro claras para guiar o usuário quando há um problema.                                     | 9. Ajudar os usuários a reconhecer, diagnosticar e corrigir erros     | 4          | 3h            | Criar um guia de ajuda com exemplos de erros e soluções. |
 | 8   | Não há uma seção visível de ajuda ou FAQ para auxiliar os usuários com dúvidas.                                     | 10. Ajuda e documentação                                              | 3          | 3h            | Implementar uma seção de FAQ e um chat de suporte. |
+| 10   | Não há indicações claras de que o site está otimizado para diferentes dispositivos (responsividade).               |4. Consistência e padrões                                   | 3          | 3h            | Adicionar um informativo no meio da tela ao entrar no site |
+
 
