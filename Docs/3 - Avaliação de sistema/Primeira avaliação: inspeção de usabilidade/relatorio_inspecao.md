@@ -61,7 +61,6 @@ Cada integrante da equipe atua como avaliador individual. Abaixo estão os crit�
 
 ## Tabela de Problemas de Usabilidade
 
-MUDAR !!!!
 
 | ID  | Descrição do Problema                                                                                              | Heurísticas Violadas                                                   | Severidade | Carga Horária | Recomendações de Solução                          |
 | --- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------- | ------------- | ------------------------------------------------- |
