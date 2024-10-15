@@ -33,9 +33,7 @@ O público-alvo da **Siri Cascudo Lanchonete** é composto principalmente por pe
 A **Siri Cascudo Lanchonete** atende a uma diversidade de perfis, desde jovens conectados a famílias que buscam praticidade. A plataforma foi projetada para ser acessível a diferentes faixas etárias e contextos, oferecendo uma experiência intuitiva e eficiente para todos.
 
 
-## 2.3 Objetivos dos usuários a serem avaliados
- 
-                                              Listagem de tarefas e objetivos                                               
+## 2.3 Objetivos dos usuários a serem avaliados                                       
 
 **1. Usuários Jovens Adultos (18 a 35 anos)**
    - Objetivo: Solicitar um pedido de um lanche no sistema do Siri Cascudo Lanche
