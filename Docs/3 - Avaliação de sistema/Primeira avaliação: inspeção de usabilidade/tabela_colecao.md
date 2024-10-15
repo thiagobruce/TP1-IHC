@@ -9,7 +9,7 @@
 | 5   | A2, A4         | Sim                   | Mensagens de erro como “Endereço inválido” ou “Pagamento não autorizado” poderiam ser mais detalhadas.           | 9. Ajuda ao usuário a reconhecer, diagnosticar e corrigir erros        | 4          | 3h, 6h        |
 | 6   | A2, A3         | Sim                   | Ao adicionar produtos ao carrinho, o feedback é pouco visível, podendo confundir usuários sobre a ação.         | 1. Visibilidade do status do sistema                                   | 2          | 4h, 2h        |
 | 7   | A1, A2, A4     | Sim                   | Falta de atalhos ou opções para acelerar o processo para usuários frequentes.                                   | 7. Flexibilidade e eficiência de uso                                   | 3          | 3h            |
-| 8   | A4             | Sim                   | Falta de mensagens de erro claras para guiar o usuário quando há um problema.                                   | 5. Prevenção de erros                                                  | 2          | 2h            |
+| 8   | A4             | Não                   | Falta de mensagens de erro claras para guiar o usuário quando há um problema.                                   | 5. Prevenção de erros                                                  | 2          | 2h            |
 | 9   | A1, A4         | Sim                   | O site não oferece personalização de experiência, como lembretes de pedidos anteriores.                         | 7. Flexibilidade e eficiência de uso                                   | 3          | 3h            |
 
 
