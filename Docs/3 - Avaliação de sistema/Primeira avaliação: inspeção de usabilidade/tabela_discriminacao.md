@@ -10,4 +10,4 @@
 | 6   | Ao adicionar ou retirar produtos ao carrinho, o feedback é pouco visível, podendo confundir usuários sobre a ação.     | Defeito real    | 2         |
 | 7   | Falta de mensagens de erro claras para guiar o usuário quando há um problema.                                          | Defeito real    | 4         |
 | 8   | Não há uma seção visível de ajuda ou FAQ para auxiliar os usuários com dúvidas ou problemas.                           | Defeito real    | 3         |
-| 9   | Não há indicações claras de que o site está otimizado para diferentes dispositivos (responsividade).                   | Defeito         | 3          |            |
+| 9   | Não há indicações claras de que o site está otimizado para diferentes dispositivos (responsividade).                   | Defeito falso-positivo    | 3          |            |
