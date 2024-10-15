@@ -35,14 +35,15 @@
 
 | ID  | Descrição do Problema                                                                 | Heurísticas Violadas                                     | Severidade | Carga Horária |
 | --- | ------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------- |
-| 1   | Não tem opção de cancelar pedidos | 3. Controle e liberdade do usuário                       | 4          | 2h            |
-| 2   | Não há devolutiva no campo de busca, nem dicas | 6. Reconhecer ao invés de relembrar                         | 3          | 4h            |
-| 3   | Não mostra quais são os itens selecionados. Apenas consigo visualiza-los quando clico em finalizar |1. Visibilidade do Status do Sistema  | 4          | 4h            |
-| 4   | Não é possiível visualizar em que etapa estou do progresso do meu pedido | 1. Visibilidade do status do sistema                    | 4          | 6h            |
-| 5   | Na aba de tipos de pedidos, o cursor não me mostra em que opção estou localizada. | 1. Visibilidade do status do sistema                        | 1          | 1h           |
-| 6   | Não informa se o item foi adicionado ou retirado dos pedidos ou não. | 1. Visibilidade do status do sistema                          | 4          | 4h            |
-| 7   | Não há uma mensagem reforçando a ideia de que se o usuário selecionar a opção de diminuir a quantidade, o item vai ser retirando da lista| 5. Prevenção de erros | 4          | 6h            |
-| 8   |Não me permite 'criar atalhos' para itens de compra mais frequentes | 7. Flexibilidade e eficiência de uso                                    | 4          | 6h            |
+| 3   | Não mostra quais são os itens selecionados. Apenas consigo visualizá-los quando clico em finalizar. | 1. Visibilidade do Status do Sistema                     | 4          | 4h            |
+| 4   | Não é possível visualizar em que etapa estou do progresso do meu pedido.              | 1. Visibilidade do Status do Sistema                     | 4          | 6h            |
+| 5   | Na aba de tipos de pedidos, o cursor não me mostra em que opção estou localizada.     | 1. Visibilidade do Status do Sistema                     | 1          | 1h            |
+| 6   | Não informa se o item foi adicionado ou retirado dos pedidos.                        | 1. Visibilidade do Status do Sistema                     | 4          | 4h            |
+| 1   | Não tem opção de cancelar pedidos.                                                   | 3. Controle e liberdade do usuário                       | 4          | 2h            |
+| 2   | Não há devolutiva no campo de busca, nem dicas.                                       | 6. Reconhecer ao invés de relembrar                      | 3          | 4h            |
+| 7   | Não há uma mensagem reforçando a ideia de que, se o usuário selecionar a opção de diminuir a quantidade, o item vai ser retirado da lista. | 5. Prevenção de erros                                    | 4          | 6h            |
+| 8   | Não me permite 'criar atalhos' para itens de compra mais frequentes.                 | 7. Flexibilidade e eficiência de uso                     | 3          | 4h            |
+                              | 4          | 6h            |
 
 
 
