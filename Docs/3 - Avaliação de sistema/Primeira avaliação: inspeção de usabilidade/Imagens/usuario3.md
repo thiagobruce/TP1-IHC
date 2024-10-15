@@ -2,4 +2,8 @@
 
 ## Usuário 3
 
-img src = "https://github.com/user-attachments/assets/df49b21c-5697-4999-86e8-5505c1ac7f87" />
+- Equipamentos
+<img src = "https://github.com/user-attachments/assets/df49b21c-5697-4999-86e8-5505c1ac7f87" />
+
+- Usuário
+<img src = "https://github.com/user-attachments/assets/df49b21c-5697-4999-86e8-5505c1ac7f87" />
