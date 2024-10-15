@@ -2,7 +2,7 @@
 
 ## Estudo: “Método de Avaliação de Comunicabilidade (MAC)”
 
-### Prezada Larissa Santos Souza,
+### Prezada Luciana Santos Souza,
 
 Você está sendo convidada a participar de uma avaliação de comunicabilidade na qual será abordada a interação com o sistema **Siri Cascudo Lanchonete** em um ambiente controlado. O objetivo da avaliação é investigar a qualidade da metacomunicação do designer para os usuários. Sua participação na avaliação não é obrigatória.
 
@@ -37,8 +37,8 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 ---
 
 **Participante**  
-Nome: Larissa Santos Souza  
-Assinatura: ___________________________
+Nome: Luciana Santos Souza  
+Assinatura: ![image](https://github.com/user-attachments/assets/21107b0a-1d6f-416b-9062-710d6950525d)
 
 **Avaliador**  
 Nome: Jhonatha Torres Santos Souza  
