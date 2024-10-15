@@ -16,7 +16,6 @@
 | 6   | Não há ajuda ou documentação disponível para guiar o usuário durante o processo de pedido.                           | 10. Ajuda e documentação                                              | 4              | 4 horas       |
 
 
-
 **Inspetor**: A2
 
 | ID  | Descrição do Problema                                                                 | Heurísticas Violadas                                     | Severidade | Carga Horária |
@@ -43,8 +42,6 @@
 | 2   | Não há devolutiva no campo de busca, nem dicas.                                       | 6. Reconhecer ao invés de relembrar                      | 3          | 4h            |
 | 7   | Não há uma mensagem reforçando a ideia de que, se o usuário selecionar a opção de diminuir a quantidade, o item vai ser retirado da lista. | 5. Prevenção de erros                                    | 4          | 6h            |
 | 8   | Não me permite 'criar atalhos' para itens de compra mais frequentes.                 | 7. Flexibilidade e eficiência de uso                     | 3          | 4h            |
-                              | 4          | 6h            |
-
 
 
 **Inspetor**: A4
