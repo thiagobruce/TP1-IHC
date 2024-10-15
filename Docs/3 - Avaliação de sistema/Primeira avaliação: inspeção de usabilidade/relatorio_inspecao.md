@@ -61,6 +61,8 @@ Cada integrante da equipe atua como avaliador individual. Abaixo estão os crit�
 
 ## Tabela de Problemas de Usabilidade
 
+MUDAR !!!!
+
 | ID  | Descrição do Problema                                                                                              | Heurísticas Violadas                                                   | Severidade | Carga Horária | Recomendações de Solução                          |
 | --- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------- | ------------- | ------------------------------------------------- |
 | 1   | Não há opção visível para cancelar ou modificar um pedido em andamento.                                           | 3. Controle e liberdade do usuário                                     | 4          | 3h            | Adicionar um botão de cancelamento claro na interface. |
