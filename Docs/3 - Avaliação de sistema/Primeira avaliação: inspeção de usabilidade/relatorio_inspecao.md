@@ -59,10 +59,16 @@ Cada integrante da equipe atua como avaliador individual. Abaixo estão os crit�
 
 ---
 
-## Lista de Problemas de Usabilidade Encontrados
+## Tabela de Problemas de Usabilidade
 
-| Local |      Descrição    |    Heurística Violada    |         Severidade    |   Recomendações de Solução    | 
-|-------|-------------------|--------------------------|-----------------------|-------------------------------|
-|       |                   |                          |                       |                               |
-
+| ID  | Descrição do Problema                                                                                              | Heurísticas Violadas                                                   | Severidade | Carga Horária | Recomendações de Solução                          |
+| --- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------- | ------------- | ------------------------------------------------- |
+| 1   | Não há opção visível para cancelar ou modificar um pedido em andamento.                                           | 3. Controle e liberdade do usuário                                     | 4          | 3h            | Adicionar um botão de cancelamento claro na interface. |
+| 2   | A página tem uma organização confusa, especialmente a área de menus, que exige muita rolagem.                    | 6. Reconhecimento em vez de lembrança / 8. Design estético e minimalista | 3          | 3h            | Reorganizar o layout para facilitar a navegação. |
+| 3   | A categorização dos produtos poderia ser mais intuitiva para facilitar a busca.                                    | 6. Reconhecimento em vez de lembrança                                  | 3          | 6h            | Implementar filtros de busca por tipo de lanche. |
+| 4   | Não existem atalhos ou opções para acelerar o processo para usuários frequentes.                                   | 7. Flexibilidade e eficiência de uso                                   | 3          | 3h            | Criar uma seção de pedidos frequentes e favoritos. |
+| 5   | Mensagens de erro como “Endereço inválido” ou “Pagamento não autorizado” poderiam ser mais detalhadas.            | 9. Ajuda ao usuário a reconhecer, diagnosticar e corrigir erros        | 4          | 3h            | Melhorar a redação das mensagens de erro para incluir soluções. |
+| 6   | Ao adicionar produtos ao carrinho, o feedback é pouco visível, podendo confundir usuários sobre a ação.            | 1. Visibilidade do status do sistema                                   | 2          | 4h            | Aumentar o destaque do feedback visual ao adicionar produtos. |
+| 7   | Falta de mensagens de erro claras para guiar o usuário quando há um problema.                                     | 9. Ajudar os usuários a reconhecer, diagnosticar e corrigir erros     | 4          | 3h            | Criar um guia de ajuda com exemplos de erros e soluções. |
+| 8   | Não há uma seção visível de ajuda ou FAQ para auxiliar os usuários com dúvidas.                                     | 10. Ajuda e documentação                                              | 3          | 3h            | Implementar uma seção de FAQ e um chat de suporte. |
 
