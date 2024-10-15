@@ -1,23 +1,38 @@
-                                                             Itens do Relatório de Inspeção                                               
+## Breve Descrição sobre o Método
 
+### Conjunto de Heurísticas Utilizado
 
-# Breve descrição sobre o método:
+Os integrantes da equipe devem aplicar um conjunto de **Heurísticas de Nielsen**, que são princípios amplamente aceitos para avaliar a usabilidade de interfaces. A seguir estão as principais heurísticas, cada uma acompanhada de exemplos práticos:
 
-<Descreva o método (avaliação heurística) utilizado para realizar a inspeção>
+1. **Visibilidade do Status do Sistema**  
+   Exemplo: Fornecer feedback visual ao usuário sobre o que está acontecendo.
 
-● O conjunto de heurísticas utilizado:
-- Os integrantes da equipe devem utilizar um conjunto de heurísticas de Nielsen, que são princípios
-amplamente aceitos para avaliar a usabilidade de interfaces. As principais heurísticas incluem:
-1. Visibilidade do status do sistema (ex.: feedback visual ao usuário).
-2. Correspondência entre o sistema e o mundo real (ex.: linguagem compreensível para o usuário).
-3. Controle e liberdade do usuário (ex.: opções de desfazer ou refazer ações).
-4. Consistência e padrões (ex.: uniformidade nas ações e termos).
-5. Prevenção de erros (ex.: evitar problemas antes que ocorram).
-6. Reconhecimento em vez de memorização (ex.: facilitar a navegação).
-7. Flexibilidade e eficiência de uso (ex.: atalhos para usuários avançados).
-8. Design estético e minimalista (ex.: eliminar informações desnecessárias).
-9. Ajudar usuários a reconhecer, diagnosticar e corrigir erros (ex.: mensagens de erro claras).
-10. Ajuda e documentação (ex.: suporte disponível).
+2. **Correspondência entre o Sistema e o Mundo Real**  
+   Exemplo: Utilizar uma linguagem compreensível e familiar ao usuário.
+
+3. **Controle e Liberdade do Usuário**  
+   Exemplo: Oferecer opções de desfazer ou refazer ações facilmente.
+
+4. **Consistência e Padrões**  
+   Exemplo: Manter uniformidade nas ações e nos termos utilizados na interface.
+
+5. **Prevenção de Erros**  
+   Exemplo: Implementar medidas que evitem problemas antes que eles ocorram.
+
+6. **Reconhecimento em vez de Memorização**  
+   Exemplo: Facilitar a navegação por meio de elementos visuais reconhecíveis.
+
+7. **Flexibilidade e Eficiência de Uso**  
+   Exemplo: Proporcionar atalhos para usuários avançados.
+
+8. **Design Estético e Minimalista**  
+   Exemplo: Eliminar informações desnecessárias para manter a clareza.
+
+9. **Ajudar Usuários a Reconhecer, Diagnosticar e Corrigir Erros**  
+   Exemplo: Fornecer mensagens de erro claras e úteis.
+
+10. **Ajuda e Documentação**  
+    Exemplo: Garantir que suporte e documentação estejam facilmente acessíveis.
 
 # A quantidade e o perfil dos avaliadores
 
