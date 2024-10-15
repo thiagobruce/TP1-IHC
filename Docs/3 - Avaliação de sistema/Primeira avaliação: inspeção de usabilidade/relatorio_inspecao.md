@@ -2,7 +2,7 @@
 
 ### Conjunto de Heurísticas Utilizado
 
-Os integrantes da equipe devem aplicar um conjunto de **Heurísticas de Nielsen**, que são princípios amplamente aceitos para avaliar a usabilidade de interfaces. A seguir estão as principais heurísticas, cada uma acompanhada de exemplos práticos:
+Os integrantes da equipe aplicaram um conjunto de **Heurísticas de Nielsen**, que são princípios amplamente aceitos para avaliar a usabilidade de interfaces. A seguir estão as principais heurísticas, cada uma acompanhada de exemplos práticos:
 
 1. **Visibilidade do Status do Sistema**  
    Exemplo: Fornecer feedback visual ao usuário sobre o que está acontecendo.
