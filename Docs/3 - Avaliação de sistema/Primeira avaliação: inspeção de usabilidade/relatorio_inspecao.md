@@ -34,10 +34,11 @@ Os integrantes da equipe aplicaram um conjunto de **Heurísticas de Nielsen**, q
 10. **Ajuda e Documentação**  
     Exemplo: Garantir que suporte e documentação estejam facilmente acessíveis.
 
+---
 
-## Quantidade e o Perfil dos Avaliadores
+## Quantidade e Perfil dos Avaliadores
 
-Cada integrante da equipe deve atuar como avaliador individual. Abaixo estão os critérios que devem ser utilizados para identificar cada avaliador:
+Cada integrante da equipe atua como avaliador individual. Abaixo estão os critérios utilizados para identificar cada avaliador:
 
 - **Avaliador**: Identificação do aluno.
 - **Nome**: Nome do avaliador (aluno).
@@ -56,13 +57,12 @@ Cada integrante da equipe deve atuar como avaliador individual. Abaixo estão os
 |     A3    | Susie Laureen Marques Farias     | Usuário Avançado    | Avançado                       | Avançado                           |
 |     A4    | Thiago Bruce Torres              | Usuário Avançado    | Avançado                       | Avançado                           |
 
+---
 
-# Lista de problemas de usabilidade encontrados
+## Lista de Problemas de Usabilidade Encontrados
 
-| Local |      Descrição    |    Heurística violada    |         Severidade    |   Recomendações de solução    | 
-|-------|-------------------|--------------------------|-----------------------|-------------------------------
-|       |                   |  Usuário Avançado        |      Avançado         |    Avançado                   |
-
-
+| Local |      Descrição    |    Heurística Violada    |         Severidade    |   Recomendações de Solução    | 
+|-------|-------------------|--------------------------|-----------------------|-------------------------------|
+|       |                   |                          |                       |                               |
 
 
