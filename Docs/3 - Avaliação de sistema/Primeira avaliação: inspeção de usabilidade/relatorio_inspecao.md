@@ -61,7 +61,7 @@ Cada integrante da equipe atua como avaliador individual. Abaixo estão os crit�
 
 # Consolidação
 
-Durante esta etapa do processo de análise de usabilidade, a equipe se reuniu para discutir os problemas identificados na interface do sistema. O objetivo principal foi avaliar quais desses problemas tinham maior impacto na experiência do usuário e, consequentemente, na usabilidade da plataforma.
+Durante esta etapa do processo de inspeção de usabilidade, a equipe se reuniu para discutir os problemas identificados na interface do sistema. O objetivo principal foi avaliar quais desses problemas tinham maior impacto na experiência do usuário e, consequentemente, na usabilidade da plataforma.
 
 A partir da análise das questões levantadas, foram identificadas diversas violações das heurísticas de usabilidade propostas por Nielsen. Essas violações podem comprometer a eficiência e a satisfação do usuário ao interagir com o sistema. Os principais problemas discutidos foram:
 
@@ -80,16 +80,16 @@ As tabelas a seguir apresentam a quantidade de violações identificadas e a sev
 
 | Heurísticas Violadas                                           | Quantidade |
 |---------------------------------------------------------------|------------|
-| **Visibilidade do Status do Sistema**                          | 1          |
-| **Correspondência entre o Sistema e o Mundo Real**            | 0          |
-| **Controle e Liberdade do Usuário**                            | 1          |
-| **Consistência e Padrões**                                    | 1          |
-| **Prevenção de Erros**                                        | 0          |
-| **Reconhecimento em vez de Lembrança**                        | 1          |
-| **Flexibilidade e Eficiência de Uso**                          | 1          |
-| **Design Estético e Minimalista**                              | 1          |
-| **Ajudar os Usuários a Reconhecer, Diagnosticar e Recuperar de Erros** | 3          |
-| **Ajuda e Documentação**                                      | 2          |
+| ** H1. Visibilidade do Status do Sistema**                          | 2          |
+| ** H2. Correspondência entre o Sistema e o Mundo Real**             | 0          |
+| ** H3. Controle e Liberdade do Usuário**                            | 1          |
+| ** H4. Consistência e Padrões**                                     | 1          |
+| ** H5. Prevenção de Erros**                                         | 0          |
+| ** H6. Reconhecimento em vez de Lembrança**                         | 2          |
+| ** H7. Flexibilidade e Eficiência de Uso**                          | 3          |
+| ** H8. Design Estético e Minimalista**                              | 1          |
+| ** H9. Ajudar os Usuários a Reconhecer, Diagnosticar e Recuperar de Erros** | 3          |
+| ** H10. Ajuda e Documentação**                                       | 2          |
 
 #### Tabela 2: Severidade
 
