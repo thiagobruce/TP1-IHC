@@ -127,7 +127,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 ### Tarefa 6
 
-| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 6**       |                      |                          |                             |                              |
 | Luciana Souza      |                      |                          |                             |                              |
