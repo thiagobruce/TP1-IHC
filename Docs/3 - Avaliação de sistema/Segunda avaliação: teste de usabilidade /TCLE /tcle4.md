@@ -42,4 +42,5 @@ Assinatura: ![Captura de tela 2024-10-16 130409](https://github.com/user-attachm
 
 **Avaliador**  
 Nome: Thiago Bruce Torres
-Assinatura: 
+
+Assinatura: ![Captura de tela 2024-10-16 130735](https://github.com/user-attachments/assets/cb670bf8-0cdd-4a40-ae45-50d56092aa42) 
