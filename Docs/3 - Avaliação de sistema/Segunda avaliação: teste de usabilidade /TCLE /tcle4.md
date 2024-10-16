@@ -38,7 +38,7 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 
 **Participante**  
 Nome: Jucinei Cunha Torres  
-Assinatura: 
+Assinatura: ![Captura de tela 2024-10-16 130409](https://github.com/user-attachments/assets/8c6a83d1-fb5d-4e1e-9949-9a7d8714e452)
 
 **Avaliador**  
 Nome: Thiago Bruce Torres
