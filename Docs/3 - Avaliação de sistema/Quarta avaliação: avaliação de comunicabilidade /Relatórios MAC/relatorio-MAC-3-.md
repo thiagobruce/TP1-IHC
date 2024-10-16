@@ -42,7 +42,7 @@ Este relatório tem como objetivo documentar o processo de avaliação de usabil
 Para garantir o registro detalhado das sessões de avaliação, utilizamos os seguintes equipamentos:
 
 - **Computadores e Dispositivos Móveis**: Utilizados pelos participantes para interagir com o sistema em avaliação.
-- **Celular**: Ferramenta essencial para capturar toda a interação dos usuários com a interface, incluindo cliques, navegação e movimentos dentro do sistema.
+- **Celular e Feraamente de Gravação de Tela**: Ferramenta essencial para capturar toda a interação dos usuários com a interface, incluindo cliques, navegação e movimentos dentro do sistema.
 
 ---
 
