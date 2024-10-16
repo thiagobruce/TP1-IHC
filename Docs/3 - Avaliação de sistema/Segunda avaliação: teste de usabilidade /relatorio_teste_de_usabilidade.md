@@ -62,7 +62,6 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | Jucinei torres     |  40 Segundos         |  0                       |   0                         |    0                         |
-| **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 2
 
@@ -72,7 +71,6 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | Jucunei Torres     |  50 segundos         |   0                      |  1                          |  0                           |
-| **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 3
 
@@ -82,7 +80,6 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |  1 minuto            |  0                       |   0                         | 0                            |
-| **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 4
 
@@ -92,7 +89,6 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |  40 segundos         |  1                       |  0                          |     0                        |
-| **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 5
 
@@ -112,7 +108,6 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |   30 segundos        |  0                       |  0                          | 0                            |
-| **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 7
 
@@ -122,7 +117,6 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |   25 segundos        |  0                       | 0                           |   0                          |
-| **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 8
 
@@ -132,7 +126,6 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |   30 segundos        | 0                        | 0                           |   0                          |
-| **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 9
 
@@ -142,7 +135,6 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |  30 segundos         | 0                        | 1                           |0                             |
-| **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 10
 
@@ -152,7 +144,6 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |    25 segundos       | 0                        | 0                           | 0                            |
-| **Mediana**        |                      |                          |                             |                              |
 
 ---
 
