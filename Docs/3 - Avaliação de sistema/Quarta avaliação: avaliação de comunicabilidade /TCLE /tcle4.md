@@ -40,8 +40,8 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 
  Nome:  Jucinei Cunha Torres
  
- Assinatura: ![Captura de tela 2024-10-14 171451](https://github.com/user-attachments/assets/bd6dc1eb-6999-4692-a5ca-3b5a28eeacdc){: width="300"}
-
+<img src="https://github.com/user-attachments/assets/bd6dc1eb-6999-4692-a5ca-3b5a28eeacdc" alt="Captura de tela 2024-10-14 171451" width="300" />
+ 
 **Avaliador**  
 Nome: Thiago Bruce Torres   
 Assinatura:  ![Captura de tela 2024-10-11 135538](https://github.com/user-attachments/assets/9ec4142d-0540-4b8c-8beb-89c4233284f1)
