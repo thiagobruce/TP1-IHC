@@ -66,93 +66,93 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    | Concluiu                                                                   |
+| P1    | Concluiu                                                           |
 | P2    |                                                                    |
 | P3    |                                                                    |
-| P4    |                                                                    |
+| P4    | Concluiu                                                           |
 
 
 ### TAREFA 2
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    | Não Concluiu                                                                  |
+| P1    | Não Concluiu                                                       |
 | P2    |                                                                    |
 | P3    |                                                                    |
-| P4    |                                                                    |
+| P4    | Não Concluiu                                                       |
 
 
 ### TAREFA 3
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    | Concluiu                                                                   |
+| P1    | Concluiu                                                           |
 | P2    |                                                                    |
 | P3    |                                                                    |
-| P4    |                                                                    |
+| P4    | Concluiu                                                           |
 
 ### TAREFA 4
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    | Concluiu                                                                   |
+| P1    | Concluiu                                                           |
 | P2    |                                                                    |
 | P3    |                                                                    |
-| P4    |                                                                    |
+| P4    | Concluiu                                                           |
 
 ### TAREFA 5
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    | Não realizou                                                                  |
+| P1    | Não realizou                                                       |
 | P2    |                                                                    |
 | P3    |                                                                    |
-| P4    |                                                                    |
+| P4    | Não realizou                                                       |
 
 ### TAREFA 6
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    | Concluiu                                                                   |
+| P1    | Concluiu                                                           |
 | P2    |                                                                    |
 | P3    |                                                                    |
-| P4    |                                                                    |
+| P4    | Concluiu                                                           |
 
 ### TAREFA 7
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    | Concluiu                                                                   |
+| P1    | Concluiu                                                           |
 | P2    |                                                                    |
 | P3    |                                                                    |
-| P4    |                                                                    |
+| P4    | Concluiu                                                           |
 
 ### TAREFA 8
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    | Concluiu                                                                   |
+| P1    | Concluiu                                                           |
 | P2    |                                                                    |
 | P3    |                                                                    |
-| P4    |                                                                    |
+| P4    | Concluiu                                                           |
 
 ### TAREFA 9
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    | Concluiu                                                                   |
+| P1    | Concluiu                                                           |
 | P2    |                                                                    |
 | P3    |                                                                    |
-| P4    |                                                                    |
+| P4    | Concluiu                                                           |
 
 ### TAREFA 1O
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    | Não realizou                                                                   |
+| P1    | Não realizou                                                       |
 | P2    |                                                                    |
 | P3    |                                                                    |
-| P4    |                                                                    |
+| P4    |  Concluiu                                                          |
 
 ------
 
