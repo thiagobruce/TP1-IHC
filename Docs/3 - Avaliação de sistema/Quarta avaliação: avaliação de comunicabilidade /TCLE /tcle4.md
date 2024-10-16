@@ -37,9 +37,10 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 ---
 
 **Participante**  
-
 Nome: Lucilene Mendonça Mourão 
-Assinatura: 
+
+Assinatura:  ![Captura de tela 2024-10-16 133210](https://github.com/user-attachments/assets/fb86e858-4b0b-4137-8b42-40ff2dc5b7dd)
+
 **Avaliador**  
 Nome: Thiago Bruce Torres   
 Assinatura:  ![Captura de tela 2024-10-11 135538](https://github.com/user-attachments/assets/9ec4142d-0540-4b8c-8beb-89c4233284f1)
