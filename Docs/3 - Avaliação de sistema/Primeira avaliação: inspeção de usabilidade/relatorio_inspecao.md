@@ -59,19 +59,47 @@ Cada integrante da equipe atua como avaliador individual. Abaixo estão os crit�
 
 ---
 
-## Tabela de Problemas de Usabilidade
+# Consolidação
 
+Durante esta etapa do processo de análise de usabilidade, a equipe se reuniu para discutir os problemas identificados na interface do sistema. O objetivo principal foi avaliar quais desses problemas tinham maior impacto na experiência do usuário e, consequentemente, na usabilidade da plataforma.
 
-| ID  | Descrição do Problema                                                                                              | Heurísticas Violadas                                                   | Severidade | Carga Horária | Recomendações de Solução                          |
-| --- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------- | ------------- | ------------------------------------------------- |
-| 1   | Não há opção visível para cancelar ou modificar um pedido em andamento.                                           | 3. Controle e liberdade do usuário                                     | 4          | 3h            | Adicionar um botão de cancelamento claro na interface. |
-| 2   | A página tem uma organização confusa, especialmente a área de menus, que exige muita rolagem.                    | 6. Reconhecimento em vez de lembrança / 8. Design estético e minimalista | 3          | 3h            | Reorganizar o layout para facilitar a navegação. |
-| 3   | A categorização dos produtos poderia ser mais intuitiva para facilitar a busca.                                    | 6. Reconhecimento em vez de lembrança                                  | 3          | 6h            | Implementar filtros de busca por tipo de lanche. |
-| 4   | Não existem atalhos ou opções para acelerar o processo para usuários frequentes.                                   | 7. Flexibilidade e eficiência de uso                                   | 3          | 3h            | Criar uma seção de pedidos frequentes e favoritos. |
-| 5   | Mensagens de erro como “Endereço inválido” ou “Pagamento não autorizado” poderiam ser mais detalhadas.            | 9. Ajuda ao usuário a reconhecer, diagnosticar e corrigir erros        | 4          | 3h            | Melhorar a redação das mensagens de erro para incluir soluções. |
-| 6   | Ao adicionar produtos ao carrinho, o feedback é pouco visível, podendo confundir usuários sobre a ação.            | 1. Visibilidade do status do sistema                                   | 2          | 4h            | Aumentar o destaque do feedback visual ao adicionar produtos. |
-| 7   | Falta de mensagens de erro claras para guiar o usuário quando há um problema.                                     | 9. Ajudar os usuários a reconhecer, diagnosticar e corrigir erros     | 4          | 3h            | Criar um guia de ajuda com exemplos de erros e soluções. |
-| 8   | Não há uma seção visível de ajuda ou FAQ para auxiliar os usuários com dúvidas.                                     | 10. Ajuda e documentação                                              | 3          | 3h            | Implementar uma seção de FAQ e um chat de suporte. |
-| 10   | Não há indicações claras de que o site está otimizado para diferentes dispositivos (responsividade).               |4. Consistência e padrões                                   | 3          | 3h            | Adicionar um informativo no meio da tela ao entrar no site |
+A partir da análise das questões levantadas, foram identificadas diversas violações das heurísticas de usabilidade propostas por Nielsen. Essas violações podem comprometer a eficiência e a satisfação do usuário ao interagir com o sistema. Os principais problemas discutidos foram:
 
+1. **Controle e Liberdade do Usuário**: A falta de opções visíveis para cancelar ou modificar um pedido em andamento dificulta a experiência do usuário, levando à frustração.
+  
+2. **Design Estético e Minimalista**: A organização confusa da página, especialmente na área de menus, exige rolagem excessiva e apresenta informações irrelevantes, o que pode sobrecarregar o usuário.
 
+3. **Ajuda e Documentação**: A ausência de mensagens de erro claras e de uma seção de ajuda ou FAQ impede que os usuários saibam como resolver problemas, o que é crítico para uma boa experiência.
+
+## Tabelas Quantitativas
+
+As tabelas a seguir apresentam a quantidade de violações identificadas e a severidade associada a cada problema, permitindo uma melhor compreensão do impacto na usabilidade.
+
+#### Tabela 1: Heurísticas Violadas
+
+| Heurísticas Violadas                                           | Quantidade |
+|---------------------------------------------------------------|------------|
+| **Visibilidade do Status do Sistema**                          | 1          |
+| **Correspondência entre o Sistema e o Mundo Real**            | 0          |
+| **Controle e Liberdade do Usuário**                            | 1          |
+| **Consistência e Padrões**                                    | 1          |
+| **Prevenção de Erros**                                        | 0          |
+| **Reconhecimento em vez de Lembrança**                        | 1          |
+| **Flexibilidade e Eficiência de Uso**                          | 1          |
+| **Design Estético e Minimalista**                              | 1          |
+| **Ajudar os Usuários a Reconhecer, Diagnosticar e Recuperar de Erros** | 3          |
+| **Ajuda e Documentação**                                      | 2          |
+
+#### Tabela 2: Severidade
+
+| Severidade        | Quantidade |
+|-------------------|------------|
+| **Falso-Positivo** | 1          |
+| **Cosmético**      | 0          |
+| **Leve**           | 2          |
+| **Grande**         | 5          |
+| **Catastrófico**   | 2          |
+
+Essas tabelas refletem a análise quantitativa das heurísticas violadas e a severidade dos problemas identificados. O próximo passo será priorizar essas questões, permitindo que a equipe desenvolva soluções para melhorar a usabilidade e a experiência do usuário na plataforma. A inclusão de telas que ilustrem as violações identificadas também será fundamental para uma apresentação mais clara e objetiva das questões a serem abordadas.
+
+----
