@@ -38,7 +38,7 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 
 **Participante**  
 Nome: Larissa Santos Souza  
-Assinatura: ![image](https://github.com/user-attachments/assets/21107b0a-1d6f-416b-9062-710d6950525d)
+Assinatura: ![image](https://github.com/user-attachments/assets/f15762bf-fbbf-4bf7-9491-3ad1dbc4489e)
 
 **Avaliador**  
 Nome: Jhonatha Torres Santos Souza  
