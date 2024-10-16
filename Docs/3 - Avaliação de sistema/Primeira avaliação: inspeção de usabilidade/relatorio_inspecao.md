@@ -80,16 +80,16 @@ As tabelas a seguir apresentam a quantidade de violações identificadas e a sev
 
 | Heurísticas Violadas                                           | Quantidade |
 |---------------------------------------------------------------|------------|
-| ** H1. Visibilidade do Status do Sistema**                          | 2          |
-| ** H2. Correspondência entre o Sistema e o Mundo Real**             | 0          |
-| ** H3. Controle e Liberdade do Usuário**                            | 1          |
-| ** H4. Consistência e Padrões**                                     | 1          |
-| ** H5. Prevenção de Erros**                                         | 0          |
-| ** H6. Reconhecimento em vez de Lembrança**                         | 2          |
-| ** H7. Flexibilidade e Eficiência de Uso**                          | 3          |
-| ** H8. Design Estético e Minimalista**                              | 1          |
-| ** H9. Ajudar os Usuários a Reconhecer, Diagnosticar e Recuperar de Erros** | 3          |
-| ** H10. Ajuda e Documentação**                                       | 2          |
+| **H1. Visibilidade do Status do Sistema**                          | 2          |
+| **H2. Correspondência entre o Sistema e o Mundo Real**             | 0          |
+| **H3. Controle e Liberdade do Usuário**                            | 1          |
+| **H4. Consistência e Padrões**                                     | 1          |
+| **H5. Prevenção de Erros**                                         | 0          |
+| **H6. Reconhecimento em vez de Lembrança**                         | 2          |
+| **H7. Flexibilidade e Eficiência de Uso**                          | 3          |
+| **H8. Design Estético e Minimalista**                              | 1          |
+| **H9. Ajudar os Usuários a Reconhecer, Diagnosticar e Recuperar de Erros** | 3          |
+| **H10. Ajuda e Documentação**                                       | 2          |
 
 #### Tabela 2: Severidade
 
