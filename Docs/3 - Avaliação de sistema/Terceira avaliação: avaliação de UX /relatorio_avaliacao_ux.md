@@ -65,14 +65,14 @@ Os dados coletados pelo **UEQ Online** foram organizados em pares de adjetivos, 
 ## **USUÁRIO 1:**
 |                |                                                |                |
 |----------------|------------------------------------------------|----------------|
-| Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Condutor       |
-| Complicado     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Fácil          |
-| Ineficiente    | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Eficiente      |
-| Confuso        | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Evidente       |
-| Aborrecido     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Excitante      |
-| Desinteressante| ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Interessante   |
-| Convencional   | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Original       |
-| Comum          | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Vanguardista   |
+| Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ● ○                            | Condutor       |
+| Complicado     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ●                            | Fácil          |
+| Ineficiente    | ○ ○ ○ ○ ○ ○ ○ ● ○ ○                            | Eficiente      |
+| Confuso        | ○ ○ ○ ○ ○ ○ ○ ● ○ ○                            | Evidente       |
+| Aborrecido     | ○ ○ ○ ○ ○ ● ○ ○ ○ ○                            | Excitante      |
+| Desinteressante| ○ ○ ○ ○ ○ ○ ● ○ ○ ○                            | Interessante   |
+| Convencional   | ○ ○ ○ ○ ○ ● ○ ○ ○ ○                            | Original       |
+| Comum          | ○ ○ ○ ○ ○ ○ ● ○ ○ ○                            | Vanguardista   |
 
 ## **USUÁRIO 2:**
 |                |                                                |                |
