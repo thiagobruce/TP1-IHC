@@ -44,7 +44,7 @@ Nome: Matheus Azevedo
 
 Assinatura:
 
-<img src="https://github.com/user-attachments/assets/8d3d636c-6e94-4e30-8b64-70f52ea08e8b" alt="assinaturavictor" width="300"/>
+![WhatsApp Image 2024-10-16 at 00 16 35](https://github.com/user-attachments/assets/26ebec1a-a0c8-4077-83b2-ecb7d1dd0cc3)
 
 **Avaliador**  
 Nome: Kayth Kariny Marques Pinheiro  
