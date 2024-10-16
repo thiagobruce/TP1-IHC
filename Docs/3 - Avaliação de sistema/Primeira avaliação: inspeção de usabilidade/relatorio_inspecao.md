@@ -101,6 +101,4 @@ As tabelas a seguir apresentam a quantidade de violações identificadas e a sev
 | **Grande**         | 5          |
 | **Catastrófico**   | 2          |
 
-Essas tabelas refletem a análise quantitativa das heurísticas violadas e a severidade dos problemas identificados. O próximo passo será priorizar essas questões, permitindo que a equipe desenvolva soluções para melhorar a usabilidade e a experiência do usuário na plataforma. A inclusão de telas que ilustrem as violações identificadas também será fundamental para uma apresentação mais clara e objetiva das questões a serem abordadas.
-
 ----
