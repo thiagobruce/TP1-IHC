@@ -38,17 +38,17 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 
 ---
 
-**Participante**  
-**Assinatura**  
+**Participante**   
 Nome: Matheus Azevedo
 
 Assinatura:
 
 <img src="https://github.com/user-attachments/assets/26ebec1a-a0c8-4077-83b2-ecb7d1dd0cc3" alt="WhatsApp Image 2024-10-16 at 00 16 35" width="300"/>
 
-**Avaliador**  
 
-Nome: Kayth Kariny Marques Pinheiro  
+**Avaliador**  
+Nome: Kayth Kariny Marques Pinheiro
+
 Assinatura:
 
 <img src="https://github.com/user-attachments/assets/54aa30f8-c1c2-4d71-bee7-6cbe7b65a57a" alt="assinaturakayth" width="300"/>
