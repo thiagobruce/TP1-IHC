@@ -1,4 +1,4 @@
-# Breve Descrição sobre o Método
+# Descrição sobre o Método
 
 ### Métricas Utilizada
 
