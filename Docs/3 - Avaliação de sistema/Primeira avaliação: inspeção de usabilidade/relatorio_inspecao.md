@@ -1,6 +1,6 @@
 # Breve Descrição sobre o Método
 
-### Conjunto de Heurísticas Utilizado
+### Métricas Utilizada
 
 Os integrantes da equipe aplicaram um conjunto de **Heurísticas de Nielsen**, que são princípios amplamente aceitos para avaliar a usabilidade de interfaces. A seguir estão as principais heurísticas, cada uma acompanhada de exemplos práticos:
 
