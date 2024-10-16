@@ -104,7 +104,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    |  -                                                                  |
+| P1    | Não realizou                                                                  |
 | P2    |                                                                    |
 | P3    |                                                                    |
 | P4    |                                                                    |
@@ -149,7 +149,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    | -                                                                   |
+| P1    | Não realizou                                                                   |
 | P2    |                                                                    |
 | P3    |                                                                    |
 | P4    |                                                                    |
