@@ -83,7 +83,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 ### Tarefa 2
 
-| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 2**       |                      |                          |                             |                              |
 | Luciana Souza      |                      |                          |                             |                              |
@@ -94,7 +94,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 ### Tarefa 3
 
-| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 3**       |                      |                          |                             |                              |
 | Luciana Souza      |                      |                          |                             |                              |
@@ -105,7 +105,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 ### Tarefa 4
 
-| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 4**       |                      |                          |                             |                              |
 | Luciana Souza      |                      |                          |                             |                              |
@@ -116,7 +116,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 ### Tarefa 5
 
-| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 5**       |                      |                          |                             |                              |
 | Luciana Souza      |                      |                          |                             |                              |
@@ -138,7 +138,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 ### Tarefa 7
 
-| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 7**       |                      |                          |                             |                              |
 | Luciana Souza      |                      |                          |                             |                              |
