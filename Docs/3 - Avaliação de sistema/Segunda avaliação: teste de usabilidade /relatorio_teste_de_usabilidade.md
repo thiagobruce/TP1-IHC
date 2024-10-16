@@ -52,24 +52,6 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 # 5. **Análise dos Resultados**
 
-### Problemas Identificados:
-
-| ID  | Descrição do Problema                                                                                                  | Classificação | Severidade |
-| --- | ---------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- |
-| 1   | Falta de opção visível para cancelar ou modificar um pedido em andamento.                                               | Defeito real  | 4          |
-| 2   | A organização da página é confusa, especialmente a área de menus, com excesso de rolagem e informações irrelevantes.    | Defeito real  | 3          |
-| 3   | Categorização de produtos pouco intuitiva, faltando filtros por tipo de lanche.                                         | Defeito real  | 3          |
-| 4   | Ausência de atalhos para usuários frequentes, dificultando um processo de compra mais rápido.                           | Defeito real  | 3          |
-| 5   | Mensagens de erro vagas como "Endereço inválido" ou "Pagamento não autorizado".                                         | Defeito real  | 2          |
-| 6   | Feedback visual insuficiente ao adicionar ou retirar itens do carrinho.                                                | Defeito real  | 2          |
-| 7   | Mensagens de erro pouco claras, dificultando a solução de problemas.                                                   | Defeito real  | 4          |
-| 8   | Ausência de uma seção de ajuda ou FAQ acessível.                                                                       | Defeito real  | 3          |
-| 9   | Falta de indicativos claros de que o site é responsivo para diferentes dispositivos.                                    | Falso-positivo| 3          |
-
----
-
-# 6. Análise dos Resultados
-
 ## **Dados Quantitativos por Tarefa**
 
 ### Tarefa 1
