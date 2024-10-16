@@ -7,7 +7,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 - **Participantes**: 4 pessoas (2 homens e 2 mulheres)
 - **Faixa etária**: Entre 18 e [especificar idade máxima]
 - **Profissão**: Alunos de graduação, professores, operadores, administradores, assistentes e empresários.
-- **Escolaridade**: Ensino médio para alunos; graduação ou doutorado para outros perfis.
+- **Escolaridade**: Ensino superior
 - **Classe econômica**: Sem restrições.
 - **Requisitos**: Familiaridade com o uso de equipamentos tecnológicos (celular, computador ou notebook).
 
