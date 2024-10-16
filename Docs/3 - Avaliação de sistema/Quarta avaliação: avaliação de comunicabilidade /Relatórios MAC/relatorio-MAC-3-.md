@@ -168,7 +168,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 | Assim não dá.     |                |
 | Por que não funciona?        |                |
 | Ué, o que houve?        |                |
-| Pra mim está bom...        | 1               |
+| Pra mim está bom...        |                |
 | Desisto!       |                |
 | Vai de outro jeito.       |                |
 | Não, obtigado.      |                |
