@@ -71,7 +71,6 @@ A partir da análise das questões levantadas, foram identificadas diversas viol
 
 3. **Ajuda e Documentação**: A ausência de mensagens de erro claras e de uma seção de ajuda ou FAQ impede que os usuários saibam como resolver problemas, o que é crítico para uma boa experiência.
    
-------
 
 ## Tabelas Quantitativas
 
