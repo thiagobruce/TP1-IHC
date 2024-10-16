@@ -5,7 +5,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 ### Público-Alvo:
 - **Participantes**: 4 pessoas (2 homens e 2 mulheres)
-- **Faixa etária**: Entre 18 e [especificar idade máxima]
+- **Faixa etária**: Entre 18 e 45 anos
 - **Profissão**: Alunos de graduação, professores, operadores, administradores, assistentes e empresários.
 - **Escolaridade**: Ensino superior
 - **Classe econômica**: Sem restrições.
