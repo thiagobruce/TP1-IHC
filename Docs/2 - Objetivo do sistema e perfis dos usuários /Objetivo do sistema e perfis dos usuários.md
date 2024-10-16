@@ -37,7 +37,7 @@ A **Siri Cascudo Lanchonete** atende a uma diversidade de perfis, desde jovens c
 
 ### **1. Usuários Jovens Adultos (18 a 35 anos)**
 
-**Objetivo:** Realizar um pedido no sistema do **Siri Cascudo Lanche**.
+**Objetivo:** Realizar um pedido no sistema do **Siri Cascudo Lanchonete**.
 
 **Tarefas:**
 
@@ -56,7 +56,7 @@ A **Siri Cascudo Lanchonete** atende a uma diversidade de perfis, desde jovens c
 
 ### **2. Usuários Famílias com Crianças (25 a 45 anos)**
 
-**Objetivo:** Realizar um pedido no sistema do **Siri Cascudo Lanche**.
+**Objetivo:** Realizar um pedido no sistema do **Siri Cascudo Lanchonete**.
 
 **Tarefas:**
 
