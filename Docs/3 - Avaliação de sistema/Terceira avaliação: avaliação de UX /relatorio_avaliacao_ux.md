@@ -1,7 +1,7 @@
 # Primeira Etapa 
 
 ## Interpretação das Métricas e Problemas de Acessibilidade Identificados pelo Lighthouse
-Na primeira etapa da análise, utilizamos a ferramenta Lighthouse para avaliar o site da Siri Cascudo Lanchonete, com foco nas métricas de desempenho, acessibilidade, boas práticas e SEO. A seguir, destacam-se os principais resultados e problemas de acessibilidade encontrados:
+Na primeira etapa da análise, utilizamos a ferramenta Lighthouse para avaliar o site da Siri Cascudo Lanchonete, com foco nas métricas de desempenho, acessibilidade, boas práticas e SEO.
 
 ## Análise da Ferramenta Lighthouse
 
@@ -15,7 +15,7 @@ Na primeira etapa da análise, utilizamos a ferramenta Lighthouse para avaliar o
 
 ![WhatsApp Image 2024-10-16 at 00 32 23 (3)](https://github.com/user-attachments/assets/f25a85de-2c0c-4428-a7d5-96841029e07b)
 
-As métricas de desempenho analisadas revelam problemas significativos na experiência do usuário, principalmente em relação ao tempo de carregamento e à estabilidade da página. A seguir, apresento uma análise detalhada de cada métrica, juntamente com os principais problemas de acessibilidade identificados:
+As métricas de desempenho analisadas revelam problemas significativos na experiência do usuário, principalmente em relação ao tempo de carregamento e à estabilidade da página. Apresentamos uma análise detalhada de cada métrica, juntamente com os principais problemas de acessibilidade identificados:
 
 ### Análise das Métricas:
 1. **Largest Contentful Paint (LCP):** 
