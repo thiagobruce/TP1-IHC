@@ -1,140 +1,87 @@
-                                               Produto 8: Relatório do teste de usabilidade                                               
+# 1. **Planejamento do Teste**
 
+### Objetivo:
+Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabilidade e eficiência da interface.
 
-# 1. Planejamento do Teste
-   - Objetivos: Fazer um pedido na plataforma de pedidos do Siri Cascudo Lanchonete
-  
-   - Público-Alvo:
-     - 4 participantes
-     - Faixa etárias: entre 18 e xxx anos
-     - Profissão: Alunos de graduação, professores, operadores, administradores, assistentes e empresários.
-     - Escolaridade: Ensino médio para alunos, graduação e doutorado para professores ou outras profissões.
-     - Classe econômica: Sem restrição.
-     - Requisitos: Já ter ultilizado algum equipamento tecnológico (celular, computador ou notebook).
+### Público-Alvo:
+- **Participantes**: 4 pessoas (2 homens e 2 mulheres)
+- **Faixa etária**: Entre 18 e [especificar idade máxima]
+- **Profissão**: Alunos de graduação, professores, operadores, administradores, assistentes e empresários.
+- **Escolaridade**: Ensino médio para alunos; graduação ou doutorado para outros perfis.
+- **Classe econômica**: Sem restrições.
+- **Requisitos**: Familiaridade com o uso de equipamentos tecnológicos (celular, computador ou notebook).
 
-   - Tarefas
-     - Cenário: Após o trabalho ou aula, você deseja comer um lanche do Siri Cascudo.
+### Cenário e Tarefas:
+- **Cenário**: Após um dia de trabalho ou aula, o participante deseja realizar um pedido de lanche no Siri Cascudo.
+- **Tarefas**: Simular o processo de compra, desde a navegação no cardápio até a finalização do pedido.
 
-   - Métricas
-     - Taxa de sucesso:
-     - Taxa de erros:
-     - Tempo que uma tarefa requer para ser concluída:
-     - Satisfação:
-     - Facilidade de Aprendizagem:
-     - Eficiência de uso:
-     - Facilidade de memorização:
-     - Prevenção de erros:
-   
-   - Equipamentos
-     - Notebook ou computador para o usuário, mouse, gravador, webcam, cadeira confortável, acesso a internet, cronômetro, planilhas e Termo de
-Consentimento Livre e Esclarecido.
-   
-# 2.  Preparação para o Teste
-   - Foram recrutados 4 pessoas. Entre eles X homens e X mulheres.
-   - Os equipamentos foram instalados e organizados
-   - Foi feito a preparação do ambiente climatizado e fora de ruídos externos.
-      
-# 3. Teste Piloto
-  - Validação do funcionamento e configuração do teste verificando ele está ocorrendo de acordo com o planejado
-    
-# 4. Execução do Teste
-Interação do usuário com o produto apontando problemas de usabilidade 
+### Métricas a Serem Avaliadas:
+- **Taxa de sucesso**: Percentual de tarefas concluídas com êxito.
+- **Taxa de erros**: Número de erros cometidos durante as tarefas.
+- **Tempo de conclusão**: Tempo necessário para completar cada tarefa.
+- **Satisfação do usuário**: Grau de satisfação dos participantes.
+- **Facilidade de aprendizagem**: Capacidade dos usuários de aprender rapidamente o uso da plataforma.
+- **Eficiência de uso**: Medida da produtividade ao utilizar a plataforma.
+- **Memorização**: Capacidade de relembrar procedimentos durante a reutilização do sistema.
+- **Prevenção de erros**: Efetividade do sistema em prevenir e corrigir erros.
 
-# 5. Análise dos Resultados 
+### Equipamentos Necessários:
+- **Hardware**: Notebook ou computador, mouse, webcam.
+- **Software**: Gravador, planilhas, cronômetro, conexão à internet.
+- **Ambiente**: Cadeira confortável, ambiente climatizado e sem ruídos externos.
+- **Documentos**: Termo de Consentimento Livre e Esclarecido (TCLE).
 
-- Informações da TABELA DE DISCRIMINAÇÃO
+---
 
-| ID  | Descrição do problema                                                                                                  | Classificação   | Severidade |
-| --- | ---------------------------------------------------------------------------------------------------------------------- | --------------- |-----------|
-| 1   | Não há opção visível para cancelar ou modificar um pedido em andamento.                                                | Defeito real    | 4         |
-| 2   | A página tem uma organização confusa, especialmente a área de menus, que exige muita rolagem e com informações irrelevantes. | Defeito real    | 3         |
-| 3   | A categorização dos produtos poderia ser mais intuitiva para facilitar a busca, como filtros por tipo de lanche.     | Defeito real    | 3         |
-| 4   | Não existem atalhos ou opções para acelerar o processo para usuários frequentes.                                       | Defeito real    | 3         |
-| 5   | Mensagens de erro como “Endereço inválido” ou “Pagamento não autorizado” poderiam ser mais detalhadas para que o usuário saiba como corrigir. | Defeito real    | 2         |
-| 6   | Ao adicionar ou retirar produtos ao carrinho, o feedback é pouco visível, podendo confundir usuários sobre a ação.     | Defeito real    | 2         |
-| 7   | Falta de mensagens de erro claras para guiar o usuário quando há um problema.                                          | Defeito real    | 4         |
-| 8   | Não há uma seção visível de ajuda ou FAQ para auxiliar os usuários com dúvidas ou problemas.                           | Defeito real    | 3         |
-| 9   | Não há indicações claras de que o site está otimizado para diferentes dispositivos (responsividade).                   | Defeito falso-positivo    | 3          |            |
+# 2. **Preparação para o Teste**
+- Recrutamento de 4 participantes (2 homens e 2 mulheres).
+- Organização e verificação dos equipamentos.
+- Preparação do ambiente de teste, assegurando conforto e condições ideais.
 
-## Dados quantitativos / tarefa
+---
 
-                                                           TAREFA 1 
-|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
-|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
-|                  |                          |                        |                            |                                       |
-|                  |                          |                        |                            |                                       |
-|  Valdeney Brasil |                          |                        |                            |                                       |
-|      Victor      |                          |                        |                            |                                       |
-|      Mediana     |                          |                        |                            |                                       |
+# 3. **Teste Piloto**
+- Realização de um teste piloto para verificar o correto funcionamento do ambiente e garantir que todos os componentes do teste estejam adequados.
 
+---
 
-                                                           TAREFA 2 
-|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
-|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
-|                  |                          |                        |                            |                                       |
-|                  |                          |                        |                            |                                       |
-|  Valdeney Brasil |                          |                        |                            |                                       |
-|      Victor      |                          |                        |                            |                                       |
-|      Mediana     |                          |                        |                            |                                       |
+# 4. **Execução do Teste**
+- Os participantes interagirão com a plataforma, identificando possíveis problemas de usabilidade.
 
+---
 
-                                                           TAREFA 3 
-|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
-|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
-|                  |                          |                        |                            |                                       |
-|                  |                          |                        |                            |                                       |
-|  Valdeney Brasil |                          |                        |                            |                                       |
-|      Victor      |                          |                        |                            |                                       |
-|      Mediana     |                          |                        |                            |                                       |
+# 5. **Análise dos Resultados**
 
+### Problemas Identificados:
 
-                                                           TAREFA 4 
-|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
-|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
-|                  |                          |                        |                            |                                       |
-|                  |                          |                        |                            |                                       |
-|  Valdeney Brasil |                          |                        |                            |                                       |
-|      Victor      |                          |                        |                            |                                       |
-|      Mediana     |                          |                        |                            |                                       |
+| ID  | Descrição do Problema                                                                                                  | Classificação | Severidade |
+| --- | ---------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- |
+| 1   | Falta de opção visível para cancelar ou modificar um pedido em andamento.                                               | Defeito real  | 4          |
+| 2   | A organização da página é confusa, especialmente a área de menus, com excesso de rolagem e informações irrelevantes.    | Defeito real  | 3          |
+| 3   | Categorização de produtos pouco intuitiva, faltando filtros por tipo de lanche.                                         | Defeito real  | 3          |
+| 4   | Ausência de atalhos para usuários frequentes, dificultando um processo de compra mais rápido.                           | Defeito real  | 3          |
+| 5   | Mensagens de erro vagas como "Endereço inválido" ou "Pagamento não autorizado".                                         | Defeito real  | 2          |
+| 6   | Feedback visual insuficiente ao adicionar ou retirar itens do carrinho.                                                | Defeito real  | 2          |
+| 7   | Mensagens de erro pouco claras, dificultando a solução de problemas.                                                   | Defeito real  | 4          |
+| 8   | Ausência de uma seção de ajuda ou FAQ acessível.                                                                       | Defeito real  | 3          |
+| 9   | Falta de indicativos claros de que o site é responsivo para diferentes dispositivos.                                    | Falso-positivo| 3          |
 
+---
 
-                                                           TAREFA 5 
-|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
-|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
-|                  |                          |                        |                            |                                       |
-|                  |                          |                        |                            |                                       |
-|  Valdeney Brasil |                          |                        |                            |                                       |
-|      Victor      |                          |                        |                            |                                       |
-|      Mediana     |                          |                        |                            |                                       |
+# 6. **Dados Quantitativos por Tarefa**
 
+### Tarefa 1
 
-                                                           TAREFA 6 
-|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
-|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
-|                  |                          |                        |                            |                                       |
-|                  |                          |                        |                            |                                       |
-|  Valdeney Brasil |                          |                        |                            |                                       |
-|      Victor      |                          |                        |                            |                                       |
-|      Mediana     |                          |                        |                            |                                       |
+| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
+| **Tarefa 1**       |                      |                          |                             |                              |
+| Valdeney Brasil    |                      |                          |                             |                              |
+| Victor Barbosa     |                      |                          |                             |                              |
+| Larissa            |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| **Mediana**        |                      |                          |                             |                              |
 
+---
 
-                                                           TAREFA 7 
-|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
-|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
-|                  |                          |                        |                            |                                       |
-|                  |                          |                        |                            |                                       |
-|  Valdeney Brasil |                          |                        |                            |                                       |
-|      Victor      |                          |                        |                            |                                       |
-|      Mediana     |                          |                        |                            |                                       |
-
-
-                                                           TAREFA 8 
-|   PARTICIPANTE   | TEMPO GASTO (M1)         | NÚMERO DE ERROS  (M2)  | NÚMERO DE CONFUSÃO  (M3)   | NÚMERO DE SOLICITAÇÃO DE AJUDA  (M4)  | 
-|------------------|--------------------------|------------------------|----------------------------|---------------------------------------|
-|                  |                          |                        |                            |                                       |
-|                  |                          |                        |                            |                                       |
-|  Valdeney Brasil |                          |                        |                            |                                       |
-|      Victor      |                          |                        |                            |                                       |
-|      Mediana     |                          |                        |                            |                                       |
 
 
