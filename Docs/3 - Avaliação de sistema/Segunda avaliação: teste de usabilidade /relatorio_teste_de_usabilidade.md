@@ -26,7 +26,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 - **Prevenção de erros**: Efetividade do sistema em prevenir e corrigir erros.
 
 ### Equipamentos Necessários:
-- **Hardware**: Notebook ou computador, mouse, webcam.
+- **Hardware**: Notebook e celular.
 - **Software**: Gravador, planilhas, cronômetro, conexão à internet.
 - **Ambiente**: Cadeira confortável, ambiente climatizado e sem ruídos externos.
 - **Documentos**: Termo de Consentimento Livre e Esclarecido (TCLE).
