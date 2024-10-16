@@ -179,5 +179,4 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 ## Considerações Finais
 
 O **Método de Avaliação Cooperativa (MAC)** permitiu uma colaboração ativa entre a equipe de avaliação e os usuários, resultando em uma análise mais rica e detalhada dos problemas de usabilidade. O feedback qualitativo obtido nas discussões com os participantes ajudou a identificar não apenas as falhas na interface, mas também sugestões diretas de melhorias por parte dos próprios usuários.
-
-Esses dados serão utilizados para orientar as próximas etapas de aprimoramento do sistema, garantindo uma experiência de uso mais intuitiva e eficiente.
+----
