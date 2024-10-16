@@ -11,12 +11,14 @@ Na primeira etapa da análise, utilizamos a ferramenta Lighthouse para avaliar o
 2. **Imagens sem atributos `alt`**: Isso dificulta a compreensão para usuários que dependem de leitores de tela.
 3. **Elementos de formulário sem etiquetas**: Pode resultar em dificuldades de navegação para usuários com deficiência visual.
 
-### Impacto na Experiência do Usuário:
+## Impacto na Experiência do Usuário:
 Essas falhas criam barreiras de acessibilidade, impedindo que alguns usuários concluam suas interações no site de forma satisfatória, o que pode comprometer a experiência e gerar frustração.
 
 ---
 
-# Segunda Etapa: Avaliação da Experiência do Usuário (UX) com o UEQ Online
+# Segunda Etapa
+
+## Avaliação da Experiência do Usuário (UX) com o UEQ Online
 
 Após a execução de testes de usabilidade, utilizamos a ferramenta **UEQ Online** para capturar a percepção dos usuários sobre a experiência no site.
 
