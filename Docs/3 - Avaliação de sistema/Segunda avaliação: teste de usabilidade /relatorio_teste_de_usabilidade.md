@@ -74,72 +74,74 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 ### Tarefa 1
 
-| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
-|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |                      |                          |                             |                              |
-| Matheus Azevedo    |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| **Mediana**        |                      |                          |                             |                              |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Solicitação de Ajuda** |
+|-------------------|----------------------|--------------------------|-----------------------------|
+| Luciana Souza      |                      |                          |                             |
+| Matheus Azevedo    |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| **Mediana**        |                      |                          |                             |
 
 ### Tarefa 2
 
-| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
-|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |                      |                          |                             |                              |
-| Matheus Azevedo    |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| **Mediana**        |                      |                          |                             |                              |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Solicitação de Ajuda** |
+|-------------------|----------------------|--------------------------|-----------------------------|
+| Luciana Souza      |                      |                          |                             |
+| Matheus Azevedo    |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| **Mediana**        |                      |                          |                             |
 
 ### Tarefa 3
 
-| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
-|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |                      |                          |                             |                              |
-| Matheus Azevedo    |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| **Mediana**        |                      |                          |                             |                              |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Solicitação de Ajuda** |
+|-------------------|----------------------|--------------------------|-----------------------------|
+| Luciana Souza      |                      |                          |                             |
+| Matheus Azevedo    |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| **Mediana**        |                      |                          |                             |
 
 ### Tarefa 4
 
-| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
-|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |                      |                          |                             |                              |
-| Matheus Azevedo    |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| **Mediana**        |                      |                          |                             |                              |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Solicitação de Ajuda** |
+|-------------------|----------------------|--------------------------|-----------------------------|
+| Luciana Souza      |                      |                          |                             |
+| Matheus Azevedo    |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| **Mediana**        |                      |                          |                             |
+
 ### Tarefa 5
 
-| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
-|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |                      |                          |                             |                              |
-| Matheus Azevedo    |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| **Mediana**        |                      |                          |                             |                              |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Solicitação de Ajuda** |
+|-------------------|----------------------|--------------------------|-----------------------------|
+| Luciana Souza      |                      |                          |                             |
+| Matheus Azevedo    |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| **Mediana**        |                      |                          |                             |
 
 ### Tarefa 6
 
-| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
-|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |                      |                          |                             |                              |
-| Matheus Azevedo    |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| **Mediana**        |                      |                          |                             |                              |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Solicitação de Ajuda** |
+|-------------------|----------------------|--------------------------|-----------------------------|
+| Luciana Souza      |                      |                          |                             |
+| Matheus Azevedo    |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| **Mediana**        |                      |                          |                             |
 
 ### Tarefa 7
 
-| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
-|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |                      |                          |                             |                              |
-| Matheus Azevedo    |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
-| **Mediana**        |                      |                          |                             |                              |
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Solicitação de Ajuda** |
+|-------------------|----------------------|--------------------------|-----------------------------|
+| Luciana Souza      |                      |                          |                             |
+| Matheus Azevedo    |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| xx                 |                      |                          |                             |
+| **Mediana**        |                      |                          |                             |
+
 
 ---
 
