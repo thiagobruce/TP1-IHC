@@ -70,6 +70,8 @@ A partir da análise das questões levantadas, foram identificadas diversas viol
 2. **Design Estético e Minimalista**: A organização confusa da página, especialmente na área de menus, exige rolagem excessiva e apresenta informações irrelevantes, o que pode sobrecarregar o usuário.
 
 3. **Ajuda e Documentação**: A ausência de mensagens de erro claras e de uma seção de ajuda ou FAQ impede que os usuários saibam como resolver problemas, o que é crítico para uma boa experiência.
+   
+------
 
 ## Tabelas Quantitativas
 
