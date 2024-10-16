@@ -142,8 +142,8 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| **Tarefa 7**       |  15 segundos                    |  0                        |   0                          |  0                            |
-| Luciana Souza      |                      |                          |                             |                              |
+| **Tarefa 7**       |                      |                         |                            |                            |
+| Luciana Souza      |    15 segundos                  |   0                        |   0                           | 0                               |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
