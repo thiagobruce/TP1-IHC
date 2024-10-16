@@ -68,8 +68,6 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 ---
 
-# 6. Análise dos Resultados
-
 ## **Dados Quantitativos**
 
 ### Tarefa 1
