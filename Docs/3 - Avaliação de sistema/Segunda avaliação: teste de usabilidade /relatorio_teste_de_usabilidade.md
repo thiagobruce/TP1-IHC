@@ -76,90 +76,90 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      | 20 Segundos                     | 0                         | 0                            |  0                            |
+| Luciana Souza      | 20 Segundos          | 0                        | 0                           |  0                           |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
+| Jucinei torres     |  40 Segundos         |  0                       |   0                         |    0                         |
 | **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 2
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |  50 segundos                    |  0                        |  1                           |  0                            |
+| Luciana Souza      |  50 segundos         |  0                       |  1                          |  0                            |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
+| Jucunei Torres     |  50 segundos         |   0                      |  1                          |  0                           |
 | **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 3
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      | 1 minuto                     |  0                        |   0                          | 0                             |
+| Luciana Souza      | 1 minuto             |  0                       |   0                         | 0                            |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
+| Jucinei Torres     |  1 minuto            |  0                       |   0                         | 0                            |
 | **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 4
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |  15 segundos                    |  0                        |     0                        |  0                            |
+| Luciana Souza      |  15 segundos         |  0                       |     0                       |  0                           |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
+| Jucinei Torres     |  40 segundos         |  1                       |  0                          |     0                        |
 | **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 5
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |  -                    |   -                       |  -                           | -                             |
+| Luciana Souza      |  -                   |   -                     |  -                          | -                             |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
+| Jucinei Torres     |  50 segundos         |  0                       |  1                          |  0                           |
 | **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 6
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |  20 segundos                    | 0                         |   0                          |   0                           |
+| Luciana Souza      |  20 segundos         | 0                        |   0                         |   0                          |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
+| Jucinei Torres     |   30 segundos        |  0                       |  0                          | 0                            |
 | **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 7
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |    15 segundos                  |   0                        |   0                           | 0                               |
+| Luciana Souza      |    15 segundos       |   0                      |   0                         | 0                            |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
+| Jucinei Torres     |   25 segundos        |  0                       | 0                           |   0                          |
 | **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 8
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |    15 segundos                  |   0                        |   0                           | 0                               |
+| Luciana Souza      |    15 segundos       |   0                      |   0                         | 0                            |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
+| Jucinei Torres     |   30 segundos        | 0                        | 0                           |   0                          |
 | **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 9
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |    15 segundos                  |   0                        |   0                           | 0                               |
+| Luciana Souza      |    15 segundos       |   0                      |   0                         | 0                            |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
+| Jucinei Torres     |  30 segundos         | 0                        | 1                           |0                             |
 | **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 10
@@ -169,7 +169,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Luciana Souza      |    15 segundos                  |   0                        |   0                           | 0                               |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
-| xx                 |                      |                          |                             |                              |
+| Jucinei Torres     |    25 segundos       | 0                        | 0                           | 0                            |
 | **Mediana**        |                      |                          |                             |                              |
 
 ---
