@@ -28,6 +28,7 @@ Após a execução de testes de usabilidade, utilizamos a ferramenta **UEQ Onlin
 ## Resultados da Avaliação de UX:
 Os dados coletados pelo **UEQ Online** foram organizados em pares de adjetivos, onde os usuários avaliaram o site de acordo com sua experiência. A seguir, os principais resultados de quatro usuários diferentes:
 
+## **USUÁRIO 1:**
 |                |                                                |                |
 |----------------|------------------------------------------------|----------------|
 | Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Condutor       |
@@ -39,7 +40,7 @@ Os dados coletados pelo **UEQ Online** foram organizados em pares de adjetivos, 
 | Convencional   | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Original       |
 | Comum          | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Vanguardista   |
 
-**USUÁRIO 2:**
+## **USUÁRIO 2:**
 |                |                                                |                |
 |----------------|------------------------------------------------|----------------|
 | Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Condutor       |
@@ -51,7 +52,7 @@ Os dados coletados pelo **UEQ Online** foram organizados em pares de adjetivos, 
 | Convencional   | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Original       |
 | Comum          | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Vanguardista   |
 
-**USUÁRIO 3:**
+## **USUÁRIO 3:**
 |                |                                                |                |
 |----------------|------------------------------------------------|----------------|
 | Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Condutor       |
@@ -63,7 +64,7 @@ Os dados coletados pelo **UEQ Online** foram organizados em pares de adjetivos, 
 | Convencional   | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Original       |
 | Comum          | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Vanguardista   |
 
-**USUÁRIO 4:**
+## **USUÁRIO 4:**
 |                |                                                |                |
 |----------------|------------------------------------------------|----------------|
 | Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Condutor       |
