@@ -145,6 +145,9 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |    25 segundos       | 0                        | 0                           | 0                            |
 
+
+## Análise
+
 ---
 
 
@@ -186,4 +189,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | 3  |                                     |                                                  |
 | 4  |                                      |                                                  |
 
-----
+
+## Análise
+
+---
