@@ -75,7 +75,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 1**       |                      |                          |                             |                              |
-| XX                 |                      |                          |                             |                              |
+| Luciana Souza      |                      |                          |                             |                              |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
@@ -86,7 +86,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 2**       |                      |                          |                             |                              |
-| XX                 |                      |                          |                             |                              |
+| Luciana Souza      |                      |                          |                             |                              |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
@@ -97,7 +97,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 3**       |                      |                          |                             |                              |
-| XX                 |                      |                          |                             |                              |
+| Luciana Souza      |                      |                          |                             |                              |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
@@ -108,7 +108,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 4**       |                      |                          |                             |                              |
-| XX                 |                      |                          |                             |                              |
+| Luciana Souza      |                      |                          |                             |                              |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
@@ -119,7 +119,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 5**       |                      |                          |                             |                              |
-| XX                 |                      |                          |                             |                              |
+| Luciana Souza      |                      |                          |                             |                              |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
@@ -130,7 +130,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 6**       |                      |                          |                             |                              |
-| XX                 |                      |                          |                             |                              |
+| Luciana Souza      |                      |                          |                             |                              |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
@@ -141,7 +141,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 7**       |                      |                          |                             |                              |
-| XX                 |                      |                          |                             |                              |
+| Luciana Souza      |                      |                          |                             |                              |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
