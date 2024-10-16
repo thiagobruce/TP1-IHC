@@ -94,7 +94,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |  -                   |   -                     |  -                          | -                             |
+| Luciana Souza      |  Não Realizou                   |   -                     |  -                          | -                             |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |  50 segundos         |  0                       |  1                          |  0                           |
@@ -122,7 +122,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |    15 segundos       |   0                      |   0                         | 0                            |
+| Luciana Souza      |    20 segundos       |   0                      |   0                         | 0                            |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |   30 segundos        | 0                        | 0                           |   0                          |
@@ -140,7 +140,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |    15 segundos                  |   0                        |   0                           | 0                               |
+| Luciana Souza      |   Não Realizou                   |   -                        |   -                           | -                               |
 | Matheus Azevedo    |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |    25 segundos       | 0                        | 0                           | 0                            |
