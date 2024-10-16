@@ -1,82 +1,43 @@
-# Primeira etapa 
-Interpretação das métricas geradas na ferramenta Lighthouse[^1] e problemas de acessibilidade identificados pela ferramenta.
-[^1]: Análise da ferramenta Lighthouse sobre o site Siri Cascudo Lanchonete: <html>  https://pagespeed.web.dev/analysis/https-siricascudolanchonete-pedidosite-com-br/l2sc8faqx3?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=pt-PT&utm_source=lh-chrome-ext </html>
+# Primeira Etapa: Interpretação das Métricas e Problemas de Acessibilidade Identificados pelo Lighthouse
 
-## Interpretação das métricas 
-XXXXXXXX
+Na primeira etapa da análise, utilizamos a ferramenta Lighthouse para avaliar o site da Siri Cascudo Lanchonete, com foco nas métricas de desempenho, acessibilidade, boas práticas e SEO. A seguir, destacam-se os principais resultados e problemas de acessibilidade encontrados:
 
-## Problemas de acessibilidade identificados pela ferramenta
+### Análise da Ferramenta Lighthouse
+- **Link da análise:** [Análise do site Siri Cascudo Lanchonete](https://pagespeed.web.dev/analysis/https-siricascudolanchonete-pedidosite-com-br/l2sc8faqx3?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=pt-PT&utm_source=lh-chrome-ext)
 
-Nomes e etiquetas:
-- Os botões não têm um nome acessível
-- Os elementos de imagem não têm atributos [alt]
-- Os elementos de formulário não têm etiquetas associadas
+### Problemas de Acessibilidade Identificados:
+1. **Botões sem nomes acessíveis**: Não possuem descrições adequadas para tecnologias assistivas.
+2. **Imagens sem atributos `alt`**: Isso dificulta a compreensão para usuários que dependem de leitores de tela.
+3. **Elementos de formulário sem etiquetas**: Pode resultar em dificuldades de navegação para usuários com deficiência visual.
 
-**Análise:**
-O usuário pode não concluir seu objetivo final no site, pois identificou uma 'barreira' em sua busca.
+#### Impacto na Experiência do Usuário:
+Essas falhas criam barreiras de acessibilidade, impedindo que alguns usuários concluam suas interações no site de forma satisfatória, o que pode comprometer a experiência e gerar frustração.
 
-# Segunda etapa 
-Utilização da ferramenta UEQ online[^2] para coletar dados sobre a experiência do usuário (User Experience) após o teste de usabilidade.
-[^2]: Planilha com o relatório UEQ online: https://onedrive.live.com/personal/c6a52d825040847a/_layouts/15/doc2.aspx?resid=2c413782-54c2-4034-84fe-dc27936ddeec&cid=c6a52d825040847a&ct=1728801614322&wdOrigin=OFFICECOM-WEB.START.UPLOAD&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=5ed75e1d-b19e-4863-873a-70dc7c77056d 
-## Interpretação das métricas 
-XXXX
+---
 
-## UEQ ONLINE
+# Segunda Etapa: Avaliação da Experiência do Usuário (UX) com o UEQ Online
 
-**USUÁRIO 1:**
+Após a execução de testes de usabilidade, utilizamos a ferramenta **UEQ Online** para capturar a percepção dos usuários sobre a experiência no site.
 
-|                |                                                |                |
-|----------------|------------------------------------------------|----------------|
-| Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Condutor       |
-| Complicado     | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Fácil          |
-| Ineficiente    | ○ ○ ○ ○ ○ ○ ○ ○                                | Eficiente      |
-| Confuso        | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Evidente       |
-| Aborrecido     | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Excitante      |
-| Desinteressante| ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Interessante   |
-| Convencional   | ○ ○ ○ ○ ○ ○ ○ ○                                | Original       |
-| Comum          | ○ ○ ○ ○ ○ ○ ○ ○                                | Vanguardista   |
+### Link para o Relatório UEQ Online:
+[Relatório UEQ Online](https://onedrive.live.com/personal/c6a52d825040847a/_layouts/15/doc2.aspx?resid=2c413782-54c2-4034-84fe-dc27936ddeec&cid=c6a52d825040847a&ct=1728801614322&wdOrigin=OFFICECOM-WEB.START.UPLOAD&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=5ed75e1d-b19e-4863-873a-70dc7c77056d)
 
+### Resultados da Avaliação de UX:
+Os dados coletados pelo **UEQ Online** foram organizados em pares de adjetivos, onde os usuários avaliaram o site de acordo com sua experiência. A seguir, os principais resultados de quatro usuários diferentes:
 
+| Categoria      | Usuário 1                      | Usuário 2                      | Usuário 3                      | Usuário 4                      |
+|----------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○              | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○               | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○               | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○               |
+| Complicado     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○               | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○               | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○              | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○               |
+| Ineficiente    | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                 | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                 | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                |
+| Confuso        | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○               | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○               | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○               | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○               |
+| Aborrecido     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○               | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○              | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○              | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○               |
+| Desinteressante| ○ ○ ○ ○ ○ ○ ○ ○ ○ ○             | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○            | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○             | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○             |
+| Convencional   | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                 | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                 |
+| Comum          | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                 | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                 | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                 |
 
-**USUÁRIO 2:**
+---
 
-|                |                                                |                |
-|----------------|------------------------------------------------|----------------|
-| Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Condutor       |
-| Complicado     | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Fácil          |
-| Ineficiente    | ○ ○ ○ ○ ○ ○ ○ ○                                | Eficiente      |
-| Confuso        | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Evidente       |
-| Aborrecido     | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Excitante      |
-| Desinteressante| ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Interessante   |
-| Convencional   | ○ ○ ○ ○ ○ ○ ○ ○                                | Original       |
-| Comum          | ○ ○ ○ ○ ○ ○ ○ ○                                | Vanguardista   |
-
-
-**USUÁRIO 3:**
-
-|                |                                                |                |
-|----------------|------------------------------------------------|----------------|
-| Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Condutor       |
-| Complicado     | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Fácil          |
-| Ineficiente    | ○ ○ ○ ○ ○ ○ ○ ○                                | Eficiente      |
-| Confuso        | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Evidente       |
-| Aborrecido     | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Excitante      |
-| Desinteressante| ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Interessante   |
-| Convencional   | ○ ○ ○ ○ ○ ○ ○ ○                                | Original       |
-| Comum          | ○ ○ ○ ○ ○ ○ ○ ○                                | Vanguardista   |
-
-
-**USUÁRIO 4:**
-
-|                |                                                |                |
-|----------------|------------------------------------------------|----------------|
-| Obstrutivo     | ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Condutor       |
-| Complicado     | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Fácil          |
-| Ineficiente    | ○ ○ ○ ○ ○ ○ ○ ○                                | Eficiente      |
-| Confuso        | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Evidente       |
-| Aborrecido     | ○ ○ ○ ○ ○ ○ ○ ○ ○                              | Excitante      |
-| Desinteressante| ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                            | Interessante   |
-| Convencional   | ○ ○ ○ ○ ○ ○ ○ ○                                | Original       |
-| Comum          | ○ ○ ○ ○ ○ ○ ○ ○                                | Vanguardista   |
+Com essa análise detalhada das métricas e da experiência dos usuários, podemos identificar claramente áreas que necessitam de melhorias no site, tanto em termos de acessibilidade quanto de usabilidade, visando proporcionar uma navegação mais fluida e inclusiva para todos os perfis de usuários.
 
 
