@@ -75,9 +75,75 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | **Tarefa 1**       |                      |                          |                             |                              |
-| Valdeney Brasil    |                      |                          |                             |                              |
-| Victor Barbosa     |                      |                          |                             |                              |
-| Larissa            |                      |                          |                             |                              |
+| XX                 |                      |                          |                             |                              |
+| Matheus Azevedo    |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| **Mediana**        |                      |                          |                             |                              |
+
+### Tarefa 2
+
+| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
+| **Tarefa 2**       |                      |                          |                             |                              |
+| XX                 |                      |                          |                             |                              |
+| Matheus Azevedo    |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| **Mediana**        |                      |                          |                             |                              |
+
+### Tarefa 3
+
+| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
+| **Tarefa 3**       |                      |                          |                             |                              |
+| XX                 |                      |                          |                             |                              |
+| Matheus Azevedo    |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| **Mediana**        |                      |                          |                             |                              |
+
+### Tarefa 4
+
+| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
+| **Tarefa 4**       |                      |                          |                             |                              |
+| XX                 |                      |                          |                             |                              |
+| Matheus Azevedo    |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| **Mediana**        |                      |                          |                             |                              |
+
+### Tarefa 5
+
+| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
+| **Tarefa 5**       |                      |                          |                             |                              |
+| XX                 |                      |                          |                             |                              |
+| Matheus Azevedo    |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| **Mediana**        |                      |                          |                             |                              |
+
+### Tarefa 6
+
+| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
+| **Tarefa 6**       |                      |                          |                             |                              |
+| XX                 |                      |                          |                             |                              |
+| Matheus Azevedo    |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| **Mediana**        |                      |                          |                             |                              |
+
+### Tarefa 7
+
+| **Participante**   | **Tempo Gasto (M1)** | **Número de Erros (M2)** | **Número de Confusão (M3)** | **Solicitação de Ajuda (M4)** |
+|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
+| **Tarefa 7**       |                      |                          |                             |                              |
+| XX                 |                      |                          |                             |                              |
+| Matheus Azevedo    |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
 | xx                 |                      |                          |                             |                              |
 | **Mediana**        |                      |                          |                             |                              |
 
