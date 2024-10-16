@@ -156,6 +156,8 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 ------
 
+### TABELA DE QUANTIDADE DE ETIQUETAS ENCONTRADAS
+
 | **Etiqueta**      | **Quantidade** |
 |-------------------|----------------|
 | Cadê              |                |
