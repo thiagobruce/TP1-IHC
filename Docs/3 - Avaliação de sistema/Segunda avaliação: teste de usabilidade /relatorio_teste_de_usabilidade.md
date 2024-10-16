@@ -142,6 +142,36 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | xx                 |                      |                          |                             |                              |
 | **Mediana**        |                      |                          |                             |                              |
 
+### Tarefa 8
+
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
+|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
+| Luciana Souza      |    15 segundos                  |   0                        |   0                           | 0                               |
+| Matheus Azevedo    |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| **Mediana**        |                      |                          |                             |                              |
+
+### Tarefa 9
+
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
+|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
+| Luciana Souza      |    15 segundos                  |   0                        |   0                           | 0                               |
+| Matheus Azevedo    |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| **Mediana**        |                      |                          |                             |                              |
+
+### Tarefa 10
+
+| **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
+|-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
+| Luciana Souza      |    15 segundos                  |   0                        |   0                           | 0                               |
+| Matheus Azevedo    |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| xx                 |                      |                          |                             |                              |
+| **Mediana**        |                      |                          |                             |                              |
+
 ---
 
 
