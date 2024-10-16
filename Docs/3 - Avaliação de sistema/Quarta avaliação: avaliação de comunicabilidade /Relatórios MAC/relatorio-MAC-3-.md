@@ -1,13 +1,2 @@
-# Tabela 1 – Resultados da interpretação das etiquetas
+# RELATÓRIO DE AVALIAÇÃO DE COMUNICABILIDADE - MAC
 
-
-
-
-
-
-
-
-
-
-
-# Tabela 2 – Elaboração do perfil semiótico
