@@ -112,3 +112,18 @@
 
 ------
 
+| **Etiqueta**      | **Quantidade** |
+|-------------------|----------------|
+| Cadê              |                |
+| E agora?          |                |
+| O que e isto?     |                |
+| Epa!              |                |
+| Onde estou?       |                |
+| Assim não dá.     |                |
+| Por que não funciona?        |                |
+| Ué, o que houve?        |                |
+| Pra mim está bom...        |                |
+| Desisto!       |                |
+| Vai de outro jeito.       |                |
+| Não, obtigado.      |                |
+| socorro      |                |
