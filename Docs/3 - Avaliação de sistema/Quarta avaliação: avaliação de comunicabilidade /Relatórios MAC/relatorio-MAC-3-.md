@@ -66,7 +66,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    |                                                                    |
+| P1    | Concluiu                                                                   |
 | P2    |                                                                    |
 | P3    |                                                                    |
 | P4    |                                                                    |
@@ -76,7 +76,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    |                                                                    |
+| P1    | Não Concluiu                                                                  |
 | P2    |                                                                    |
 | P3    |                                                                    |
 | P4    |                                                                    |
@@ -86,7 +86,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    |                                                                    |
+| P1    | Concluiu                                                                   |
 | P2    |                                                                    |
 | P3    |                                                                    |
 | P4    |                                                                    |
@@ -95,7 +95,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    |                                                                    |
+| P1    | Concluiu                                                                   |
 | P2    |                                                                    |
 | P3    |                                                                    |
 | P4    |                                                                    |
@@ -104,7 +104,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    |                                                                    |
+| P1    |  -                                                                  |
 | P2    |                                                                    |
 | P3    |                                                                    |
 | P4    |                                                                    |
@@ -113,7 +113,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    |                                                                    |
+| P1    | Concluiu                                                                   |
 | P2    |                                                                    |
 | P3    |                                                                    |
 | P4    |                                                                    |
@@ -122,7 +122,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    |                                                                    |
+| P1    | Concluiu                                                                   |
 | P2    |                                                                    |
 | P3    |                                                                    |
 | P4    |                                                                    |
@@ -131,7 +131,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    |                                                                    |
+| P1    | Concluiu                                                                   |
 | P2    |                                                                    |
 | P3    |                                                                    |
 | P4    |                                                                    |
@@ -140,7 +140,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    |                                                                    |
+| P1    | Concluiu                                                                   |
 | P2    |                                                                    |
 | P3    |                                                                    |
 | P4    |                                                                    |
@@ -149,7 +149,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Participante** | **Resultado**                                           |
 |------------------|---------------------------------------------------------|
-| P1    |                                                                    |
+| P1    | -                                                                   |
 | P2    |                                                                    |
 | P3    |                                                                    |
 | P4    |                                                                    |
@@ -168,7 +168,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 | Assim não dá.     |                |
 | Por que não funciona?        |                |
 | Ué, o que houve?        |                |
-| Pra mim está bom...        |                |
+| Pra mim está bom...        | 1               |
 | Desisto!       |                |
 | Vai de outro jeito.       |                |
 | Não, obtigado.      |                |
