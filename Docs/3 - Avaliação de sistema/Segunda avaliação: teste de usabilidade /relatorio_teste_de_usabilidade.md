@@ -59,7 +59,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | Luciana Souza      | 20 Segundos          | 0                        | 0                           |  0                           |
-| Matheus Azevedo    |                      |                          |                             |                              |
+| Matheus Azevedo    | 3 minutos            |  0                       | 0                           |  0                           |
 | xx                 |                      |                          |                             |                              |
 | Jucinei torres     |  40 Segundos         |  0                       |   0                         |    0                         |
 
@@ -68,7 +68,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | Luciana Souza      |  50 segundos         |  0                       |  1                          |  0                            |
-| Matheus Azevedo    |                      |                          |                             |                              |
+| Matheus Azevedo    |  1 minuto            |  0                       |  0                          |  0                           |
 | xx                 |                      |                          |                             |                              |
 | Jucunei Torres     |  50 segundos         |   0                      |  1                          |  0                           |
 
@@ -77,7 +77,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | Luciana Souza      | 1 minuto             |  0                       |   0                         | 0                            |
-| Matheus Azevedo    |                      |                          |                             |                              |
+| Matheus Azevedo    |  5 segundos          |  0                       |    0                        |  0                           |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |  1 minuto            |  0                       |   0                         | 0                            |
 
@@ -86,7 +86,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | Luciana Souza      |  15 segundos         |  0                       |     0                       |  0                           |
-| Matheus Azevedo    |                      |                          |                             |                              |
+| Matheus Azevedo    |  1 minuto            |  0                       |    0                        |  0                           |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |  40 segundos         |  1                       |  0                          |     0                        |
 
@@ -94,8 +94,8 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |  Não Realizou                   |   -                     |  -                          | -                             |
-| Matheus Azevedo    |                      |                          |                             |                              |
+| Luciana Souza      |  Não realizou       | 0            | 0                | 0                |
+| Matheus Azevedo    |  1 minuto            |  0                       |    0                        |  0                           |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |  50 segundos         |  0                       |  1                          |  0                           |
 | **Mediana**        |                      |                          |                             |                              |
@@ -105,7 +105,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | Luciana Souza      |  20 segundos         | 0                        |   0                         |   0                          |
-| Matheus Azevedo    |                      |                          |                             |                              |
+| Matheus Azevedo    |  Não realizou       | 0            | 0                | 0                |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |   30 segundos        |  0                       |  0                          | 0                            |
 
@@ -114,7 +114,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | Luciana Souza      |    15 segundos       |   0                      |   0                         | 0                            |
-| Matheus Azevedo    |                      |                          |                             |                              |
+| Matheus Azevedo    |  1 minuto            |  0                       |    0                        |  0                           |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |   25 segundos        |  0                       | 0                           |   0                          |
 
@@ -122,8 +122,8 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |    20 segundos       |   0                      |   0                         | 0                            |
-| Matheus Azevedo    |                      |                          |                             |                              |
+| Luciana Souza      |    15 segundos       |   0                      |   0                         | 0                            |
+| Matheus Azevedo    |  10 segundos         |  0                       |    0                        |  0                           |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |   30 segundos        | 0                        | 0                           |   0                          |
 
@@ -132,7 +132,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
 | Luciana Souza      |    15 segundos       |   0                      |   0                         | 0                            |
-| Matheus Azevedo    |                      |                          |                             |                              |
+| Matheus Azevedo    | 5 segundos           |   0                      | 0                           | 0                            |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |  30 segundos         | 0                        | 1                           |0                             |
 
@@ -140,8 +140,8 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 | **Participante**   | **Tempo Gasto** | **Número de Erros** | **Número de Confusão** | **Solicitação de Ajuda** |
 |-------------------|----------------------|--------------------------|-----------------------------|------------------------------|
-| Luciana Souza      |   Não Realizou                   |   -                        |   -                           | -                               |
-| Matheus Azevedo    |                      |                          |                             |                              |
+| Luciana Souza      |    15 segundos       |   0                        |   0                           | 0            |
+| Matheus Azevedo    |    30 segundos       |   0                      |   1                         |    0                          |
 | xx                 |                      |                          |                             |                              |
 | Jucinei Torres     |    25 segundos       | 0                        | 0                           | 0                            |
 
