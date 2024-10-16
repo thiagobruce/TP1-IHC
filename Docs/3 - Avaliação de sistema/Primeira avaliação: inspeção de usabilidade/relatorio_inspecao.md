@@ -96,9 +96,9 @@ As tabelas a seguir apresentam a quantidade de violações identificadas e a sev
 | Severidade        | Quantidade |
 |-------------------|------------|
 | **Falso-Positivo** | 1          |
-| **Cosmético**      | 0          |
+| **Cosmético**      | 0          | 
 | **Leve**           | 2          |
-| **Grande**         | 6          |
-| **Catastrófico**   | 2          |
+| **Grande**         | 4          |
+| **Catastrófico**   | 0          |
 
 ----
