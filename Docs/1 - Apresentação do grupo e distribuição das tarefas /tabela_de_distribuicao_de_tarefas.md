@@ -9,7 +9,6 @@
 - **T2: Inspeção de usabilidade**
 - **T3: Aplicação da avaliação de UX**
 - **T4: Elaboração dos testes de comunicabilidade**
-<br/>
 
 ----
 
