@@ -5,6 +5,7 @@
 - **A4**: **Thiago Bruce Torres #22252679**
 <br/>
 # Tarefas 
+
 - **T1: Formatação do github**
 - **T2: Inspeção de usabilidade**
 - **T3: Aplicação da avaliação de UX**
