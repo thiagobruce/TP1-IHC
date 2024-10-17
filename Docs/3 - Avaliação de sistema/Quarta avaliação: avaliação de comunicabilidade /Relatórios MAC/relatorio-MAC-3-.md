@@ -25,6 +25,18 @@ Este relatório documenta o processo de avaliação de usabilidade realizado uti
 
 ## 3. Perfis dos Usuários
 
+#### 1. **Jovens Adultos (18 a 35 anos)**
+- **Características**: Esse grupo é formado por jovens adultos conectados ao mundo digital, que valorizam a facilidade e rapidez ao fazerem seus pedidos de lanches, com preferência em plataformas de pedido online. Muitos são estudantes ou profissionais que utilizam o serviço durante intervalos ou no fim do dia.
+- **Habilidades técnicas:**: Confortáveis com aplicativos móveis e navegação na internet.
+- **Contexto de Uso**: Geralmente utilizam a plataforma em momentos de lazer, após o trabalho ou estudos, ou durante eventos sociais com amigos. Eles tendem a preferir a personalização dos pedidos e as opções de delivery rápido.
+- **Responsabilidades dentro da aplicação**: Fazer pedidos, acompanhar o status, utilizar diferentes formas de pagamento e avaliar o serviço após a entrega.
+
+#### 2. **Famílias com Crianças (25 a 45 anos)**
+- **Características**: Pais que buscam uma refeição prática para si e seus filhos, optando pela conveniência de pedir online ao invés de preparar refeições em casa. Este perfil inclui tanto pais ocupados com rotinas de trabalho quanto aqueles que buscam uma opção mais descontraída para refeições rápidas com a família.
+-  **Habilidades técnicas:**:   Familiarizados com aplicativos móveis e navegação na internet.
+- **Contexto de Uso**: Utilizam a plataforma para pedidos em momentos de descontração familiar, como almoços rápidos ou jantares informais. A facilidade de navegação e a possibilidade de customizar pedidos são importantes para atender diferentes preferências alimentares.
+- **Responsabilidades dentro da aplicação**: Escolher opções para toda a família, ajustar os pedidos conforme preferências de sabor ou restrições alimentares, gerenciar o pagamento e avaliar o serviço após a entrega.
+
 ---
 
 ## 4. Estrutura do Processo
