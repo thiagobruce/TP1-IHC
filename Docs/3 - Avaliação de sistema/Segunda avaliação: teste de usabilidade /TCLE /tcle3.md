@@ -48,10 +48,11 @@ Assinatura:
 
 
 **Avaliador**  
-Nome: Kayth Kariny Marques Pinheiro
 
-Assinatura:
+Nome: Susie Laureen Marques Farias
 
-<img src="https://github.com/user-attachments/assets/54aa30f8-c1c2-4d71-bee7-6cbe7b65a57a" alt="assinaturakayth" width="300"/>
+Assinatura: 
+
+<img src="https://github.com/user-attachments/assets/0f3c474b-5afe-45e5-a875-1ec649c3d84f" alt="assinaturasusiefarias" width=200>
 
 
