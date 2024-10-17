@@ -190,12 +190,6 @@ O teste piloto permitiu identificar possíveis falhas no ambiente de teste e no 
 
 ![WhatsApp Image 2024-10-16 at 23 34 45](https://github.com/user-attachments/assets/864f7b86-b194-49e6-b29a-f18a95d59b84)
 
-## Análise do Tempo Médio por Tarefa
-
-Analisamos o desempenho de quatro participantes em diferentes tarefas, observando o tempo médio gasto em cada uma delas, bem como a quantidade de erros cometidos.
-
----
-
 ## Descrição dos Dados  
 O gráfico em análise apresenta o tempo médio em segundos que os participantes gastaram para concluir cada tarefa, além da indicação do número de erros cometidos. As tarefas foram realizadas por quatro participantes, e a análise detalha o desempenho em 10 tarefas distintas.
 
