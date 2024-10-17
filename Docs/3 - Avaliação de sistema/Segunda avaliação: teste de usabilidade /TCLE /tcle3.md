@@ -31,7 +31,7 @@ O responsável pela avaliação poderá fornecer qualquer esclarecimento ou tira
 ### 6. Declaração de Consentimento
 Li ou alguém leu para mim as informações contidas neste documento antes de assinar este termo de consentimento. Declaro que toda a linguagem técnica foi explicada de forma satisfatória e que recebi respostas para todas as minhas dúvidas. Confirmo também que recebi uma cópia deste Termo de Consentimento Livre e Esclarecido. Compreendo que sou livre para me retirar do estudo a qualquer momento, sem qualquer penalidade. Declaro ter mais de 18 anos e dou meu consentimento de livre e espontânea vontade para participar deste estudo.
 
-**Local**: Rua Dib Barbosa, Nº 43, Bairro São Cristóvão
+**Local**: São Francisco, *3452*
 
 **Data**: 14/10/2024
 
@@ -43,7 +43,7 @@ Nome: Valdeney Brasil
 
 Assinatura:
 
-<img src="https://github.com/user-attachments/assets/26ebec1a-a0c8-4077-83b2-ecb7d1dd0cc3" alt="WhatsApp Image 2024-10-16 at 00 16 35" width="300"/>
+<img src="https://github.com/user-attachments/assets/bd43562b-8f34-465a-8ed7-e5afa535a703" alt="WhatsApp Image 2024-10-16 at 00 16 35" width="300"/>
 
 
 
