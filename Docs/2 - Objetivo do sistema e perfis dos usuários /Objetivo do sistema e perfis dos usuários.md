@@ -2,7 +2,10 @@
 
 ## 2.1 Domínio e objetivo do sistema
 
-O domínio de aplicação do sistema **Siri Cascudo Lanchonete** consiste no comércio eletrônico (e-commerce), com foco específico em serviços de alimentação e delivery. A plataforma, até o presente momento, está na versão 2.36.7 e oferece cartelas de fidelidade, promoções e descontos. Desenvolvida com o objetivo de oferecer uma experiência prática e eficiente para pedidos online, o site atende às necessidades de clientes que preferem fazer pedidos digitais de lanches sem complicações e que valorizam a rapidez e facilidade. Seus clientes, em sua maioria, têm um conhecimento aceitável em tecnologia, apresentam principalmente dificuldades em XXX e possuem expectativa em XXX. Portanto, como designers, nosso objetivo está focado na qualidade de uso do usuário, nesse caso, esse usuário é um cliente de pedidos online, a fim de gerar emoções positivas e possibilitar que atinjam seus objetivos de forma eficiente, minimizando erros.
+O **Siri Cascudo Lanchonete** é um sistema de comércio eletrônico (e-commerce) especializado em serviços de alimentação e delivery. Atualmente, a plataforma está na versão 2.36.7 e oferece diversas funcionalidades, como cartelas de fidelidade, promoções e descontos. 
+Desenvolvida para proporcionar uma experiência prática e eficiente para pedidos online, o site atende às necessidades dos clientes que preferem fazer pedidos digitais de lanches de forma descomplicada, priorizando rapidez e conveniência. A maioria dos nossos clientes possui um conhecimento razoável em tecnologia, mas enfrenta algumas dificuldades.
+Como designers, nosso foco é aprimorar a qualidade da experiência do usuário, neste caso, o cliente que realiza pedidos online. Nosso objetivo é gerar emoções positivas e facilitar o alcance de suas metas de forma eficiente, minimizando a possibilidade de erros ao longo do processo.
+
 
 Entre os recursos existentes no site para atingir esses objetivos, os usuários podem acessar um cardápio variado, realizar pedidos personalizados e acompanhar o status da preparação e entrega em tempo real. A seguir, apresentaremos mais detalhes:                                        
 
