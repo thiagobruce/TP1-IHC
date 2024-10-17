@@ -168,19 +168,19 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 ### Participante 3
 | ID | Descrição do Problema                                                                                       | Fator de Usabilidade          |
 |----|-------------------------------------------------------------------------------------------------------------|-------------------------------|
-| 1  |  O usuário ficou com difiiculdade em encontrar a opção de se cadastrar                        |   Prevenção de Erros e Eficiência de Uso                                               |
-| 2  |  O usuário não sabe se finalizou a etapa de cadastro                                   |    Prevenção de Erros e Eficiência de Uso                                              |
-| 3  | O usuário não sabe se está na aba correta para fazer seu cadastro                                    |  Prevenção de Erros e Eficiência de Uso                                                |
-| 4  | O usuário não soube o que fazer após se cadastrar                                     |   Prevenção de Erros e Eficiência de Uso                                               |
-| 4  | O usuário teve dificuldade em em saber em que opção se personalizava a pizza            |                                                  |
-| 4  |                                      |                                                  |
-| 4  |                                      |                                                  |
-| 4  |                                      |                                                  |
-| 4  |                                      |                                                  |
-| 4  |                                      |                                                  |
-| 4  |                                      |                                                  |
-
-
+| 1  |  O usuário ficou com difiiculdade em encontrar a opção de se cadastrar                        |   Prevenção de Erros e Eficiência de Uso               |
+| 2  |  O usuário não sabe se finalizou a etapa de cadastro                                   |    Prevenção de Erros e Eficiência de Uso                     |
+| 3  | O usuário não sabe se está na aba correta para fazer seu cadastro                                    |  Prevenção de Erros e Eficiência de Uso       |
+| 4  | O usuário não soube o que fazer após se cadastrar                                     |   Prevenção de Erros e Eficiência de Uso           |
+| 5  | O usuário teve dificuldade em em saber em que opção se personalizava a pizza            |   Prevenção de Erros e Eficiência de Uso        |
+| 6  |  O usuário não consegue personalizar os ingredientes e tenta outra forma de fazer isso. |   Prevenção de Erros                  |
+| 7  | O usuário não sabe se finalizou a etapa de personalizar os ingredientes                 |    Prevenção de Erros e Eficiência de Uso                                               |
+| 8  | O usuário reabre o menu de pizza pois não sabe como realizar a etapa de personalizaçaõ   |    Prevenção de Erros e Eficiência de Uso                                               |
+| 9  | O usuário não conseguiu realizar a personalização da pizza                                     |   Prevenção de Erros e Eficiência de Uso                                                |
+| 10  | O usuário não encontra a opção de histórico de pedidos                                  |  Prevenção de Erros e Eficiência de Uso                                                |
+| 11  | O usuário sente dificuldade em encontrar a opção de formas de pagamento                  | Prevenção de Erros e Eficiência de Uso                                                 |
+| 12  | O usuário não soube como reagir ao sistema após diminuir quantidade do item para 0       |  Prevenção de Erros e Eficiência de Uso                                                |
+| 13  | O usuário procura pela aba de observação aleatoriamente                                  | Prevenção de Erros e Eficiência de Uso                                                 |
 
 
 ### Participante 4
@@ -189,6 +189,3 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 |----|-------------------------------------------------------------------------------------------------------------|-------------------------------|
 | 1  | Não estava conseguindo verificar se havia cupons  |                                                  |
 
-## Análise
-
----
