@@ -306,3 +306,35 @@ O desempenho dos participantes nas tarefas variou em função da complexidade e 
 |----|-------------------------------------------------------------------------------------------------------------|-------------------------------|
 | 1  | Não estava conseguindo verificar se havia cupons  |   Prevenção de Erros e Eficiência de Uso                                               |
 
+## Análise dos Dados Qualitativo
+
+### 1. Visibilidade do Status do Sistema
+A dificuldade em verificar cupons disponíveis foi reportada por dois participantes (1 e 4). Esse problema está relacionado à visibilidade do status do sistema, uma vez que os usuários não conseguem localizar facilmente informações críticas, como cupons de desconto. Isso indica que as informações importantes não estão sendo apresentadas de maneira clara ou acessível.
+
+### 2. Prevenção de Erros e Eficiência de Uso
+A grande maioria dos problemas está relacionada à prevenção de erros e eficiência de uso. Vários usuários relataram dificuldades em encontrar opções importantes como a localização de cupons aplicáveis, opção de cadastro, personalização de pizza, histórico de pedidos e formas de pagamento. Esses problemas sugerem que a navegação e o layout não se mostram intuitivos, causando frustração e demora, além de potencialmente levar a erros ao tentar concluir ações básicas. A recorrência desses problemas sugere que as funcionalidades essenciais não estão organizadas de maneira lógica ou fácil de encontrar.
+
+### 3. Incerteza nas Ações do Usuário
+Muitos usuários relataram incerteza sobre se as etapas foram concluídas corretamente (ex.: finalizar cadastro ou personalização de pizza). Isso pode ser resultado da falta de feedback imediato ou claro do sistema, o que prejudica a confiança do usuário ao interagir com o aplicativo.
+
+## Sugestões de Melhoria
+
+### 1. Melhorar a visibilidade das informações importantes
+As informações essenciais, como cupons de desconto, devem estar facilmente visíveis ou acessíveis a partir da página principal ou da etapa de checkout. Um banner ou notificação clara pode resolver esse problema e reduzir a frustração do usuário.
+
+### 2. Simplificar a navegação e categorizar opções de forma intuitiva
+A interface deve ser organizada de forma que as opções principais, como formas de pagamento, histórico de pedidos e personalização de pizza, estejam agrupadas e com etiquetas claras. Usar ícones bem definidos e menus de fácil acesso pode ajudar na eficiência de uso e prevenção de erros.
+
+### 3. Fornecer feedback imediato e detalhado ao usuário
+Após o usuário concluir uma ação, como cadastro ou personalização de pizza, o sistema deve fornecer um feedback claro (por exemplo, uma confirmação visual ou mensagem de conclusão). Isso vai reduzir a incerteza e garantir que o usuário saiba que completou as etapas corretamente.
+
+### 4. Revisar o fluxo de personalização
+A personalização da pizza foi uma das áreas com mais dificuldades reportadas. O fluxo de personalização deve ser simplificado, talvez com etapas guiadas ou uma visualização mais clara das opções e do progresso do usuário. Isso evita que o usuário fique confuso sobre como proceder ou se a personalização foi realizada corretamente.
+
+### 5. Educar os usuários sobre as funcionalidades
+Para novos usuários ou em atualizações, uma breve explicação ou tutorial sobre as principais funcionalidades do sistema pode ser útil. Isso pode ser feito através de dicas pop-up durante a navegação inicial ou um breve vídeo introdutório.
+
+
+Os problemas de usabilidade identificados sugerem que o sistema precisa de melhorias em termos de organização das informações e feedback ao usuário. Com ajustes simples no layout, visibilidade e interação, é possível melhorar a eficiência e a experiência geral dos usuários, garantindo um uso mais fluido e satisfatório da plataforma.
+
+-------
