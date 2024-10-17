@@ -2,7 +2,7 @@
 
 ## Estudo: “Teste de Usabilidade”
 
-### Prezada Jucinei Cunha Torres,
+### Prezada Jonilce da Silva Bruce,
 
 Você está sendo convidada a participar de uma avaliação de comunicabilidade na qual será abordada a interação com o sistema **Siri Cascudo Lanchonete** em um ambiente controlado. O objetivo da avaliação é investigar a qualidade da metacomunicação do designer para os usuários. Sua participação na avaliação não é obrigatória.
 
@@ -37,8 +37,8 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 ---
 
 **Participante**  
-Nome: Jucinei Cunha Torres  
-Assinatura: 
+Nome: Jonilce da Silva bruce  
+Assinatura: ![Captura de tela 2024-10-16 225144](https://github.com/user-attachments/assets/1ceebf67-2cb9-4cff-9bff-1e4df75f6416)
 
 **Avaliador**  
 Nome: Thiago Bruce Torres
