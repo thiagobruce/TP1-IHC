@@ -6,6 +6,7 @@ O **Siri Cascudo Lanchonete** é um sistema de comércio eletrônico (e-commerce
 
 Desenvolvida para proporcionar uma experiência prática e eficiente para pedidos online, o site atende às necessidades dos clientes que preferem fazer pedidos digitais de lanches de forma descomplicada, priorizando rapidez e conveniência. A maioria dos nossos clientes possui um conhecimento razoável em tecnologia, mas enfrenta algumas dificuldades.
 
+---
 Nosso foco é aprimorar a qualidade da experiência do usuário, neste caso, o cliente que realiza pedidos online. Nosso objetivo é gerar emoções positivas e facilitar o alcance de suas metas de forma eficiente, minimizando a possibilidade de erros ao longo do processo.
 
 
