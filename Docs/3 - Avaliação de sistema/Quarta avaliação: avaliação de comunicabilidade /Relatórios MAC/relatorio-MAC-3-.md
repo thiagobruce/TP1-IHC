@@ -95,7 +95,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 |------------------|-------------------|
 | P1               | Concluiu          |
 | P2               | Concluiu          |
-| P3               |                   |
+| P3               | Concluiu          |
 | P4               | Concluiu          |
 
 ### Tarefa 2
@@ -104,7 +104,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 |------------------|-------------------|
 | P1               | Não Concluiu      |
 | P2               | Concluiu          |
-| P3               |                   |
+| P3               | Concluiu          |
 | P4               | Não Concluiu      |
 
 ### Tarefa 3
@@ -113,7 +113,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 |------------------|-------------------|
 | P1               | Concluiu          |
 | P2               | Concluiu          |
-| P3               |                   |
+| P3               | Concluiu          |
 | P4               | Concluiu          |
 
 ### Tarefa 4
@@ -122,7 +122,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 |------------------|-------------------|
 | P1               | Concluiu          |
 | P2               | Concluiu          |
-| P3               |                   |
+| P3               | Concluiu          |
 | P4               | Concluiu          |
 
 ### Tarefa 5
@@ -131,7 +131,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 |------------------|-------------------|
 | P1               | Não realizou      |
 | P2               | Concluiu          |
-| P3               |                   |
+| P3               | Não concluiu      |
 | P4               | Não realizou      |
 
 ### Tarefa 6
@@ -140,7 +140,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 |------------------|-------------------|
 | P1               | Concluiu          |
 | P2               | Não concluiu      |
-| P3               |                   |
+| P3               | Concluiu          |
 | P4               | Concluiu          |
 
 ### Tarefa 7
@@ -149,7 +149,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 |------------------|-------------------|
 | P1               | Concluiu          |
 | P2               | Concluiu          |
-| P3               |                   |
+| P3               | Concluiu          |
 | P4               | Concluiu          |
 
 ### Tarefa 8
@@ -158,7 +158,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 |------------------|-------------------|
 | P1               | Concluiu          |
 | P2               | Concluiu          |
-| P3               |                   |
+| P3               | Concluiu          |
 | P4               | Concluiu          |
 
 ### Tarefa 9
@@ -167,7 +167,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 |------------------|-------------------|
 | P1               | Concluiu          |
 | P2               | Concluiu          |
-| P3               |                   |
+| P3               | Concluiu          |
 | P4               | Concluiu          |
 
 ### Tarefa 10
@@ -176,7 +176,7 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 |------------------|-------------------|
 | P1               | Não realizou      |
 | P2               | Não concluiu      |
-| P3               |                   |
+| P3               | Concluiu          |
 | P4               | Concluiu          |
 
 ---
@@ -185,16 +185,16 @@ Todos os participantes assinaram o TCLE antes de iniciar suas atividades, assegu
 
 | **Etiqueta**                    | **Quantidade** |
 |---------------------------------|----------------|
-| Cadê                            |                |
-| E agora?                        |                |
-| O que é isto?                  |                |
-| Epa!                            |                |
-| Onde estou?                     |                |
-| Assim não dá.                  |                |
+| Cadê                            |       6         |
+| E agora?                        |       8         |
+| O que é isto?                  |        5        |
+| Epa!                            |      4          |
+| Onde estou?                     |       1         |
+| Assim não dá.                  |        1        |
 | Por que não funciona?           |                |
-| Ué, o que houve?               |                |
-| Pra mim está bom...            |                |
-| Desisto!                       |                |
+| Ué, o que houve?               |        2        |
+| Pra mim está bom...            |        3        |
+| Desisto!                       |        2        |
 | Vai de outro jeito.             |                |
 | Não, obrigado.                  |                |
 | Socorro                         |                |
