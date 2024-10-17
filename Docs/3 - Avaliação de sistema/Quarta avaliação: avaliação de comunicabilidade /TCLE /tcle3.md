@@ -42,7 +42,7 @@ Li ou alguém leu para mim as informações contidas neste documento antes de as
 Nome: Luzinéia Rebelo Honorato
 Assinatura: 
 
-<img src= "https://github.com/user-attachments/assets/6c422b0c-1c2a-4518-b7c1-d0daf624e8c8" alt="assinaturavaldeneybrasil" width=200>
+<img src= "https://github.com/user-attachments/assets/dcb8c732-4713-456f-90db-2fbabb72fb68" width=200>
 
 
 
