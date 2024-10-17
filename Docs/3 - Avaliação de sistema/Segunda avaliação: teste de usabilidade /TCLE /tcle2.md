@@ -1,6 +1,6 @@
 # TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
 
-## Estudo: “Método de Avaliação de Comunicabilidade (MAC)”
+## Estudo: “Teste de Usabilidade”
 
 ### Prezado Matheus Azevedo,
 
