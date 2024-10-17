@@ -160,10 +160,10 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | 1  | Não conseguiu verificar cupons disponiveis                                     | Visibilidade do Status do Sistema               |
 
 ### Participante 2
-| ID | Descrição do Problema                                                                                       | Fator de Usabilidade          |
-|----|-------------------------------------------------------------------------------------------------------------|-------------------------------|
-| 1  | O usuário teve dificuldade em encontrar cupons de descontos para aplicar  | Prevencção de Erros e Eficiência de Uso  |
-| 2  | O usuário levou tempo demais para encontrar a pizza desejada, ver diferença de valores entre os tamanhos  | Prevenção de Erros  |
+| ID  | Descrição do Problema                                                                 | Fator de Usabilidade                   |
+|-----|---------------------------------------------------------------------------------------|----------------------------------------|
+| 1   | O usuário encontrou dificuldades para localizar cupons de desconto aplicáveis         | Prevenção de Erros e Eficiência de Uso |
+| 2   | O usuário demorou para encontrar a pizza desejada e comparar os preços entre tamanhos | Prevenção de Erros e Eficiência de Uso |
 
 ### Participante 3
 | ID | Descrição do Problema                                                                                       | Fator de Usabilidade          |
