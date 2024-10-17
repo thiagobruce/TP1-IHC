@@ -2,7 +2,7 @@
 
 ## Estudo: “Método de Avaliação de Comunicabilidade (MAC)”
 
-### Prezado Valdeney Brasil,
+### Prezada Luzinéia Rebelo Honorato,
 
 Você está sendo convidado a participar de uma avaliação de comunicabilidade na qual será abordado a interação com o sistema **Siri Cascudo Lanchonete** em um ambiente controlado. O objetivo da avaliação é investigar a qualidade da metacomunicação do designer para os usuários. Sua participação na avaliação não é obrigatória.
 
@@ -32,18 +32,17 @@ O responsável pela avaliação poderá fornecer qualquer esclarecimento ou tira
 ### 6. Declaração de Consentimento
 Li ou alguém leu para mim as informações contidas neste documento antes de assinar este termo de consentimento. Declaro que toda a linguagem técnica foi explicada de forma satisfatória e que recebi respostas para todas as minhas dúvidas. Confirmo também que recebi uma cópia deste Termo de Consentimento Livre e Esclarecido. Compreendo que sou livre para me retirar do estudo a qualquer momento, sem qualquer penalidade. Declaro ter mais de 18 anos e dou meu consentimento de livre e espontânea vontade para participar deste estudo.
 
-**Local**: São Francisco  (Casa *3452*)  
-**Data**: 13/10/2024
+**Local**: São Francisco  (Casa *3548*)  
+**Data**: 16/10/2024
 
 ---
 
 **Participante**  
 
-Nome: Valdeney Brasil
-
+Nome: Luzinéia Rebelo Honorato
 Assinatura: 
 
-<img src= "https://github.com/user-attachments/assets/8c667520-45a2-465a-96ec-ee22a14d759a" alt="assinaturavaldeneybrasil" width=200>
+<img src= "https://github.com/user-attachments/assets/6c422b0c-1c2a-4518-b7c1-d0daf624e8c8" alt="assinaturavaldeneybrasil" width=200>
 
 
 
