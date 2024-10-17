@@ -42,6 +42,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 # 3. Teste Piloto
 
+### Objetivo:
 Realizar um teste piloto para garantir o funcionamento adequado do ambiente de teste e verificar se todos os componentes do estudo estão apropriados e ajustados. Esse teste visa identificar problemas técnicos, validar a metodologia e assegurar que as tarefas sejam claras e executáveis pelos participantes.
 
 ## Etapas do Teste Piloto
@@ -189,10 +190,9 @@ O teste piloto permitiu identificar possíveis falhas no ambiente de teste e no 
 
 ![WhatsApp Image 2024-10-16 at 23 34 45](https://github.com/user-attachments/assets/864f7b86-b194-49e6-b29a-f18a95d59b84)
 
-# Relatório de Análise do Tempo Médio por Tarefa
+## Análise do Tempo Médio por Tarefa
 
-## Objetivo  
-Este relatório tem como objetivo analisar o desempenho de quatro participantes em diferentes tarefas, observando o tempo médio gasto em cada uma delas, bem como a quantidade de erros cometidos.
+Analisamos o desempenho de quatro participantes em diferentes tarefas, observando o tempo médio gasto em cada uma delas, bem como a quantidade de erros cometidos.
 
 ---
 
@@ -263,14 +263,10 @@ O gráfico em análise apresenta o tempo médio em segundos que os participantes
 3. *Taxa de Sucesso*: A maioria das tarefas foi concluída sem erros, sugerindo um bom desempenho dos participantes de forma geral, com apenas duas tarefas apresentando dificuldades significativas.
 
 4. *Variação de Complexidade*: A análise dos tempos mostra que as tarefas variaram em termos de dificuldade e familiaridade para os participantes. Tarefas mais longas (como 1, 3, 7 e 8) podem ter demandado mais esforço ou atenção.
-
----
-
-## Conclusão  
+  
 O desempenho dos participantes nas tarefas variou em função da complexidade e do tempo demandado por cada uma. No entanto, a maioria das atividades foi completada com sucesso, sem ocorrência de erros, demonstrando um nível elevado de compreensão das tarefas. A análise sugere que os esforços dos participantes se concentraram em manter a precisão, ainda que em algumas tarefas específicas isso tenha resultado em maior tempo de execução.
 
 ---
-
 
 ## **Dados Qualitativos**
 
