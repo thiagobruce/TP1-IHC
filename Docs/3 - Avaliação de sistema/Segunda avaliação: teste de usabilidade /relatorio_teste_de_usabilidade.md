@@ -40,8 +40,47 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 ---
 
-# 3. **Teste Piloto**
-- Realização de um teste piloto para verificar o correto funcionamento do ambiente e garantir que todos os componentes do teste estejam adequados.
+# 3. Teste Piloto
+
+### Objetivo
+Realizar um teste piloto para garantir o correto funcionamento do ambiente de teste e verificar se todos os componentes do estudo estão apropriados e ajustados. Esse teste visa identificar problemas técnicos, validar a metodologia, e garantir que as tarefas sejam claras e executáveis pelos participantes.
+
+### Etapas do Teste Piloto
+
+ **Preparação do Ambiente**
+   - Configuração do ambiente de teste, incluindo as ferramentas de gravação, plataforma de teste (site ou software), e os materiais de suporte (instruções, formulários de feedback).
+   - Verificação de que todos os dispositivos necessários estão prontos e funcionando, como computadores, tablets, ou smartphones, dependendo do contexto de uso.
+     
+ **Seleção de Tarefas**
+   - Definir um conjunto pequeno de tarefas representativas para o teste piloto. Exemplo:
+     - Navegar pelo site e encontrar uma categoria de produtos.
+     - Aplicar um cupom de desconto.
+     - Finalizar a compra de um produto.
+
+ **Participantes**
+   - Selecionar de 1 a 2 participantes para realizar o teste, simulando a experiência de um usuário comum.
+   - Os participantes devem ser representativos do público-alvo do sistema e realizar as tarefas propostas sem ajuda externa, apenas com as instruções fornecidas.
+
+ **Execução do Teste**
+   - O teste piloto é conduzido com os participantes selecionados, que devem realizar as tarefas enquanto o avaliador observa o comportamento e documenta quaisquer dificuldades ou problemas encontrados.
+   - Ferramentas de gravação de tela podem ser utilizadas para capturar a interação e o tempo gasto em cada tarefa.
+
+ **Coleta de Dados**
+   - Durante o teste, anotar:
+     - Tempo que os participantes demoram para concluir as tarefas.
+     - Quantidade de erros ou dificuldades encontradas em cada etapa.
+     - Feedback qualitativo dos participantes sobre a clareza das instruções e a experiência de uso.
+   - Exemplo de problemas anotados:
+     - "O botão de aplicar cupom não estava visível."
+     - "O tempo de carregamento da página foi muito lento."
+
+ **Resultados e Ajustes**
+   - Com base nos dados coletados, ajustar o ambiente de teste, as tarefas ou as instruções, caso problemas tenham sido identificados.
+   - Exemplo de ajuste:
+     - Se os participantes tiveram dificuldade em encontrar o botão de cupons, isso pode indicar a necessidade de reposicionar esse elemento antes de avançar para o teste completo.
+
+### Conclusão
+O teste piloto permitiu identificar possíveis falhas no ambiente de teste e no design das tarefas. As informações coletadas ajudaram a ajustar o fluxo de interação e a garantir que o sistema de teste esteja pronto para uma análise completa e eficaz. O feedback dos participantes foi essencial para corrigir pequenos problemas antes de iniciar o teste de usabilidade em larga escala.
 
 ---
 
