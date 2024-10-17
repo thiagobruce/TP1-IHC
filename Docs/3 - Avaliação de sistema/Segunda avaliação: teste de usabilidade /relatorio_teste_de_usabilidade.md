@@ -61,7 +61,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Luciana Souza      | 20 Segundos          | 0                        | 0                           |  0                           |
 | Matheus Azevedo    | 3 minutos            |  0                       | 0                           |  0                           |
 | Valdeney Brasil    |  1 minuto            |  0                        |  4                          |   0                           |
-| Jucinei torres     |  40 Segundos         |  0                       |   0                         |    0                         |
+| Jonilce Bruce      |  40 Segundos         |  0                       |   0                         |    0                         |
 
 ### Tarefa 2
 
@@ -70,7 +70,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Luciana Souza      |  50 segundos         |  0                       |  1                          |  0                            |
 | Matheus Azevedo    |  1 minuto            |  0                       |  0                          |  0                           |
 | Valdeney Brasil    |  2 minutos                    |  0                        |  5                           |  0                            |
-| Jucunei Torres     |  50 segundos         |   0                      |  1                          |  0                           |
+| Jonilce Bruce      |  50 segundos         |   0                      |  1                          |  0                           |
 
 ### Tarefa 3
 
@@ -79,7 +79,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Luciana Souza      | 1 minuto             |  0                       |   0                         | 0                            |
 | Matheus Azevedo    |  5 segundos          |  0                       |    0                        |  0                           |
 | Valdeney Brasil    |  4 minutos           |  1                        |   7                          | 0                             |
-| Jucinei Torres     |  1 minuto            |  0                       |   0                         | 0                            |
+| Jonlice Bruce      |  1 minuto            |  0                       |   0                         | 0                            |
 
 ### Tarefa 4
 
@@ -88,7 +88,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Luciana Souza      |  15 segundos         |  0                       |     0                       |  0                           |
 | Matheus Azevedo    |  1 minuto            |  0                       |    0                        |  0                           |
 | Valdeney Brasil    |  2 minutos            | 0                         |  4                           |   0                           |
-| Jucinei Torres     |  40 segundos         |  1                       |  0                          |     0                        |
+| Jonilce Bruce      |  40 segundos         |  1                       |  0                          |     0                        |
 
 ### Tarefa 5
 
@@ -97,7 +97,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Luciana Souza      |  Não realizou       | 0            | 0                | 0                |
 | Matheus Azevedo    |  1 minuto            |  0                       |    0                        |  0                           |
 | Valdeney Brasil    |  7 segundos          | 0                         |  0                           | 0                             |
-| Jucinei Torres     |  50 segundos         |  0                       |  1                          |  0                           |
+| Jonilce Bruce      |  50 segundos         |  0                       |  1                          |  0                           |
 | **Mediana**        |                      |                          |                             |                              |
 
 ### Tarefa 6
@@ -107,7 +107,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Luciana Souza      |  20 segundos         | 0                        |   0                         |   0                          |
 | Matheus Azevedo    |  Não realizou       | 0            | 0                | 0                |
 | Valdeney Brasil    |  1 minuto            | 0                         |  2                           |  0                            |
-| Jucinei Torres     |   30 segundos        |  0                       |  0                          | 0                            |
+| Jonilce Bruce      |   30 segundos        |  0                       |  0                          | 0                            |
 
 ### Tarefa 7
 
@@ -116,7 +116,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Luciana Souza      |    15 segundos       |   0                      |   0                         | 0                            |
 | Matheus Azevedo    |  1 minuto            |  0                       |    0                        |  0                           |
 | Valdeney Brasil    |  2 minutos           0  |  0                        |   3                          |   0                           |
-| Jucinei Torres     |   25 segundos        |  0                       | 0                           |   0                          |
+| Jonilce Bruce      |   25 segundos        |  0                       | 0                           |   0                          |
 
 ### Tarefa 8
 
@@ -125,7 +125,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Luciana Souza      |    15 segundos       |   0                      |   0                         | 0                            |
 | Matheus Azevedo    |  10 segundos         |  0                       |    0                        |  0                           |
 | Valdeney Brasil    |    4 minutos                  |  0                        |   1                          |  0                            |
-| Jucinei Torres     |   30 segundos        | 0                        | 0                           |   0                          |
+| Jonilce Bruce      |   30 segundos        | 0                        | 0                           |   0                          |
 
 ### Tarefa 9
 
@@ -134,7 +134,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Luciana Souza      |    15 segundos       |   0                      |   0                         | 0                            |
 | Matheus Azevedo    | 5 segundos           |   0                      | 0                           | 0                            |
 | Valdeney Brasil    |  2 minutos           | 0                         | 2                            | 0                             |
-| Jucinei Torres     |  30 segundos         | 0                        | 1                           |0                             |
+| Jonilce Bruce      |  30 segundos         | 0                        | 1                           |0                             |
 
 ### Tarefa 10
 
@@ -143,7 +143,7 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 | Luciana Souza      |    15 segundos       |   0                        |   0                           | 0            |
 | Matheus Azevedo    |    30 segundos       |   0                      |   1                         |    0                          |
 | Valdeney Brasil    |   16 segundos        |   0                       | 0                            |  0                            |
-| Jucinei Torres     |    25 segundos       | 0                        | 0                           | 0                            |
+| Jonilce Bruce      |    25 segundos       | 0                        | 0                           | 0                            |
 
 
 ## Análise
