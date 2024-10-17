@@ -1,6 +1,6 @@
 ## Conclusão
 
-O usuário sentiu muitas dificuldades em realizar as etapas dadas para interação com o site. Havia informações omitidas e ou outras que eram necessárias não existiam, isso deixou o usuário muitas vezes confuso e também por não ser intuitivo. 
+O usuário sentiu muitas dificuldades em realizar as etapas dadas para interação com o site. Havia informações omitidas e ou outras que eram necessárias não existiam, isso deixou o usuário muitas vezes confuso e também por não ser intuitivo. Ainda, embora ele tivesse concluído uma etapa, na verdade, ele apenas achou que havia concluído, devido a falta de feedback do sistema.
 
 ## Reflexão do Aprendizado
 
