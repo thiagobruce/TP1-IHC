@@ -2,7 +2,7 @@
 
 ### Conclusão
 
-Durante o processo de inspeção e avaliações, ficou evidente a importância de seguir cada etapa com atenção. Desde a definição das tarefas até a análise de dados, tudo contribuiu para identificar problemas e áreas de melhoria no sistema. Na avaliação de usabilidade, a preparação foi crucial para que os testes refletissem situações reais. Além disso, realizei uma análise dos dados qualitativos e quantitativos, calculando a média e criando gráficos que facilitaram a compreensão visual dos resultados. Na avaliação de comunicabilidade, a clareza nas interações e na transmissão de informações pelo sistema se mostrou essencial.
+Durante o processo de inspeção e avaliações, ficou evidente a importância de seguir cada etapa com atenção. Desde a definição das tarefas até a análise de dados, tudo contribuiu para identificar problemas e áreas de melhoria no sistema. Na avaliação de usabilidade, a preparação foi crucial para que os testes refletissem situações reais. Além disso, realizei uma análise dos dados quantitativos, calculando a média e criando gráficos que facilitaram a compreensão visual dos resultados. Na avaliação de comunicabilidade, a clareza nas interações e na transmissão de informações pelo sistema se mostrou essencial.
 
 Os principais desafios surgiram na aplicação imparcial dos testes e no manejo de questões técnicas, como gravação e monitoramento das interações. A troca de ideias na equipe foi fundamental para superar essas barreiras, permitindo que todos contribuíssem com insights valiosos.
 
