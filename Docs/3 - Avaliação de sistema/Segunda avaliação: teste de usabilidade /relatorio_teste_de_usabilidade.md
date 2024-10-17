@@ -42,45 +42,46 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 # 3. Teste Piloto
 
-### Objetivo
-Realizar um teste piloto para garantir o correto funcionamento do ambiente de teste e verificar se todos os componentes do estudo estão apropriados e ajustados. Esse teste visa identificar problemas técnicos, validar a metodologia, e garantir que as tarefas sejam claras e executáveis pelos participantes.
+## Objetivo
+Realizar um teste piloto para garantir o funcionamento adequado do ambiente de teste e verificar se todos os componentes do estudo estão apropriados e ajustados. Esse teste visa identificar problemas técnicos, validar a metodologia e assegurar que as tarefas sejam claras e executáveis pelos participantes.
 
-### Etapas do Teste Piloto
+## Etapas do Teste Piloto
 
- **Preparação do Ambiente**
-   - Configuração do ambiente de teste, incluindo as ferramentas de gravação, plataforma de teste (site ou software), e os materiais de suporte (instruções, formulários de feedback).
-   - Verificação de que todos os dispositivos necessários estão prontos e funcionando, como computadores, tablets, ou smartphones, dependendo do contexto de uso.
-     
- **Seleção de Tarefas**
-   - Definir um conjunto pequeno de tarefas representativas para o teste piloto. Exemplo:
-     - Navegar pelo site e encontrar uma categoria de produtos.
-     - Aplicar um cupom de desconto.
-     - Finalizar a compra de um produto.
+### 1. Preparação do Ambiente
+- **Configuração**: Organizar o ambiente de teste, incluindo ferramentas de gravação, a plataforma (site ou software) e materiais de suporte (instruções, formulários de feedback).
+- **Verificação de Equipamentos**: Garantir que todos os dispositivos necessários, como computadores, tablets ou smartphones, estejam prontos e funcionando, conforme o contexto de uso.
 
- **Participantes**
-   - Selecionar de 1 a 2 participantes para realizar o teste, simulando a experiência de um usuário comum.
-   - Os participantes devem ser representativos do público-alvo do sistema e realizar as tarefas propostas sem ajuda externa, apenas com as instruções fornecidas.
+### 2. Seleção de Tarefas
+- Definir um conjunto reduzido de tarefas representativas para o teste piloto. Exemplos:
+  - Navegar pelo site e encontrar uma categoria de produtos.
+  - Aplicar um cupom de desconto.
+  - Finalizar a compra de um produto.
 
- **Execução do Teste**
-   - O teste piloto é conduzido com os participantes selecionados, que devem realizar as tarefas enquanto o avaliador observa o comportamento e documenta quaisquer dificuldades ou problemas encontrados.
-   - Ferramentas de gravação de tela podem ser utilizadas para capturar a interação e o tempo gasto em cada tarefa.
+### 3. Participantes
+- Selecionar de 1 a 2 participantes que simulem a experiência de um usuário comum.
+- Os participantes devem ser representativos do público-alvo e realizar as tarefas propostas sem ajuda externa, apenas com as instruções fornecidas.
 
- **Coleta de Dados**
-   - Durante o teste, anotar:
-     - Tempo que os participantes demoram para concluir as tarefas.
-     - Quantidade de erros ou dificuldades encontradas em cada etapa.
-     - Feedback qualitativo dos participantes sobre a clareza das instruções e a experiência de uso.
-   - Exemplo de problemas anotados:
-     - "O botão de aplicar cupom não estava visível."
-     - "O tempo de carregamento da página foi muito lento."
+### 4. Execução do Teste
+- Conduzir o teste piloto com os participantes selecionados, observando seu comportamento e documentando dificuldades ou problemas encontrados.
+- Utilizar ferramentas de gravação de tela para capturar a interação e o tempo gasto em cada tarefa.
 
- **Resultados e Ajustes**
-   - Com base nos dados coletados, ajustar o ambiente de teste, as tarefas ou as instruções, caso problemas tenham sido identificados.
-   - Exemplo de ajuste:
-     - Se os participantes tiveram dificuldade em encontrar o botão de cupons, isso pode indicar a necessidade de reposicionar esse elemento antes de avançar para o teste completo.
+### 5. Coleta de Dados
+Durante o teste, anotar:
+- O tempo que os participantes levam para concluir as tarefas.
+- A quantidade de erros ou dificuldades encontradas em cada etapa.
+- Feedback qualitativo sobre a clareza das instruções e a experiência de uso.
 
-### Conclusão
-O teste piloto permitiu identificar possíveis falhas no ambiente de teste e no design das tarefas. As informações coletadas ajudaram a ajustar o fluxo de interação e a garantir que o sistema de teste esteja pronto para uma análise completa e eficaz. O feedback dos participantes foi essencial para corrigir pequenos problemas antes de iniciar o teste de usabilidade em larga escala.
+**Exemplos de problemas anotados**:
+- "O botão de aplicar cupom não estava visível."
+- "O tempo de carregamento da página foi muito lento."
+
+### 6. Resultados e Ajustes
+- Com base nos dados coletados, ajustar o ambiente de teste, as tarefas ou as instruções, se problemas forem identificados.
+  
+**Exemplo de ajuste**:
+- Se os participantes tiveram dificuldade em encontrar o botão de cupons, considere reposicionar esse elemento antes de avançar para o teste completo.
+
+O teste piloto permitiu identificar possíveis falhas no ambiente de teste e no design das tarefas. As informações coletadas foram cruciais para ajustar o fluxo de interação e garantir que o sistema de teste esteja pronto para uma análise completa e eficaz. O feedback dos participantes foi essencial para corrigir pequenos problemas antes do teste de usabilidade em larga escala.
 
 ---
 
@@ -185,7 +186,89 @@ O teste piloto permitiu identificar possíveis falhas no ambiente de teste e no 
 | Jonilce Bruce      |    25 segundos       | 0                        | 0                           | 0                            |
 
 
-## Análise
+## Análise dos Dados Quantitativos
+
+![WhatsApp Image 2024-10-16 at 23 34 45](https://github.com/user-attachments/assets/864f7b86-b194-49e6-b29a-f18a95d59b84)
+
+# Relatório de Análise do Tempo Médio por Tarefa
+
+## Objetivo  
+Este relatório tem como objetivo analisar o desempenho de quatro participantes em diferentes tarefas, observando o tempo médio gasto em cada uma delas, bem como a quantidade de erros cometidos.
+
+---
+
+## Descrição dos Dados  
+O gráfico em análise apresenta o tempo médio em segundos que os participantes gastaram para concluir cada tarefa, além da indicação do número de erros cometidos. As tarefas foram realizadas por quatro participantes, e a análise detalha o desempenho em 10 tarefas distintas.
+
+---
+
+## Análise por Tarefa  
+
+- *Tarefa 1*:  
+  - *Tempo Médio Gasto*: Cerca de 75 segundos.  
+  - *Erros*: 0.  
+  - *Análise*: O tempo relativamente elevado sugere que os participantes realizaram esta tarefa com cautela, o que resultou em uma execução sem erros.
+
+- *Tarefa 2*:  
+  - *Tempo Médio Gasto*: Cerca de 70 segundos.  
+  - *Erros*: 0.  
+  - *Análise*: Semelhante à Tarefa 1, a execução foi sem erros, mas ainda assim exigiu um tempo considerável, indicando uma tarefa que demandou atenção dos participantes.
+
+- *Tarefa 3*:  
+  - *Tempo Médio Gasto*: Aproximadamente 95 segundos (maior tempo registrado).  
+  - *Erros*: 1.  
+  - *Análise*: Esta tarefa foi a que mais consumiu tempo e apresentou um erro. Isso sugere que os participantes enfrentaram maiores dificuldades ou complexidades ao realizá-la.
+
+- *Tarefa 4*:  
+  - *Tempo Médio Gasto*: Cerca de 60 segundos.  
+  - *Erros*: 1.  
+  - *Análise*: Apesar do tempo médio ser inferior ao da Tarefa 3, a presença de um erro pode indicar que os participantes tentaram realizar a tarefa rapidamente, resultando em uma falha.
+
+- *Tarefa 5*:  
+  - *Tempo Médio Gasto*: Abaixo de 30 segundos.  
+  - *Erros*: 0.  
+  - *Análise*: A baixa média de tempo e a ausência de erros indicam que esta tarefa foi considerada simples ou intuitiva pelos participantes.
+
+- *Tarefa 6*:  
+  - *Tempo Médio Gasto*: Abaixo de 30 segundos.  
+  - *Erros*: 0.  
+  - *Análise*: Assim como a Tarefa 5, esta também foi completada rapidamente e sem falhas, sugerindo um bom entendimento da atividade por parte dos participantes.
+
+- *Tarefa 7*:  
+  - *Tempo Médio Gasto*: Cerca de 60 segundos.  
+  - *Erros*: 0.  
+  - *Análise*: Apesar de ser um pouco mais demorada que as Tarefas 5 e 6, não houve erros, indicando que a tarefa exigiu tempo, mas não foi complexa.
+
+- *Tarefa 8*:  
+  - *Tempo Médio Gasto*: Aproximadamente 80 segundos.  
+  - *Erros*: 0.  
+  - *Análise*: O tempo elevado sugere que a tarefa foi trabalhosa, mas a ausência de erros indica que a dificuldade não se traduziu em falhas.
+
+- *Tarefa 9*:  
+  - *Tempo Médio Gasto*: Cerca de 50 segundos.  
+  - *Erros*: 0.  
+  - *Análise*: O tempo moderado e a execução sem erros apontam que a tarefa foi realizada com eficiência.
+
+- *Tarefa 10*:  
+  - *Tempo Médio Gasto*: Abaixo de 20 segundos.  
+  - *Erros*: 0.  
+  - *Análise*: Esta foi a tarefa mais rápida, sugerindo simplicidade ou grande familiaridade dos participantes com a atividade.
+
+---
+
+## Considerações Gerais  
+1. *Tarefas com Maior Tempo e Erros*: As Tarefas 3 e 4 se destacaram por apresentarem tempos relativamente longos e registrarem um erro cada. Isso indica que estas tarefas eram possivelmente mais complexas ou apresentavam desafios específicos.
+
+2. *Tarefas com Menor Tempo e Sem Erros*: As Tarefas 5, 6 e 10, que tiveram os menores tempos médios e nenhuma ocorrência de erro, indicam que os participantes as consideraram fáceis e realizaram com agilidade.
+
+3. *Taxa de Sucesso*: A maioria das tarefas foi concluída sem erros, sugerindo um bom desempenho dos participantes de forma geral, com apenas duas tarefas apresentando dificuldades significativas.
+
+4. *Variação de Complexidade*: A análise dos tempos mostra que as tarefas variaram em termos de dificuldade e familiaridade para os participantes. Tarefas mais longas (como 1, 3, 7 e 8) podem ter demandado mais esforço ou atenção.
+
+---
+
+## Conclusão  
+O desempenho dos participantes nas tarefas variou em função da complexidade e do tempo demandado por cada uma. No entanto, a maioria das atividades foi completada com sucesso, sem ocorrência de erros, demonstrando um nível elevado de compreensão das tarefas. A análise sugere que os esforços dos participantes se concentraram em manter a precisão, ainda que em algumas tarefas específicas isso tenha resultado em maior tempo de execução.
 
 ---
 
