@@ -187,5 +187,5 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 | ID | Descrição do Problema                                                                                       | Fator de Usabilidade          |
 |----|-------------------------------------------------------------------------------------------------------------|-------------------------------|
-| 1  | Não estava conseguindo verificar se havia cupons  |                                                  |
+| 1  | Não estava conseguindo verificar se havia cupons  |   Prevenção de Erros e Eficiência de Uso                                               |
 
