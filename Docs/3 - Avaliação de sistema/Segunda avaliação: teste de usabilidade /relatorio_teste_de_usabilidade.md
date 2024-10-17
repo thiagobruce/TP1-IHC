@@ -42,7 +42,6 @@ Realizar um pedido na plataforma do Siri Cascudo Lanchonete, avaliando a usabili
 
 # 3. Teste Piloto
 
-## Objetivo
 Realizar um teste piloto para garantir o funcionamento adequado do ambiente de teste e verificar se todos os componentes do estudo estão apropriados e ajustados. Esse teste visa identificar problemas técnicos, validar a metodologia e assegurar que as tarefas sejam claras e executáveis pelos participantes.
 
 ## Etapas do Teste Piloto
